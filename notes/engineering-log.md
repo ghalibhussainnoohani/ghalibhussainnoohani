@@ -18,3 +18,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-13T22:48:48+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-02-13T10:52:01+05:00`: chore: update dependencies and bump minor versions
 - `2024-02-14T19:19:40+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-02-15T17:38:59+05:00`: refactor: decouple inference engine from websocket service
