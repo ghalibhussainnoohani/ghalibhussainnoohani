@@ -21,3 +21,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-15T17:38:59+05:00`: refactor: decouple inference engine from websocket service
 - `2024-02-15T20:04:21+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-02-16T20:54:26+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2024-02-16T19:28:42+05:00`: feat: add benchmark script for inference latency
