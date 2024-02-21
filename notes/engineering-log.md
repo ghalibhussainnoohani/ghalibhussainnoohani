@@ -24,3 +24,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-16T19:28:42+05:00`: feat: add benchmark script for inference latency
 - `2024-02-20T14:13:23+05:00`: feat: support custom bounding box color coding
 - `2024-02-21T10:12:05+05:00`: feat: implement retry policy for transient network drops
+- `2024-02-21T16:40:52+05:00`: fix: handle edge cases in coordinates normalization
