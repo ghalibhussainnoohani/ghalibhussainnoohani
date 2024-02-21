@@ -23,3 +23,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-16T20:54:26+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-02-16T19:28:42+05:00`: feat: add benchmark script for inference latency
 - `2024-02-20T14:13:23+05:00`: feat: support custom bounding box color coding
+- `2024-02-21T10:12:05+05:00`: feat: implement retry policy for transient network drops
