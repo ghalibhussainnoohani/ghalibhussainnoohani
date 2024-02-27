@@ -30,3 +30,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-22T21:40:19+05:00`: feat: add benchmark script for inference latency
 - `2024-02-23T12:34:16+05:00`: refactor: decouple inference engine from websocket service
 - `2024-02-26T21:30:38+05:00`: refactor: clean up utility functions and typing
+- `2024-02-27T12:17:51+05:00`: test: add unit tests for camera service initialization
