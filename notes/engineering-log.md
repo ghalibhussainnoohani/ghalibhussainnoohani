@@ -34,3 +34,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-28T18:10:36+05:00`: feat: add benchmark script for inference latency
 - `2024-02-29T20:29:50+05:00`: perf: optimize database query execution plan
 - `2024-02-29T21:36:40+05:00`: feat: add benchmark script for inference latency
+- `2024-03-01T22:57:21+05:00`: perf: optimize frame buffer allocation in streaming loop
