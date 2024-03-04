@@ -36,3 +36,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-02-29T21:36:40+05:00`: feat: add benchmark script for inference latency
 - `2024-03-01T22:57:21+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-03-01T15:10:56+05:00`: feat: add benchmark script for inference latency
+- `2024-03-04T22:45:57+05:00`: chore: format codebase and organize imports
