@@ -7,3 +7,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-05T19:19:15+05:00`: docs: document deployment architectures and configs
 - `2024-03-06T18:11:57+05:00`: fix: handle stream reconnection on socket drop
 - `2024-03-06T18:39:01+05:00`: refactor: clean up utility functions and typing
+- `2024-03-06T18:04:11+05:00`: test: add unit tests for camera service initialization
