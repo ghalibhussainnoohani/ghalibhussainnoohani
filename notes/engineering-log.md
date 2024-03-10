@@ -43,3 +43,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-06T10:13:16+05:00`: fix: handle stream reconnection on socket drop
 - `2024-03-08T14:36:19+05:00`: test: add unit tests for camera service initialization
 - `2024-03-08T20:00:25+05:00`: docs: document deployment architectures and configs
+- `2024-03-10T16:21:50+05:00`: fix: resolve race condition in connection manager
