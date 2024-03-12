@@ -15,3 +15,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-11T11:54:14+05:00`: feat: add benchmark script for inference latency
 - `2024-03-11T11:49:11+05:00`: refactor: clean up utility functions and typing
 - `2024-03-11T19:18:04+05:00`: fix: resolve race condition in connection manager
+- `2024-03-12T20:35:30+05:00`: feat: introduce async event emitter for telemetry
