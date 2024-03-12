@@ -46,3 +46,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-10T16:21:50+05:00`: fix: resolve race condition in connection manager
 - `2024-03-11T15:32:25+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-03-11T16:56:30+05:00`: refactor: clean up utility functions and typing
+- `2024-03-12T11:32:25+05:00`: feat: implement adaptive frame rate controller
