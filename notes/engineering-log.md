@@ -18,3 +18,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-12T20:35:30+05:00`: feat: introduce async event emitter for telemetry
 - `2024-03-13T12:14:30+05:00`: docs: update API documentation and endpoint schemas
 - `2024-03-14T16:02:28+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-03-14T14:30:06+05:00`: fix: resolve race condition in connection manager
