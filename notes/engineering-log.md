@@ -48,3 +48,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-11T16:56:30+05:00`: refactor: clean up utility functions and typing
 - `2024-03-12T11:32:25+05:00`: feat: implement adaptive frame rate controller
 - `2024-03-14T11:04:20+05:00`: fix: correct timestamp offset in audit logger
+- `2024-03-14T15:07:51+05:00`: fix: handle edge cases in coordinates normalization
