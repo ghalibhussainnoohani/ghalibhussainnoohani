@@ -51,3 +51,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-14T15:07:51+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-03-19T20:11:07+05:00`: feat: introduce async event emitter for telemetry
 - `2024-03-19T21:11:12+05:00`: feat: add benchmark script for inference latency
+- `2024-03-19T10:26:11+05:00`: docs: document deployment architectures and configs
