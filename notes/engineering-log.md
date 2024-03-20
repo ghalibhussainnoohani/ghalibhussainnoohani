@@ -53,3 +53,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-19T21:11:12+05:00`: feat: add benchmark script for inference latency
 - `2024-03-19T10:26:11+05:00`: docs: document deployment architectures and configs
 - `2024-03-20T12:40:58+05:00`: feat: implement adaptive frame rate controller
+- `2024-03-20T20:40:56+05:00`: docs: update API documentation and endpoint schemas
