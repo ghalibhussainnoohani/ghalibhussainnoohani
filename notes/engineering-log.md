@@ -26,3 +26,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-19T13:36:11+05:00`: chore: update dependencies and bump minor versions
 - `2024-03-19T22:14:55+05:00`: feat: support custom bounding box color coding
 - `2024-03-20T13:07:35+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-03-21T17:34:35+05:00`: docs: document deployment architectures and configs
