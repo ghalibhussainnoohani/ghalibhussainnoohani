@@ -29,3 +29,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-21T17:34:35+05:00`: docs: document deployment architectures and configs
 - `2024-03-21T15:14:25+05:00`: perf: reduce memory footprint during model warmup
 - `2024-03-22T17:21:09+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-03-22T17:49:39+05:00`: refactor: simplify request validation middleware
