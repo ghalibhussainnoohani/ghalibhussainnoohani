@@ -32,3 +32,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-22T17:49:39+05:00`: refactor: simplify request validation middleware
 - `2024-03-22T19:35:56+05:00`: refactor: simplify request validation middleware
 - `2024-03-25T22:59:06+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-03-25T19:26:27+05:00`: perf: enable zero-copy tensor conversion where available
