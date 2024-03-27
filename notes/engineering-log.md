@@ -57,3 +57,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-22T16:34:40+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-03-22T20:04:25+05:00`: feat: integrate health check ping for active streams
 - `2024-03-26T15:31:05+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2024-03-27T17:18:05+05:00`: refactor: clean up utility functions and typing
