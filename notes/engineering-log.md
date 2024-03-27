@@ -35,3 +35,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-25T19:26:27+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-03-26T17:51:35+05:00`: feat: implement retry policy for transient network drops
 - `2024-03-26T17:01:41+05:00`: chore: update dependencies and bump minor versions
+- `2024-03-27T18:37:08+05:00`: docs: add setup instructions for local development
