@@ -59,3 +59,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-26T15:31:05+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-03-27T17:18:05+05:00`: refactor: clean up utility functions and typing
 - `2024-03-27T20:56:59+05:00`: refactor: decouple inference engine from websocket service
+- `2024-03-29T16:23:55+05:00`: fix: handle edge cases in coordinates normalization
