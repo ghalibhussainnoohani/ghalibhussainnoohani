@@ -39,3 +39,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-27T10:55:38+05:00`: chore: update dependencies and bump minor versions
 - `2024-03-28T19:42:53+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-03-29T10:53:41+05:00`: feat: introduce async event emitter for telemetry
+- `2024-03-29T12:26:15+05:00`: fix: handle stream reconnection on socket drop
