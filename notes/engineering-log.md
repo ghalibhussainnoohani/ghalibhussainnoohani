@@ -40,3 +40,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-28T19:42:53+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-03-29T10:53:41+05:00`: feat: introduce async event emitter for telemetry
 - `2024-03-29T12:26:15+05:00`: fix: handle stream reconnection on socket drop
+- `2024-03-31T21:12:58+05:00`: perf: optimize frame buffer allocation in streaming loop
