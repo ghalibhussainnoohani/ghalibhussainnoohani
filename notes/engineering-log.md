@@ -65,3 +65,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-29T21:03:18+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-03-31T22:19:26+05:00`: chore: format codebase and organize imports
 - `2024-03-31T12:21:21+05:00`: test: add unit tests for camera service initialization
+- `2024-03-31T12:20:49+05:00`: perf: enable zero-copy tensor conversion where available
