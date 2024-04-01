@@ -43,3 +43,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-31T21:12:58+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-03-31T14:56:33+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-04-01T15:57:26+05:00`: refactor: decouple inference engine from websocket service
+- `2024-04-01T22:31:53+05:00`: docs: add setup instructions for local development
