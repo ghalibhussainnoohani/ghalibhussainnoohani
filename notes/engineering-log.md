@@ -44,3 +44,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-03-31T14:56:33+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-04-01T15:57:26+05:00`: refactor: decouple inference engine from websocket service
 - `2024-04-01T22:31:53+05:00`: docs: add setup instructions for local development
+- `2024-04-02T10:22:51+05:00`: feat: support custom bounding box color coding
