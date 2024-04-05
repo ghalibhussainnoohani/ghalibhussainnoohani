@@ -72,3 +72,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-02T12:18:14+05:00`: feat: implement retry policy for transient network drops
 - `2024-04-02T12:24:27+05:00`: perf: optimize database query execution plan
 - `2024-04-04T10:38:41+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-04-05T13:02:14+05:00`: docs: add setup instructions for local development
