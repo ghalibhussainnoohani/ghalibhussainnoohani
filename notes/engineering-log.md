@@ -48,3 +48,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-02T14:22:01+05:00`: fix: correct timestamp offset in audit logger
 - `2024-04-03T17:51:33+05:00`: fix: correct timestamp offset in audit logger
 - `2024-04-05T16:39:57+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-04-05T17:44:31+05:00`: feat: implement adaptive frame rate controller
