@@ -75,3 +75,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-05T13:02:14+05:00`: docs: add setup instructions for local development
 - `2024-04-08T19:20:40+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-04-10T15:09:39+05:00`: perf: optimize database query execution plan
+- `2024-04-10T22:32:14+05:00`: docs: add setup instructions for local development
