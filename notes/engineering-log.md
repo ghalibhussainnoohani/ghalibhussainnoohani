@@ -52,3 +52,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-08T14:47:20+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-04-09T13:59:55+05:00`: perf: optimize database query execution plan
 - `2024-04-09T13:00:46+05:00`: refactor: clean up utility functions and typing
+- `2024-04-10T22:41:54+05:00`: fix: resolve race condition in connection manager
