@@ -77,3 +77,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-10T15:09:39+05:00`: perf: optimize database query execution plan
 - `2024-04-10T22:32:14+05:00`: docs: add setup instructions for local development
 - `2024-04-10T21:27:16+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2024-04-12T21:24:46+05:00`: feat: support custom bounding box color coding
