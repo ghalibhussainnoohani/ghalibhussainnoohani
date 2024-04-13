@@ -54,3 +54,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-09T13:00:46+05:00`: refactor: clean up utility functions and typing
 - `2024-04-10T22:41:54+05:00`: fix: resolve race condition in connection manager
 - `2024-04-13T17:17:39+05:00`: refactor: clean up utility functions and typing
+- `2024-04-13T21:50:35+05:00`: feat: add benchmark script for inference latency
