@@ -81,3 +81,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-12T12:00:23+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-04-12T18:24:13+05:00`: refactor: simplify request validation middleware
 - `2024-04-16T19:00:53+05:00`: fix: handle stream reconnection on socket drop
+- `2024-04-17T10:57:47+05:00`: fix: handle stream reconnection on socket drop
