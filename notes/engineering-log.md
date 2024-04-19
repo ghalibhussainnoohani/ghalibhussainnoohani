@@ -85,3 +85,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-17T16:17:09+05:00`: test: add unit tests for camera service initialization
 - `2024-04-18T17:26:18+05:00`: docs: add setup instructions for local development
 - `2024-04-19T12:46:47+05:00`: feat: integrate health check ping for active streams
+- `2024-04-19T10:40:39+05:00`: fix: handle stream reconnection on socket drop
