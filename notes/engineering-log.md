@@ -88,3 +88,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-19T10:40:39+05:00`: fix: handle stream reconnection on socket drop
 - `2024-04-21T18:26:42+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-04-21T11:30:53+05:00`: fix: resolve race condition in connection manager
+- `2024-04-22T11:48:02+05:00`: docs: update API documentation and endpoint schemas
