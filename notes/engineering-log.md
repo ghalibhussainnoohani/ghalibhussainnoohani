@@ -67,3 +67,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-26T12:00:24+05:00`: refactor: simplify request validation middleware
 - `2024-04-26T22:25:52+05:00`: feat: add benchmark script for inference latency
 - `2024-04-26T13:43:58+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-04-27T14:37:56+05:00`: docs: update API documentation and endpoint schemas
