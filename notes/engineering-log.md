@@ -71,3 +71,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-27T21:07:13+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-04-27T13:42:09+05:00`: perf: optimize database query execution plan
 - `2024-04-29T11:28:23+05:00`: feat: implement adaptive frame rate controller
+- `2024-04-29T17:28:42+05:00`: feat: implement retry policy for transient network drops
