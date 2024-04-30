@@ -93,3 +93,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-23T11:55:26+05:00`: feat: support custom bounding box color coding
 - `2024-04-23T10:30:18+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-04-26T21:19:04+05:00`: fix: handle stream reconnection on socket drop
+- `2024-04-30T20:51:59+05:00`: refactor: simplify request validation middleware
