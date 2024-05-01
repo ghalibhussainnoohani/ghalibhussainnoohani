@@ -95,3 +95,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-26T21:19:04+05:00`: fix: handle stream reconnection on socket drop
 - `2024-04-30T20:51:59+05:00`: refactor: simplify request validation middleware
 - `2024-04-30T13:07:09+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-05-01T20:44:54+05:00`: fix: handle stream reconnection on socket drop
