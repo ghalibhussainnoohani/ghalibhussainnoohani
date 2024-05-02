@@ -74,3 +74,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-29T17:28:42+05:00`: feat: implement retry policy for transient network drops
 - `2024-04-30T13:42:55+05:00`: feat: implement adaptive frame rate controller
 - `2024-05-02T21:44:02+05:00`: fix: handle stream reconnection on socket drop
+- `2024-05-02T20:42:59+05:00`: perf: optimize frame buffer allocation in streaming loop
