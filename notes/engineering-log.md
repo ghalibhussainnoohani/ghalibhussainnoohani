@@ -97,3 +97,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-04-30T13:07:09+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-05-01T20:44:54+05:00`: fix: handle stream reconnection on socket drop
 - `2024-05-01T16:18:54+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-05-03T14:51:08+05:00`: feat: introduce async event emitter for telemetry
