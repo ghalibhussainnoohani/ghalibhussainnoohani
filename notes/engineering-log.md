@@ -76,3 +76,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-02T21:44:02+05:00`: fix: handle stream reconnection on socket drop
 - `2024-05-02T20:42:59+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-05-03T20:28:13+05:00`: refactor: simplify request validation middleware
+- `2024-05-05T21:17:54+05:00`: feat: add support for RTSP stream timeout handling
