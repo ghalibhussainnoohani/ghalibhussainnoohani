@@ -100,3 +100,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-03T14:51:08+05:00`: feat: introduce async event emitter for telemetry
 - `2024-05-03T10:49:17+05:00`: fix: handle stream reconnection on socket drop
 - `2024-05-06T18:13:53+05:00`: refactor: decouple inference engine from websocket service
+- `2024-05-07T21:20:58+05:00`: refactor: decouple inference engine from websocket service
