@@ -79,3 +79,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-05T21:17:54+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-05-05T16:21:01+05:00`: fix: handle stream reconnection on socket drop
 - `2024-05-06T11:08:29+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-05-07T19:29:52+05:00`: docs: document deployment architectures and configs
