@@ -82,3 +82,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-07T19:29:52+05:00`: docs: document deployment architectures and configs
 - `2024-05-08T22:38:07+05:00`: feat: implement retry policy for transient network drops
 - `2024-05-08T16:48:16+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-05-09T20:48:06+05:00`: perf: optimize frame buffer allocation in streaming loop
