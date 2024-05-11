@@ -85,3 +85,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-09T20:48:06+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-05-11T11:37:33+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-05-11T19:10:53+05:00`: chore: format codebase and organize imports
+- `2024-05-11T16:59:26+05:00`: docs: document deployment architectures and configs
