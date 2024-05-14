@@ -107,3 +107,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-09T21:53:19+05:00`: feat: integrate health check ping for active streams
 - `2024-05-10T10:56:20+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-05-14T13:34:40+05:00`: fix: handle stream reconnection on socket drop
+- `2024-05-14T20:14:12+05:00`: perf: reduce memory footprint during model warmup
