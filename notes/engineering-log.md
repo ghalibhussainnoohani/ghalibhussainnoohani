@@ -109,3 +109,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-14T13:34:40+05:00`: fix: handle stream reconnection on socket drop
 - `2024-05-14T20:14:12+05:00`: perf: reduce memory footprint during model warmup
 - `2024-05-15T16:58:32+05:00`: fix: resolve race condition in connection manager
+- `2024-05-16T20:39:59+05:00`: feat: support custom bounding box color coding
