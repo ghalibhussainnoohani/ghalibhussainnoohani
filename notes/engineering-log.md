@@ -113,3 +113,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-20T14:25:14+05:00`: docs: add setup instructions for local development
 - `2024-05-20T15:14:17+05:00`: feat: implement retry policy for transient network drops
 - `2024-05-22T22:17:44+05:00`: feat: add benchmark script for inference latency
+- `2024-05-22T10:32:06+05:00`: fix: handle edge cases in coordinates normalization
