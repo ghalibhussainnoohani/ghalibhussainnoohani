@@ -96,3 +96,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-20T20:06:39+05:00`: feat: implement adaptive frame rate controller
 - `2024-05-21T17:30:04+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-05-22T14:16:10+05:00`: fix: correct timestamp offset in audit logger
+- `2024-05-22T16:23:36+05:00`: docs: update API documentation and endpoint schemas
