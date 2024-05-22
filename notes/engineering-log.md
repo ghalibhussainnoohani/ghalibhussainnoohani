@@ -95,3 +95,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-16T10:56:07+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-05-20T20:06:39+05:00`: feat: implement adaptive frame rate controller
 - `2024-05-21T17:30:04+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-05-22T14:16:10+05:00`: fix: correct timestamp offset in audit logger
