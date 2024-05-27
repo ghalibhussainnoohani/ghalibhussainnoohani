@@ -98,3 +98,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-22T14:16:10+05:00`: fix: correct timestamp offset in audit logger
 - `2024-05-22T16:23:36+05:00`: docs: update API documentation and endpoint schemas
 - `2024-05-23T19:04:18+05:00`: feat: integrate health check ping for active streams
+- `2024-05-27T11:59:33+05:00`: fix: handle stream reconnection on socket drop
