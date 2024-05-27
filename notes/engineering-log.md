@@ -99,3 +99,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-22T16:23:36+05:00`: docs: update API documentation and endpoint schemas
 - `2024-05-23T19:04:18+05:00`: feat: integrate health check ping for active streams
 - `2024-05-27T11:59:33+05:00`: fix: handle stream reconnection on socket drop
+- `2024-05-27T18:29:34+05:00`: fix: handle stream reconnection on socket drop
