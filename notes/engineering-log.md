@@ -117,3 +117,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-24T12:46:26+05:00`: docs: document deployment architectures and configs
 - `2024-05-24T17:53:51+05:00`: feat: integrate health check ping for active streams
 - `2024-05-27T12:36:40+05:00`: feat: add benchmark script for inference latency
+- `2024-05-27T10:53:22+05:00`: feat: add support for RTSP stream timeout handling
