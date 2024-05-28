@@ -119,3 +119,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-27T12:36:40+05:00`: feat: add benchmark script for inference latency
 - `2024-05-27T10:53:22+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-05-28T18:15:06+05:00`: fix: correct timestamp offset in audit logger
+- `2024-05-28T22:26:55+05:00`: feat: add benchmark script for inference latency
