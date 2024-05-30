@@ -103,3 +103,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-28T16:40:24+05:00`: feat: implement adaptive frame rate controller
 - `2024-05-30T19:24:45+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-05-30T15:43:05+05:00`: chore: format codebase and organize imports
+- `2024-05-30T12:29:27+05:00`: feat: add image preprocessing pipeline for vision model
