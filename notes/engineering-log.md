@@ -123,3 +123,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-29T12:24:58+05:00`: refactor: clean up utility functions and typing
 - `2024-05-29T15:36:57+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-05-30T14:59:15+05:00`: docs: add setup instructions for local development
+- `2024-05-30T14:06:02+05:00`: perf: enable zero-copy tensor conversion where available
