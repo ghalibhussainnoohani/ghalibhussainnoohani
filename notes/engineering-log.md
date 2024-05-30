@@ -122,3 +122,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-28T22:26:55+05:00`: feat: add benchmark script for inference latency
 - `2024-05-29T12:24:58+05:00`: refactor: clean up utility functions and typing
 - `2024-05-29T15:36:57+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-05-30T14:59:15+05:00`: docs: add setup instructions for local development
