@@ -105,3 +105,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-30T15:43:05+05:00`: chore: format codebase and organize imports
 - `2024-05-30T12:29:27+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-05-30T11:41:23+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-05-31T20:52:54+05:00`: feat: implement adaptive frame rate controller
