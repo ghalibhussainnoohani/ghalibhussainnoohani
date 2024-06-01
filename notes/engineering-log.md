@@ -126,3 +126,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-30T14:06:02+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-06-01T20:07:14+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-06-01T12:04:08+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-06-01T10:49:26+05:00`: feat: introduce async event emitter for telemetry
