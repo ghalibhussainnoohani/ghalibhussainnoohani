@@ -107,3 +107,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-05-30T11:41:23+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-05-31T20:52:54+05:00`: feat: implement adaptive frame rate controller
 - `2024-06-02T14:04:48+05:00`: feat: implement retry policy for transient network drops
+- `2024-06-03T18:38:01+05:00`: feat: implement retry policy for transient network drops
