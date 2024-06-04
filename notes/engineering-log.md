@@ -129,3 +129,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-01T10:49:26+05:00`: feat: introduce async event emitter for telemetry
 - `2024-06-04T19:47:45+05:00`: feat: integrate health check ping for active streams
 - `2024-06-04T18:37:35+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2024-06-04T15:46:54+05:00`: docs: document deployment architectures and configs
