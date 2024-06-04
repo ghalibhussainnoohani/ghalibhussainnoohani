@@ -111,3 +111,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-03T18:35:53+05:00`: test: add unit tests for camera service initialization
 - `2024-06-04T20:59:41+05:00`: chore: update dependencies and bump minor versions
 - `2024-06-04T13:16:21+05:00`: fix: handle stream reconnection on socket drop
+- `2024-06-04T15:21:58+05:00`: refactor: simplify request validation middleware
