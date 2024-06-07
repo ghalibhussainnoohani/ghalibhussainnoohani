@@ -135,3 +135,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-05T20:52:29+05:00`: feat: introduce async event emitter for telemetry
 - `2024-06-05T11:54:51+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-06-06T21:16:11+05:00`: docs: document deployment architectures and configs
+- `2024-06-07T21:03:53+05:00`: feat: implement adaptive frame rate controller
