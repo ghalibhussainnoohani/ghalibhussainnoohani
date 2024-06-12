@@ -116,3 +116,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-07T10:56:08+05:00`: perf: reduce memory footprint during model warmup
 - `2024-06-10T16:03:58+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-06-10T21:36:57+05:00`: perf: reduce memory footprint during model warmup
+- `2024-06-12T22:49:28+05:00`: fix: handle edge cases in coordinates normalization
