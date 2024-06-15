@@ -120,3 +120,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-13T10:54:58+05:00`: refactor: simplify request validation middleware
 - `2024-06-14T13:39:56+05:00`: perf: reduce memory footprint during model warmup
 - `2024-06-14T13:08:27+05:00`: feat: integrate health check ping for active streams
+- `2024-06-15T14:41:55+05:00`: refactor: decouple inference engine from websocket service
