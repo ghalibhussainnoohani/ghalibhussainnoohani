@@ -123,3 +123,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-15T14:41:55+05:00`: refactor: decouple inference engine from websocket service
 - `2024-06-15T22:36:00+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-06-17T21:21:34+05:00`: feat: support custom bounding box color coding
+- `2024-06-17T18:26:08+05:00`: feat: add support for RTSP stream timeout handling
