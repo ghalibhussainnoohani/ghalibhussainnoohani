@@ -127,3 +127,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-17T18:59:14+05:00`: refactor: clean up utility functions and typing
 - `2024-06-17T22:04:46+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-06-18T16:18:52+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-06-18T16:22:21+05:00`: docs: document deployment architectures and configs
