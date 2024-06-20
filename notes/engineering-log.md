@@ -147,3 +147,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-18T18:57:57+05:00`: feat: implement adaptive frame rate controller
 - `2024-06-18T10:23:54+05:00`: feat: implement retry policy for transient network drops
 - `2024-06-20T22:28:54+05:00`: refactor: decouple inference engine from websocket service
+- `2024-06-20T17:19:34+05:00`: feat: add image preprocessing pipeline for vision model
