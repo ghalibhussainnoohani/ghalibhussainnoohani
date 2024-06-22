@@ -150,3 +150,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-20T17:19:34+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-06-20T17:32:22+05:00`: feat: introduce async event emitter for telemetry
 - `2024-06-21T18:44:00+05:00`: feat: implement retry policy for transient network drops
+- `2024-06-22T18:21:30+05:00`: fix: correct timestamp offset in audit logger
