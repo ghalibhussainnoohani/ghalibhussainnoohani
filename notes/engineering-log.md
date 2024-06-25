@@ -129,3 +129,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-18T16:18:52+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-06-18T16:22:21+05:00`: docs: document deployment architectures and configs
 - `2024-06-25T20:21:21+05:00`: refactor: simplify request validation middleware
+- `2024-06-25T20:12:50+05:00`: docs: document deployment architectures and configs
