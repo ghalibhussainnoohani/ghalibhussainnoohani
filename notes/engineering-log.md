@@ -154,3 +154,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-25T20:33:33+05:00`: refactor: simplify request validation middleware
 - `2024-06-25T20:17:10+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-06-26T11:08:18+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-06-27T13:38:02+05:00`: docs: document deployment architectures and configs
