@@ -135,3 +135,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-27T14:24:03+05:00`: chore: update dependencies and bump minor versions
 - `2024-06-28T10:16:48+05:00`: fix: handle stream reconnection on socket drop
 - `2024-06-28T22:14:43+05:00`: fix: resolve race condition in connection manager
+- `2024-06-28T13:30:39+05:00`: feat: add benchmark script for inference latency
