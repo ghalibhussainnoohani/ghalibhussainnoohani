@@ -133,3 +133,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-06-26T21:16:35+05:00`: chore: format codebase and organize imports
 - `2024-06-26T22:23:47+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-06-27T14:24:03+05:00`: chore: update dependencies and bump minor versions
+- `2024-06-28T10:16:48+05:00`: fix: handle stream reconnection on socket drop
