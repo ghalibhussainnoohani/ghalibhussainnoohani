@@ -149,3 +149,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-05T17:04:10+05:00`: docs: add setup instructions for local development
 - `2024-07-08T18:14:00+05:00`: perf: optimize database query execution plan
 - `2024-07-08T11:19:01+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-07-12T19:16:46+05:00`: perf: optimize frame buffer allocation in streaming loop
