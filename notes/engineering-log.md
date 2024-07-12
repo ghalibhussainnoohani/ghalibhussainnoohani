@@ -174,3 +174,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-12T14:09:32+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-07-12T20:15:17+05:00`: perf: reduce memory footprint during model warmup
 - `2024-07-12T19:45:03+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-07-12T20:48:35+05:00`: docs: add setup instructions for local development
