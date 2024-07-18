@@ -177,3 +177,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-12T20:48:35+05:00`: docs: add setup instructions for local development
 - `2024-07-15T14:15:52+05:00`: feat: support custom bounding box color coding
 - `2024-07-15T16:43:50+05:00`: test: add unit tests for camera service initialization
+- `2024-07-18T14:42:47+05:00`: perf: enable zero-copy tensor conversion where available
