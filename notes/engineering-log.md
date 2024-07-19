@@ -179,3 +179,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-15T16:43:50+05:00`: test: add unit tests for camera service initialization
 - `2024-07-18T14:42:47+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-07-18T15:57:43+05:00`: feat: support custom bounding box color coding
+- `2024-07-19T20:40:41+05:00`: perf: optimize frame buffer allocation in streaming loop
