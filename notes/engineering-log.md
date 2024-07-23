@@ -163,3 +163,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-23T10:56:51+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-07-23T20:09:04+05:00`: feat: support custom bounding box color coding
 - `2024-07-23T14:35:14+05:00`: feat: support custom bounding box color coding
+- `2024-07-23T17:04:31+05:00`: refactor: simplify request validation middleware
