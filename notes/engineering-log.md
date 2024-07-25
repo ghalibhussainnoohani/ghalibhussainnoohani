@@ -181,3 +181,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-18T15:57:43+05:00`: feat: support custom bounding box color coding
 - `2024-07-19T20:40:41+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-07-23T13:44:25+05:00`: chore: format codebase and organize imports
+- `2024-07-25T10:14:53+05:00`: fix: handle edge cases in coordinates normalization
