@@ -165,3 +165,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-23T14:35:14+05:00`: feat: support custom bounding box color coding
 - `2024-07-23T17:04:31+05:00`: refactor: simplify request validation middleware
 - `2024-07-24T22:23:27+05:00`: feat: support custom bounding box color coding
+- `2024-07-25T18:55:47+05:00`: fix: handle edge cases in coordinates normalization
