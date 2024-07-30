@@ -167,3 +167,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-07-24T22:23:27+05:00`: feat: support custom bounding box color coding
 - `2024-07-25T18:55:47+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-07-28T10:17:30+05:00`: chore: update dependencies and bump minor versions
+- `2024-07-30T20:04:10+05:00`: feat: add benchmark script for inference latency
