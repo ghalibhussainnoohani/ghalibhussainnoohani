@@ -192,3 +192,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-01T21:10:24+05:00`: chore: update dependencies and bump minor versions
 - `2024-08-01T22:56:18+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-08-01T11:25:57+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-08-02T14:52:40+05:00`: docs: add setup instructions for local development
