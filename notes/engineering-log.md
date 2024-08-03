@@ -175,3 +175,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-01T13:55:04+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-08-02T11:44:35+05:00`: feat: integrate health check ping for active streams
 - `2024-08-02T18:18:13+05:00`: chore: format codebase and organize imports
+- `2024-08-03T16:31:03+05:00`: refactor: decouple inference engine from websocket service
