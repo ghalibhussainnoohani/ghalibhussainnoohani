@@ -183,3 +183,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-07T21:34:19+05:00`: perf: reduce memory footprint during model warmup
 - `2024-08-07T12:25:26+05:00`: feat: support custom bounding box color coding
 - `2024-08-09T11:31:34+05:00`: chore: format codebase and organize imports
+- `2024-08-09T16:39:06+05:00`: feat: add image preprocessing pipeline for vision model
