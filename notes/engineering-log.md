@@ -202,3 +202,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-08T19:15:03+05:00`: feat: implement retry policy for transient network drops
 - `2024-08-09T21:02:21+05:00`: docs: add setup instructions for local development
 - `2024-08-09T10:12:30+05:00`: docs: document deployment architectures and configs
+- `2024-08-11T18:33:33+05:00`: docs: add setup instructions for local development
