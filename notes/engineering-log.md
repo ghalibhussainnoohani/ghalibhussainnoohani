@@ -205,3 +205,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-11T18:33:33+05:00`: docs: add setup instructions for local development
 - `2024-08-11T20:35:49+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-08-11T20:41:09+05:00`: refactor: clean up utility functions and typing
+- `2024-08-12T15:57:17+05:00`: fix: resolve race condition in connection manager
