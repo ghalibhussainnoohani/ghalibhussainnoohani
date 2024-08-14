@@ -209,3 +209,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-12T14:55:16+05:00`: fix: correct timestamp offset in audit logger
 - `2024-08-13T10:14:18+05:00`: feat: integrate health check ping for active streams
 - `2024-08-13T21:45:57+05:00`: feat: implement adaptive frame rate controller
+- `2024-08-14T14:18:39+05:00`: feat: support custom bounding box color coding
