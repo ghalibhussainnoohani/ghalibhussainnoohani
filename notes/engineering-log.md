@@ -186,3 +186,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-09T16:39:06+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-08-09T14:06:48+05:00`: feat: introduce async event emitter for telemetry
 - `2024-08-13T15:30:14+05:00`: refactor: decouple inference engine from websocket service
+- `2024-08-14T18:09:10+05:00`: docs: document deployment architectures and configs
