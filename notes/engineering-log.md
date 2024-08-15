@@ -210,3 +210,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-13T10:14:18+05:00`: feat: integrate health check ping for active streams
 - `2024-08-13T21:45:57+05:00`: feat: implement adaptive frame rate controller
 - `2024-08-14T14:18:39+05:00`: feat: support custom bounding box color coding
+- `2024-08-15T14:26:52+05:00`: fix: handle stream reconnection on socket drop
