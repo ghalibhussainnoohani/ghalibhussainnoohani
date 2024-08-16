@@ -211,3 +211,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-13T21:45:57+05:00`: feat: implement adaptive frame rate controller
 - `2024-08-14T14:18:39+05:00`: feat: support custom bounding box color coding
 - `2024-08-15T14:26:52+05:00`: fix: handle stream reconnection on socket drop
+- `2024-08-16T14:40:49+05:00`: fix: resolve race condition in connection manager
