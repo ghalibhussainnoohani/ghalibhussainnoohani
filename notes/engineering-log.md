@@ -189,3 +189,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-14T18:09:10+05:00`: docs: document deployment architectures and configs
 - `2024-08-14T11:46:50+05:00`: test: add unit tests for camera service initialization
 - `2024-08-15T17:57:30+05:00`: feat: add benchmark script for inference latency
+- `2024-08-18T12:00:45+05:00`: perf: enable zero-copy tensor conversion where available
