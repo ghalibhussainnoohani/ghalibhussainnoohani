@@ -200,3 +200,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-26T10:04:21+05:00`: refactor: clean up utility functions and typing
 - `2024-08-26T13:22:53+05:00`: refactor: decouple inference engine from websocket service
 - `2024-08-26T21:08:25+05:00`: feat: introduce async event emitter for telemetry
+- `2024-08-27T20:38:37+05:00`: feat: support custom bounding box color coding
