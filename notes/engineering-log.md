@@ -202,3 +202,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-26T21:08:25+05:00`: feat: introduce async event emitter for telemetry
 - `2024-08-27T20:38:37+05:00`: feat: support custom bounding box color coding
 - `2024-08-27T11:29:35+05:00`: test: add unit tests for camera service initialization
+- `2024-08-28T20:46:38+05:00`: feat: implement adaptive frame rate controller
