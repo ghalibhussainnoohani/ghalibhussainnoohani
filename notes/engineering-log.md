@@ -225,3 +225,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-08-30T14:18:22+05:00`: perf: reduce memory footprint during model warmup
 - `2024-09-02T12:31:11+05:00`: fix: resolve race condition in connection manager
 - `2024-09-02T13:23:22+05:00`: feat: add benchmark script for inference latency
+- `2024-09-02T20:22:24+05:00`: feat: support custom bounding box color coding
