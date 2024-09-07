@@ -231,3 +231,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-04T12:00:46+05:00`: perf: reduce memory footprint during model warmup
 - `2024-09-05T15:45:29+05:00`: refactor: simplify request validation middleware
 - `2024-09-06T17:21:25+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-09-07T11:18:27+05:00`: fix: handle stream reconnection on socket drop
