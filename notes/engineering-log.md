@@ -237,3 +237,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-09T15:04:34+05:00`: feat: implement adaptive frame rate controller
 - `2024-09-09T10:39:25+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-09-09T12:42:12+05:00`: feat: implement retry policy for transient network drops
+- `2024-09-10T18:22:32+05:00`: feat: add benchmark script for inference latency
