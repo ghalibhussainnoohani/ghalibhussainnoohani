@@ -217,3 +217,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-11T14:50:18+05:00`: feat: add benchmark script for inference latency
 - `2024-09-11T14:33:26+05:00`: chore: update dependencies and bump minor versions
 - `2024-09-11T21:22:24+05:00`: docs: add setup instructions for local development
+- `2024-09-12T20:55:20+05:00`: refactor: decouple inference engine from websocket service
