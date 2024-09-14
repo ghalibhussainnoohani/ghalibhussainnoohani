@@ -219,3 +219,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-11T21:22:24+05:00`: docs: add setup instructions for local development
 - `2024-09-12T20:55:20+05:00`: refactor: decouple inference engine from websocket service
 - `2024-09-12T20:07:06+05:00`: feat: implement adaptive frame rate controller
+- `2024-09-14T18:25:35+05:00`: fix: correct timestamp offset in audit logger
