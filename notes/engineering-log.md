@@ -221,3 +221,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-12T20:07:06+05:00`: feat: implement adaptive frame rate controller
 - `2024-09-14T18:25:35+05:00`: fix: correct timestamp offset in audit logger
 - `2024-09-16T20:29:30+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2024-09-16T18:45:14+05:00`: feat: add support for RTSP stream timeout handling
