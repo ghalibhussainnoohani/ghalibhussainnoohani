@@ -246,3 +246,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-17T18:01:23+05:00`: feat: implement retry policy for transient network drops
 - `2024-09-17T10:51:04+05:00`: feat: support custom bounding box color coding
 - `2024-09-17T22:03:37+05:00`: fix: handle stream reconnection on socket drop
+- `2024-09-19T22:23:24+05:00`: refactor: decouple inference engine from websocket service
