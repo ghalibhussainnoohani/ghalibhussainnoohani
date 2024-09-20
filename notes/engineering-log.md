@@ -249,3 +249,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-19T22:23:24+05:00`: refactor: decouple inference engine from websocket service
 - `2024-09-19T22:03:50+05:00`: test: add unit tests for camera service initialization
 - `2024-09-19T15:44:52+05:00`: fix: correct timestamp offset in audit logger
+- `2024-09-20T16:44:00+05:00`: feat: support custom bounding box color coding
