@@ -252,3 +252,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-20T16:44:00+05:00`: feat: support custom bounding box color coding
 - `2024-09-20T12:33:04+05:00`: refactor: clean up utility functions and typing
 - `2024-09-23T12:10:28+05:00`: feat: implement adaptive frame rate controller
+- `2024-09-23T16:46:25+05:00`: perf: enable zero-copy tensor conversion where available
