@@ -229,3 +229,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-20T21:45:56+05:00`: docs: add setup instructions for local development
 - `2024-09-23T12:24:53+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-09-23T10:28:20+05:00`: feat: support custom bounding box color coding
+- `2024-09-23T17:52:26+05:00`: docs: add setup instructions for local development
