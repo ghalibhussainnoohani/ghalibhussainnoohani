@@ -236,3 +236,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-24T11:21:08+05:00`: chore: update dependencies and bump minor versions
 - `2024-09-25T20:35:42+05:00`: fix: correct timestamp offset in audit logger
 - `2024-09-25T16:57:24+05:00`: perf: optimize database query execution plan
+- `2024-09-25T15:57:19+05:00`: refactor: decouple inference engine from websocket service
