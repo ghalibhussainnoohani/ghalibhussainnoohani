@@ -234,3 +234,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-24T11:31:41+05:00`: docs: update API documentation and endpoint schemas
 - `2024-09-24T15:14:40+05:00`: docs: add setup instructions for local development
 - `2024-09-24T11:21:08+05:00`: chore: update dependencies and bump minor versions
+- `2024-09-25T20:35:42+05:00`: fix: correct timestamp offset in audit logger
