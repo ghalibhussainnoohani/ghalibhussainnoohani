@@ -260,3 +260,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-25T14:00:29+05:00`: feat: introduce async event emitter for telemetry
 - `2024-09-26T14:00:36+05:00`: docs: update API documentation and endpoint schemas
 - `2024-09-27T12:11:14+05:00`: chore: update dependencies and bump minor versions
+- `2024-09-27T19:52:38+05:00`: feat: add support for RTSP stream timeout handling
