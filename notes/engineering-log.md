@@ -239,3 +239,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-25T15:57:19+05:00`: refactor: decouple inference engine from websocket service
 - `2024-09-26T14:55:41+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-09-29T17:53:48+05:00`: docs: add setup instructions for local development
+- `2024-09-29T17:46:31+05:00`: feat: add benchmark script for inference latency
