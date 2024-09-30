@@ -262,3 +262,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-27T12:11:14+05:00`: chore: update dependencies and bump minor versions
 - `2024-09-27T19:52:38+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-09-28T13:13:50+05:00`: fix: correct timestamp offset in audit logger
+- `2024-09-30T19:07:29+05:00`: perf: enable zero-copy tensor conversion where available
