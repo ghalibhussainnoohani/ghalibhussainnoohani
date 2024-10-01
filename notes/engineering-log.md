@@ -241,3 +241,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-09-29T17:53:48+05:00`: docs: add setup instructions for local development
 - `2024-09-29T17:46:31+05:00`: feat: add benchmark script for inference latency
 - `2024-09-30T19:58:29+05:00`: feat: introduce async event emitter for telemetry
+- `2024-10-01T19:50:32+05:00`: feat: support custom bounding box color coding
