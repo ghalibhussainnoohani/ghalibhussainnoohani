@@ -244,3 +244,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-01T19:50:32+05:00`: feat: support custom bounding box color coding
 - `2024-10-01T21:09:49+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-10-02T21:31:29+05:00`: chore: format codebase and organize imports
+- `2024-10-03T11:09:59+05:00`: perf: optimize frame buffer allocation in streaming loop
