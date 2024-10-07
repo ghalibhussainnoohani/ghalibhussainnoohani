@@ -270,3 +270,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-04T13:34:43+05:00`: refactor: clean up utility functions and typing
 - `2024-10-04T14:22:59+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-10-04T18:32:10+05:00`: fix: resolve race condition in connection manager
+- `2024-10-07T16:46:06+05:00`: feat: add benchmark script for inference latency
