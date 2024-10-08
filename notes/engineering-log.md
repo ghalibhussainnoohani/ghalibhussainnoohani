@@ -247,3 +247,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-03T11:09:59+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-10-04T18:17:29+05:00`: perf: reduce memory footprint during model warmup
 - `2024-10-07T15:05:20+05:00`: feat: implement adaptive frame rate controller
+- `2024-10-08T22:54:27+05:00`: fix: handle stream reconnection on socket drop
