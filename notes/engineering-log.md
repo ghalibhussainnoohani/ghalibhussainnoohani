@@ -251,3 +251,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-09T16:22:40+05:00`: refactor: simplify request validation middleware
 - `2024-10-09T15:37:29+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-10-10T11:17:54+05:00`: fix: handle stream reconnection on socket drop
+- `2024-10-11T20:42:14+05:00`: fix: handle edge cases in coordinates normalization
