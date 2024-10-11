@@ -252,3 +252,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-09T15:37:29+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-10-10T11:17:54+05:00`: fix: handle stream reconnection on socket drop
 - `2024-10-11T20:42:14+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-10-11T18:33:33+05:00`: refactor: clean up utility functions and typing
