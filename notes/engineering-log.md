@@ -281,3 +281,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-17T19:45:16+05:00`: fix: handle stream reconnection on socket drop
 - `2024-10-17T18:33:47+05:00`: refactor: decouple inference engine from websocket service
 - `2024-10-18T22:12:22+05:00`: feat: implement adaptive frame rate controller
+- `2024-10-18T13:08:54+05:00`: feat: add image preprocessing pipeline for vision model
