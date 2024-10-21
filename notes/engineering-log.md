@@ -261,3 +261,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-17T10:03:17+05:00`: docs: update API documentation and endpoint schemas
 - `2024-10-17T16:32:00+05:00`: fix: resolve race condition in connection manager
 - `2024-10-21T14:58:44+05:00`: refactor: decouple inference engine from websocket service
+- `2024-10-21T21:49:32+05:00`: fix: handle edge cases in coordinates normalization
