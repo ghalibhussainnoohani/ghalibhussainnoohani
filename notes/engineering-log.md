@@ -263,3 +263,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-21T14:58:44+05:00`: refactor: decouple inference engine from websocket service
 - `2024-10-21T21:49:32+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-10-22T19:58:18+05:00`: feat: introduce async event emitter for telemetry
+- `2024-10-22T13:18:51+05:00`: perf: reduce memory footprint during model warmup
