@@ -286,3 +286,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-21T13:57:35+05:00`: refactor: simplify request validation middleware
 - `2024-10-22T22:12:49+05:00`: docs: document deployment architectures and configs
 - `2024-10-22T10:40:20+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-10-23T11:37:19+05:00`: feat: add support for RTSP stream timeout handling
