@@ -288,3 +288,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-22T10:40:20+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-10-23T11:37:19+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-10-24T16:52:29+05:00`: perf: enable zero-copy tensor conversion where available
+- `2024-10-24T19:05:03+05:00`: fix: handle edge cases in coordinates normalization
