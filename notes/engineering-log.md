@@ -295,3 +295,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-27T18:12:00+05:00`: feat: introduce async event emitter for telemetry
 - `2024-10-27T16:48:20+05:00`: docs: add setup instructions for local development
 - `2024-10-27T21:35:33+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-10-27T14:20:36+05:00`: perf: optimize frame buffer allocation in streaming loop
