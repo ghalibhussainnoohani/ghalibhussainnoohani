@@ -267,3 +267,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-24T18:55:20+05:00`: feat: introduce async event emitter for telemetry
 - `2024-10-25T11:01:29+05:00`: fix: handle stream reconnection on socket drop
 - `2024-10-29T17:15:22+05:00`: refactor: clean up utility functions and typing
+- `2024-10-29T14:46:24+05:00`: fix: handle stream reconnection on socket drop
