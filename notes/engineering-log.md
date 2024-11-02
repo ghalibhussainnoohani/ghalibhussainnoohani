@@ -270,3 +270,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-29T14:46:24+05:00`: fix: handle stream reconnection on socket drop
 - `2024-10-30T11:13:48+05:00`: docs: update API documentation and endpoint schemas
 - `2024-10-31T20:31:01+05:00`: feat: implement retry policy for transient network drops
+- `2024-11-02T13:22:35+05:00`: perf: enable zero-copy tensor conversion where available
