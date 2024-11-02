@@ -303,3 +303,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-01T11:34:45+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-11-02T14:45:08+05:00`: refactor: decouple inference engine from websocket service
 - `2024-11-02T20:59:49+05:00`: fix: resolve race condition in connection manager
+- `2024-11-02T15:58:12+05:00`: fix: handle edge cases in coordinates normalization
