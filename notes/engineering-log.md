@@ -272,3 +272,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-10-31T20:31:01+05:00`: feat: implement retry policy for transient network drops
 - `2024-11-02T13:22:35+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-11-04T19:31:49+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-11-04T22:10:42+05:00`: fix: handle stream reconnection on socket drop
