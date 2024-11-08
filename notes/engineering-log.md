@@ -311,3 +311,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-07T17:57:28+05:00`: feat: implement adaptive frame rate controller
 - `2024-11-07T14:19:33+05:00`: refactor: clean up utility functions and typing
 - `2024-11-07T21:27:12+05:00`: docs: add setup instructions for local development
+- `2024-11-08T19:02:13+05:00`: docs: update API documentation and endpoint schemas
