@@ -275,3 +275,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-04T22:10:42+05:00`: fix: handle stream reconnection on socket drop
 - `2024-11-05T14:44:20+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-11-08T17:23:52+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-11-08T19:29:03+05:00`: docs: add setup instructions for local development
