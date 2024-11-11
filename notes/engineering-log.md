@@ -278,3 +278,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-08T19:29:03+05:00`: docs: add setup instructions for local development
 - `2024-11-10T16:10:23+05:00`: fix: correct timestamp offset in audit logger
 - `2024-11-11T19:38:22+05:00`: fix: handle edge cases in coordinates normalization
+- `2024-11-11T20:47:21+05:00`: perf: optimize database query execution plan
