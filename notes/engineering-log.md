@@ -285,3 +285,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-13T16:52:07+05:00`: feat: support custom bounding box color coding
 - `2024-11-14T21:01:58+05:00`: docs: update API documentation and endpoint schemas
 - `2024-11-15T20:25:30+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-11-15T21:55:51+05:00`: docs: document deployment architectures and configs
