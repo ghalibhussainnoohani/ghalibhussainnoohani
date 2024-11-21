@@ -288,3 +288,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-15T21:55:51+05:00`: docs: document deployment architectures and configs
 - `2024-11-18T10:17:53+05:00`: perf: reduce memory footprint during model warmup
 - `2024-11-18T12:30:07+05:00`: feat: add support for RTSP stream timeout handling
+- `2024-11-21T22:23:30+05:00`: docs: add setup instructions for local development
