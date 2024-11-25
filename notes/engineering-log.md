@@ -291,3 +291,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-21T22:23:30+05:00`: docs: add setup instructions for local development
 - `2024-11-22T10:26:29+05:00`: feat: implement retry policy for transient network drops
 - `2024-11-23T11:02:35+05:00`: feat: add image preprocessing pipeline for vision model
+- `2024-11-25T16:34:24+05:00`: feat: support custom bounding box color coding
