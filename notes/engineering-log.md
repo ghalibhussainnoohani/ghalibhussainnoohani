@@ -324,3 +324,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-20T20:08:03+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-11-22T14:39:01+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-11-22T13:35:39+05:00`: chore: update dependencies and bump minor versions
+- `2024-11-26T21:43:16+05:00`: perf: reduce memory footprint during model warmup
