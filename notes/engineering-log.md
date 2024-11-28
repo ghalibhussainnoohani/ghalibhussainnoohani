@@ -298,3 +298,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-27T21:27:43+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-11-27T15:50:59+05:00`: docs: update API documentation and endpoint schemas
 - `2024-11-27T18:40:05+05:00`: refactor: simplify request validation middleware
+- `2024-11-28T16:03:03+05:00`: docs: add setup instructions for local development
