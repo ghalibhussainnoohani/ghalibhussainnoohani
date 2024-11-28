@@ -326,3 +326,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-22T13:35:39+05:00`: chore: update dependencies and bump minor versions
 - `2024-11-26T21:43:16+05:00`: perf: reduce memory footprint during model warmup
 - `2024-11-26T16:57:20+05:00`: feat: introduce async event emitter for telemetry
+- `2024-11-28T11:24:44+05:00`: fix: handle edge cases in coordinates normalization
