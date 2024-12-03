@@ -303,3 +303,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-11-29T16:36:06+05:00`: test: add unit tests for camera service initialization
 - `2024-12-02T17:14:03+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-12-02T10:47:36+05:00`: fix: handle stream reconnection on socket drop
+- `2024-12-03T10:26:38+05:00`: fix: correct timestamp offset in audit logger
