@@ -304,3 +304,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-02T17:14:03+05:00`: feat: add image preprocessing pipeline for vision model
 - `2024-12-02T10:47:36+05:00`: fix: handle stream reconnection on socket drop
 - `2024-12-03T10:26:38+05:00`: fix: correct timestamp offset in audit logger
+- `2024-12-04T21:59:10+05:00`: perf: reduce memory footprint during model warmup
