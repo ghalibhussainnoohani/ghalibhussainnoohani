@@ -307,3 +307,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-04T21:59:10+05:00`: perf: reduce memory footprint during model warmup
 - `2024-12-04T21:40:13+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-12-05T19:43:16+05:00`: refactor: decouple inference engine from websocket service
+- `2024-12-05T22:48:56+05:00`: feat: add benchmark script for inference latency
