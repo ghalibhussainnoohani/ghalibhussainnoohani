@@ -312,3 +312,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-07T15:23:28+05:00`: feat: implement retry policy for transient network drops
 - `2024-12-09T11:37:36+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-12-09T15:08:48+05:00`: perf: reduce memory footprint during model warmup
+- `2024-12-11T20:14:43+05:00`: feat: add support for RTSP stream timeout handling
