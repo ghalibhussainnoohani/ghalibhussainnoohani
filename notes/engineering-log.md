@@ -316,3 +316,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-11T21:19:54+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-12-11T19:55:07+05:00`: chore: format codebase and organize imports
 - `2024-12-12T13:18:57+05:00`: docs: document deployment architectures and configs
+- `2024-12-16T16:19:17+05:00`: feat: add support for RTSP stream timeout handling
