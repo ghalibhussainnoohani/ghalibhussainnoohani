@@ -345,3 +345,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-16T14:28:14+05:00`: feat: implement retry policy for transient network drops
 - `2024-12-17T17:37:08+05:00`: refactor: simplify request validation middleware
 - `2024-12-17T20:45:02+05:00`: docs: add setup instructions for local development
+- `2024-12-18T13:05:25+05:00`: perf: optimize frame buffer allocation in streaming loop
