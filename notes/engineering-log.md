@@ -347,3 +347,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-17T20:45:02+05:00`: docs: add setup instructions for local development
 - `2024-12-18T13:05:25+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-12-18T15:03:20+05:00`: perf: reduce memory footprint during model warmup
+- `2024-12-18T19:22:12+05:00`: test: add unit tests for camera service initialization
