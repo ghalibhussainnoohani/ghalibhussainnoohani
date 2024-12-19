@@ -321,3 +321,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-16T16:07:26+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2024-12-17T21:43:14+05:00`: fix: handle edge cases in coordinates normalization
 - `2024-12-18T17:54:54+05:00`: docs: document deployment architectures and configs
+- `2024-12-19T21:47:13+05:00`: test: add unit tests for camera service initialization
