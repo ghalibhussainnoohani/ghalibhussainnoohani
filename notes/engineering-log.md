@@ -366,3 +366,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-27T18:59:24+05:00`: feat: add support for RTSP stream timeout handling
 - `2024-12-30T20:30:42+05:00`: perf: enable zero-copy tensor conversion where available
 - `2024-12-31T13:39:30+05:00`: fix: resolve race condition in connection manager
+- `2025-01-01T12:25:51+05:00`: feat: add benchmark script for inference latency
