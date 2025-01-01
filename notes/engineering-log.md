@@ -336,3 +336,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2024-12-31T20:23:17+05:00`: feat: integrate health check ping for active streams
 - `2024-12-31T13:35:26+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-01-01T20:57:19+05:00`: fix: resolve race condition in connection manager
+- `2025-01-01T16:05:03+05:00`: fix: handle edge cases in coordinates normalization
