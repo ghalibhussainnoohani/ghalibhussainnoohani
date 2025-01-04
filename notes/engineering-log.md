@@ -370,3 +370,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-02T12:01:34+05:00`: chore: format codebase and organize imports
 - `2025-01-02T15:17:51+05:00`: test: add unit tests for camera service initialization
 - `2025-01-03T14:31:28+05:00`: perf: optimize database query execution plan
+- `2025-01-04T18:08:13+05:00`: docs: add setup instructions for local development
