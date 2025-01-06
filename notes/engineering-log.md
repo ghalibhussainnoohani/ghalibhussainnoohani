@@ -372,3 +372,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-03T14:31:28+05:00`: perf: optimize database query execution plan
 - `2025-01-04T18:08:13+05:00`: docs: add setup instructions for local development
 - `2025-01-04T20:56:49+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-01-06T16:58:41+05:00`: docs: add setup instructions for local development
