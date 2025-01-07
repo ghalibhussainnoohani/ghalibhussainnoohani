@@ -374,3 +374,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-04T20:56:49+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-01-06T16:58:41+05:00`: docs: add setup instructions for local development
 - `2025-01-07T20:16:18+05:00`: docs: update API documentation and endpoint schemas
+- `2025-01-07T21:07:31+05:00`: fix: handle stream reconnection on socket drop
