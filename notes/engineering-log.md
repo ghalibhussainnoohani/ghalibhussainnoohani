@@ -339,3 +339,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-01T16:05:03+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-01-06T19:56:47+05:00`: feat: integrate health check ping for active streams
 - `2025-01-06T20:40:41+05:00`: test: add unit tests for camera service initialization
+- `2025-01-07T12:01:03+05:00`: feat: implement retry policy for transient network drops
