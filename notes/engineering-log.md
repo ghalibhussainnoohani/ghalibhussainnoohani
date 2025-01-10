@@ -378,3 +378,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-07T17:19:44+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-01-08T17:11:46+05:00`: refactor: decouple inference engine from websocket service
 - `2025-01-09T21:04:21+05:00`: fix: resolve race condition in connection manager
+- `2025-01-10T13:44:52+05:00`: feat: support custom bounding box color coding
