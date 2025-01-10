@@ -342,3 +342,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-07T12:01:03+05:00`: feat: implement retry policy for transient network drops
 - `2025-01-08T10:08:36+05:00`: feat: integrate health check ping for active streams
 - `2025-01-10T21:27:14+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-01-10T11:46:32+05:00`: feat: support custom bounding box color coding
