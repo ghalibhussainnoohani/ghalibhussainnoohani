@@ -382,3 +382,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-10T14:27:37+05:00`: refactor: decouple inference engine from websocket service
 - `2025-01-10T16:53:47+05:00`: fix: resolve race condition in connection manager
 - `2025-01-14T10:42:05+05:00`: feat: add benchmark script for inference latency
+- `2025-01-15T15:39:03+05:00`: docs: update API documentation and endpoint schemas
