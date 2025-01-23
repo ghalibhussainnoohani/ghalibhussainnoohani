@@ -391,3 +391,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-22T17:41:24+05:00`: refactor: clean up utility functions and typing
 - `2025-01-23T21:35:51+05:00`: docs: add setup instructions for local development
 - `2025-01-23T12:20:35+05:00`: feat: introduce async event emitter for telemetry
+- `2025-01-23T18:39:22+05:00`: fix: handle stream reconnection on socket drop
