@@ -395,3 +395,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-24T19:30:35+05:00`: docs: document deployment architectures and configs
 - `2025-01-27T21:47:45+05:00`: test: add unit tests for camera service initialization
 - `2025-01-27T17:59:40+05:00`: docs: add setup instructions for local development
+- `2025-01-27T22:04:27+05:00`: feat: implement adaptive frame rate controller
