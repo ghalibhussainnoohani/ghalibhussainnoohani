@@ -362,3 +362,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-28T11:34:58+05:00`: docs: add setup instructions for local development
 - `2025-01-28T22:43:53+05:00`: feat: support custom bounding box color coding
 - `2025-01-29T20:06:01+05:00`: fix: handle stream reconnection on socket drop
+- `2025-01-29T22:06:57+05:00`: perf: reduce memory footprint during model warmup
