@@ -361,3 +361,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-27T20:10:23+05:00`: docs: update API documentation and endpoint schemas
 - `2025-01-28T11:34:58+05:00`: docs: add setup instructions for local development
 - `2025-01-28T22:43:53+05:00`: feat: support custom bounding box color coding
+- `2025-01-29T20:06:01+05:00`: fix: handle stream reconnection on socket drop
