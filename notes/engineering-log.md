@@ -367,3 +367,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-01-31T20:03:29+05:00`: chore: format codebase and organize imports
 - `2025-01-31T19:03:51+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-02-03T17:57:47+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-02-04T15:48:50+05:00`: perf: optimize frame buffer allocation in streaming loop
