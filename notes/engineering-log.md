@@ -406,3 +406,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-03T13:36:58+05:00`: test: add unit tests for camera service initialization
 - `2025-02-03T10:19:52+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-02-03T12:20:17+05:00`: feat: introduce async event emitter for telemetry
+- `2025-02-05T18:45:20+05:00`: feat: implement adaptive frame rate controller
