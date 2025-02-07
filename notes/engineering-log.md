@@ -409,3 +409,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-05T18:45:20+05:00`: feat: implement adaptive frame rate controller
 - `2025-02-05T14:13:34+05:00`: feat: implement retry policy for transient network drops
 - `2025-02-06T16:28:16+05:00`: chore: format codebase and organize imports
+- `2025-02-07T10:43:20+05:00`: perf: enable zero-copy tensor conversion where available
