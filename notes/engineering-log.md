@@ -374,3 +374,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-06T15:20:36+05:00`: feat: add benchmark script for inference latency
 - `2025-02-06T14:58:08+05:00`: feat: implement adaptive frame rate controller
 - `2025-02-11T15:08:10+05:00`: refactor: clean up utility functions and typing
+- `2025-02-12T11:05:24+05:00`: refactor: simplify request validation middleware
