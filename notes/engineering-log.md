@@ -416,3 +416,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-10T19:45:54+05:00`: perf: reduce memory footprint during model warmup
 - `2025-02-10T18:29:17+05:00`: fix: handle stream reconnection on socket drop
 - `2025-02-11T15:47:04+05:00`: refactor: decouple inference engine from websocket service
+- `2025-02-12T18:23:20+05:00`: feat: support custom bounding box color coding
