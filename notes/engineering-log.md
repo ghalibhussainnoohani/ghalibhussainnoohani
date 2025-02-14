@@ -377,3 +377,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-12T11:05:24+05:00`: refactor: simplify request validation middleware
 - `2025-02-13T11:59:20+05:00`: refactor: simplify request validation middleware
 - `2025-02-14T17:39:20+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-02-14T22:38:48+05:00`: feat: implement retry policy for transient network drops
