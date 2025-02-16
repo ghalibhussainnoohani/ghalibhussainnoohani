@@ -418,3 +418,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-11T15:47:04+05:00`: refactor: decouple inference engine from websocket service
 - `2025-02-12T18:23:20+05:00`: feat: support custom bounding box color coding
 - `2025-02-14T16:49:38+05:00`: feat: support custom bounding box color coding
+- `2025-02-16T10:40:25+05:00`: docs: document deployment architectures and configs
