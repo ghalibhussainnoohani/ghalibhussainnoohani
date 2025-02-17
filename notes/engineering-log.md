@@ -379,3 +379,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-14T17:39:20+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-02-14T22:38:48+05:00`: feat: implement retry policy for transient network drops
 - `2025-02-14T14:56:53+05:00`: fix: correct timestamp offset in audit logger
+- `2025-02-17T14:13:43+05:00`: perf: optimize frame buffer allocation in streaming loop
