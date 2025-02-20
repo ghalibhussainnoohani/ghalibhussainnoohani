@@ -382,3 +382,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-17T14:13:43+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-02-19T10:41:22+05:00`: refactor: simplify request validation middleware
 - `2025-02-19T22:13:35+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-02-20T20:49:18+05:00`: fix: handle stream reconnection on socket drop
