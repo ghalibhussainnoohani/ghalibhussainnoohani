@@ -425,3 +425,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-19T15:27:18+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-02-20T11:42:57+05:00`: refactor: simplify request validation middleware
 - `2025-02-21T10:14:58+05:00`: chore: update dependencies and bump minor versions
+- `2025-02-21T21:39:44+05:00`: feat: add image preprocessing pipeline for vision model
