@@ -390,3 +390,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-25T20:55:39+05:00`: fix: correct timestamp offset in audit logger
 - `2025-02-25T22:55:18+05:00`: feat: support custom bounding box color coding
 - `2025-02-25T22:30:39+05:00`: perf: reduce memory footprint during model warmup
+- `2025-02-26T17:15:39+05:00`: docs: document deployment architectures and configs
