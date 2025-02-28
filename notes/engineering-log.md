@@ -431,3 +431,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-22T13:28:38+05:00`: feat: implement adaptive frame rate controller
 - `2025-02-24T14:54:07+05:00`: docs: update API documentation and endpoint schemas
 - `2025-02-27T20:08:09+05:00`: feat: integrate health check ping for active streams
+- `2025-02-28T10:24:33+05:00`: fix: handle edge cases in coordinates normalization
