@@ -393,3 +393,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-26T17:15:39+05:00`: docs: document deployment architectures and configs
 - `2025-02-27T12:30:30+05:00`: feat: add benchmark script for inference latency
 - `2025-02-28T13:33:12+05:00`: chore: update dependencies and bump minor versions
+- `2025-02-28T13:55:52+05:00`: perf: optimize frame buffer allocation in streaming loop
