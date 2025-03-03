@@ -436,3 +436,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-02-28T15:32:32+05:00`: chore: update dependencies and bump minor versions
 - `2025-03-03T10:12:22+05:00`: feat: support custom bounding box color coding
 - `2025-03-03T10:38:42+05:00`: refactor: clean up utility functions and typing
+- `2025-03-03T22:59:12+05:00`: perf: optimize frame buffer allocation in streaming loop
