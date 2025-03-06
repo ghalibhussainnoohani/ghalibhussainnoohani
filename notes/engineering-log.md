@@ -443,3 +443,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-05T19:36:32+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-03-05T22:15:46+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-03-06T13:09:43+05:00`: feat: add benchmark script for inference latency
+- `2025-03-06T16:16:29+05:00`: feat: add support for RTSP stream timeout handling
