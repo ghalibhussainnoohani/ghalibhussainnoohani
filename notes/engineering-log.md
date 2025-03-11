@@ -403,3 +403,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-07T15:18:52+05:00`: docs: update API documentation and endpoint schemas
 - `2025-03-10T21:32:49+05:00`: perf: reduce memory footprint during model warmup
 - `2025-03-11T19:23:27+05:00`: feat: support custom bounding box color coding
+- `2025-03-11T17:54:00+05:00`: docs: add setup instructions for local development
