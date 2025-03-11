@@ -446,3 +446,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-06T16:16:29+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-03-10T16:18:43+05:00`: fix: handle stream reconnection on socket drop
 - `2025-03-11T20:13:20+05:00`: feat: implement retry policy for transient network drops
+- `2025-03-11T18:25:37+05:00`: feat: add benchmark script for inference latency
