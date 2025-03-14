@@ -406,3 +406,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-11T17:54:00+05:00`: docs: add setup instructions for local development
 - `2025-03-11T10:08:51+05:00`: docs: add setup instructions for local development
 - `2025-03-13T18:27:58+05:00`: feat: introduce async event emitter for telemetry
+- `2025-03-14T18:19:57+05:00`: fix: handle stream reconnection on socket drop
