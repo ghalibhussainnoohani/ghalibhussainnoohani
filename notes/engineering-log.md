@@ -448,3 +448,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-11T20:13:20+05:00`: feat: implement retry policy for transient network drops
 - `2025-03-11T18:25:37+05:00`: feat: add benchmark script for inference latency
 - `2025-03-11T15:28:25+05:00`: refactor: simplify request validation middleware
+- `2025-03-14T16:47:12+05:00`: feat: add support for RTSP stream timeout handling
