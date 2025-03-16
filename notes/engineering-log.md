@@ -451,3 +451,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-14T16:47:12+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-03-14T18:57:15+05:00`: perf: reduce memory footprint during model warmup
 - `2025-03-14T12:00:23+05:00`: fix: handle stream reconnection on socket drop
+- `2025-03-16T13:30:42+05:00`: feat: implement adaptive frame rate controller
