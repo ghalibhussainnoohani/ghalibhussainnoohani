@@ -410,3 +410,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-14T10:45:16+05:00`: fix: correct timestamp offset in audit logger
 - `2025-03-14T15:14:54+05:00`: refactor: clean up utility functions and typing
 - `2025-03-16T14:57:04+05:00`: feat: implement retry policy for transient network drops
+- `2025-03-16T11:30:15+05:00`: fix: handle stream reconnection on socket drop
