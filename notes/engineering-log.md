@@ -456,3 +456,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-16T20:08:19+05:00`: feat: introduce async event emitter for telemetry
 - `2025-03-17T16:22:32+05:00`: perf: reduce memory footprint during model warmup
 - `2025-03-18T13:55:32+05:00`: feat: add benchmark script for inference latency
+- `2025-03-18T10:25:04+05:00`: fix: resolve race condition in connection manager
