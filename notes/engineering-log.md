@@ -463,3 +463,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-24T15:44:09+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-03-25T11:33:22+05:00`: feat: support custom bounding box color coding
 - `2025-03-26T22:05:05+05:00`: chore: format codebase and organize imports
+- `2025-03-26T18:42:31+05:00`: perf: reduce memory footprint during model warmup
