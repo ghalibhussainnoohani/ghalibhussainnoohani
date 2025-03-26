@@ -419,3 +419,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-24T11:12:51+05:00`: perf: optimize database query execution plan
 - `2025-03-24T13:52:41+05:00`: test: add unit tests for camera service initialization
 - `2025-03-25T15:46:33+05:00`: chore: update dependencies and bump minor versions
+- `2025-03-26T19:50:35+05:00`: perf: optimize frame buffer allocation in streaming loop
