@@ -425,3 +425,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-31T10:15:59+05:00`: docs: update API documentation and endpoint schemas
 - `2025-04-02T22:32:46+05:00`: docs: add setup instructions for local development
 - `2025-04-02T16:10:32+05:00`: docs: add setup instructions for local development
+- `2025-04-02T15:37:34+05:00`: docs: document deployment architectures and configs
