@@ -473,3 +473,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-02T19:35:58+05:00`: chore: format codebase and organize imports
 - `2025-04-02T13:58:16+05:00`: perf: optimize database query execution plan
 - `2025-04-02T17:50:21+05:00`: feat: add benchmark script for inference latency
+- `2025-04-02T16:21:39+05:00`: refactor: decouple inference engine from websocket service
