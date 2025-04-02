@@ -423,3 +423,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-03-26T11:48:19+05:00`: perf: optimize database query execution plan
 - `2025-03-28T11:09:08+05:00`: chore: format codebase and organize imports
 - `2025-03-31T10:15:59+05:00`: docs: update API documentation and endpoint schemas
+- `2025-04-02T22:32:46+05:00`: docs: add setup instructions for local development
