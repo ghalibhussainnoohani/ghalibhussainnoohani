@@ -475,3 +475,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-02T17:50:21+05:00`: feat: add benchmark script for inference latency
 - `2025-04-02T16:21:39+05:00`: refactor: decouple inference engine from websocket service
 - `2025-04-03T10:50:12+05:00`: perf: optimize database query execution plan
+- `2025-04-04T19:41:40+05:00`: feat: support custom bounding box color coding
