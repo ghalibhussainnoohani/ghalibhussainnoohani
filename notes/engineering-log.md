@@ -477,3 +477,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-03T10:50:12+05:00`: perf: optimize database query execution plan
 - `2025-04-04T19:41:40+05:00`: feat: support custom bounding box color coding
 - `2025-04-04T14:04:02+05:00`: perf: reduce memory footprint during model warmup
+- `2025-04-08T19:33:18+05:00`: perf: enable zero-copy tensor conversion where available
