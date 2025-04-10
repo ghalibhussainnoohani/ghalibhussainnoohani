@@ -480,3 +480,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-08T19:33:18+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-04-09T11:36:38+05:00`: feat: introduce async event emitter for telemetry
 - `2025-04-10T15:01:42+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-04-10T21:09:13+05:00`: refactor: simplify request validation middleware
