@@ -481,3 +481,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-09T11:36:38+05:00`: feat: introduce async event emitter for telemetry
 - `2025-04-10T15:01:42+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-04-10T21:09:13+05:00`: refactor: simplify request validation middleware
+- `2025-04-11T10:21:26+05:00`: perf: reduce memory footprint during model warmup
