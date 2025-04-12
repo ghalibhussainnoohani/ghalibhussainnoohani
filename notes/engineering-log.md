@@ -438,3 +438,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-09T16:11:37+05:00`: fix: correct timestamp offset in audit logger
 - `2025-04-09T15:43:21+05:00`: feat: add benchmark script for inference latency
 - `2025-04-11T22:00:54+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-04-12T18:09:37+05:00`: docs: add setup instructions for local development
