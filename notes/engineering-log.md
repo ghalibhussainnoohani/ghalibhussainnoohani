@@ -483,3 +483,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-10T21:09:13+05:00`: refactor: simplify request validation middleware
 - `2025-04-11T10:21:26+05:00`: perf: reduce memory footprint during model warmup
 - `2025-04-11T15:09:48+05:00`: chore: update dependencies and bump minor versions
+- `2025-04-13T15:05:33+05:00`: perf: optimize frame buffer allocation in streaming loop
