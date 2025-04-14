@@ -484,3 +484,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-11T10:21:26+05:00`: perf: reduce memory footprint during model warmup
 - `2025-04-11T15:09:48+05:00`: chore: update dependencies and bump minor versions
 - `2025-04-13T15:05:33+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-04-14T12:56:48+05:00`: feat: implement adaptive frame rate controller
