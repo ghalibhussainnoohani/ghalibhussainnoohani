@@ -440,3 +440,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-11T22:00:54+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-04-12T18:09:37+05:00`: docs: add setup instructions for local development
 - `2025-04-14T17:33:24+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-04-15T14:11:33+05:00`: feat: introduce async event emitter for telemetry
