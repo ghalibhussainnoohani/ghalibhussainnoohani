@@ -488,3 +488,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-14T16:53:35+05:00`: feat: add benchmark script for inference latency
 - `2025-04-14T18:12:20+05:00`: feat: integrate health check ping for active streams
 - `2025-04-15T14:53:21+05:00`: chore: update dependencies and bump minor versions
+- `2025-04-17T22:55:10+05:00`: refactor: decouple inference engine from websocket service
