@@ -447,3 +447,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-18T22:21:55+05:00`: feat: implement adaptive frame rate controller
 - `2025-04-18T13:31:25+05:00`: feat: implement retry policy for transient network drops
 - `2025-04-18T13:04:51+05:00`: feat: introduce async event emitter for telemetry
+- `2025-04-18T12:02:38+05:00`: refactor: decouple inference engine from websocket service
