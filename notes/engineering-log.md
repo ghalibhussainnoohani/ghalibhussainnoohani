@@ -450,3 +450,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-18T12:02:38+05:00`: refactor: decouple inference engine from websocket service
 - `2025-04-22T22:21:03+05:00`: feat: integrate health check ping for active streams
 - `2025-04-22T11:18:06+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-04-23T21:35:59+05:00`: fix: handle stream reconnection on socket drop
