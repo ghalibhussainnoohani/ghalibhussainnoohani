@@ -492,3 +492,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-18T17:27:32+05:00`: fix: correct timestamp offset in audit logger
 - `2025-04-22T19:14:37+05:00`: test: add unit tests for camera service initialization
 - `2025-04-23T19:45:06+05:00`: test: add unit tests for camera service initialization
+- `2025-04-24T12:42:34+05:00`: fix: handle stream reconnection on socket drop
