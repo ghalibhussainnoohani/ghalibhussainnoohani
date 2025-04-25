@@ -495,3 +495,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-24T12:42:34+05:00`: fix: handle stream reconnection on socket drop
 - `2025-04-24T13:16:38+05:00`: feat: implement adaptive frame rate controller
 - `2025-04-24T10:04:26+05:00`: chore: format codebase and organize imports
+- `2025-04-25T22:53:56+05:00`: feat: add image preprocessing pipeline for vision model
