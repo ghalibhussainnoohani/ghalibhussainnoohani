@@ -499,3 +499,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-25T15:03:25+05:00`: feat: implement adaptive frame rate controller
 - `2025-04-26T19:36:06+05:00`: refactor: simplify request validation middleware
 - `2025-04-26T11:59:37+05:00`: feat: implement retry policy for transient network drops
+- `2025-04-27T12:58:01+05:00`: perf: optimize frame buffer allocation in streaming loop
