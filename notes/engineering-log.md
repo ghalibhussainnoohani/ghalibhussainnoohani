@@ -456,3 +456,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-27T19:54:27+05:00`: docs: document deployment architectures and configs
 - `2025-04-27T22:27:41+05:00`: test: add unit tests for camera service initialization
 - `2025-04-29T21:43:16+05:00`: docs: update API documentation and endpoint schemas
+- `2025-04-29T18:30:28+05:00`: perf: enable zero-copy tensor conversion where available
