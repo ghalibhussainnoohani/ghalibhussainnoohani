@@ -501,3 +501,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-26T11:59:37+05:00`: feat: implement retry policy for transient network drops
 - `2025-04-27T12:58:01+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-04-28T13:33:29+05:00`: perf: optimize database query execution plan
+- `2025-04-29T22:17:28+05:00`: fix: handle stream reconnection on socket drop
