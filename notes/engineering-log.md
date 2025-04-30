@@ -503,3 +503,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-28T13:33:29+05:00`: perf: optimize database query execution plan
 - `2025-04-29T22:17:28+05:00`: fix: handle stream reconnection on socket drop
 - `2025-04-30T14:40:59+05:00`: refactor: decouple inference engine from websocket service
+- `2025-04-30T11:55:39+05:00`: docs: document deployment architectures and configs
