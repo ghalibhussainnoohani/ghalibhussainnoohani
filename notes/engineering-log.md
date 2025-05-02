@@ -506,3 +506,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-30T11:55:39+05:00`: docs: document deployment architectures and configs
 - `2025-05-01T10:07:17+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-05-02T20:15:34+05:00`: feat: add benchmark script for inference latency
+- `2025-05-02T21:55:11+05:00`: fix: correct timestamp offset in audit logger
