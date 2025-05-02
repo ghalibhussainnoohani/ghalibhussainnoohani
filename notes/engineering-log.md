@@ -505,3 +505,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-30T14:40:59+05:00`: refactor: decouple inference engine from websocket service
 - `2025-04-30T11:55:39+05:00`: docs: document deployment architectures and configs
 - `2025-05-01T10:07:17+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-05-02T20:15:34+05:00`: feat: add benchmark script for inference latency
