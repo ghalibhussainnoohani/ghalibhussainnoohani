@@ -460,3 +460,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-04-29T18:21:46+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-05-02T19:09:14+05:00`: docs: add setup instructions for local development
 - `2025-05-02T20:15:12+05:00`: fix: resolve race condition in connection manager
+- `2025-05-02T13:28:35+05:00`: fix: handle stream reconnection on socket drop
