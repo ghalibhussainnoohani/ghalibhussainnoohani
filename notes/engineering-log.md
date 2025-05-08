@@ -510,3 +510,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-05T11:45:37+05:00`: docs: update API documentation and endpoint schemas
 - `2025-05-08T13:26:54+05:00`: docs: document deployment architectures and configs
 - `2025-05-08T15:20:46+05:00`: docs: update API documentation and endpoint schemas
+- `2025-05-08T19:27:16+05:00`: refactor: decouple inference engine from websocket service
