@@ -515,3 +515,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-09T12:29:43+05:00`: feat: support custom bounding box color coding
 - `2025-05-09T17:47:38+05:00`: docs: update API documentation and endpoint schemas
 - `2025-05-13T18:22:17+05:00`: refactor: decouple inference engine from websocket service
+- `2025-05-13T10:48:48+05:00`: fix: resolve race condition in connection manager
