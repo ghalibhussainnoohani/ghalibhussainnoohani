@@ -473,3 +473,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-12T22:57:13+05:00`: fix: correct timestamp offset in audit logger
 - `2025-05-12T21:52:53+05:00`: fix: correct timestamp offset in audit logger
 - `2025-05-12T21:03:39+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-05-13T19:06:00+05:00`: refactor: decouple inference engine from websocket service
