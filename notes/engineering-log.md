@@ -514,3 +514,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-09T15:31:51+05:00`: chore: update dependencies and bump minor versions
 - `2025-05-09T12:29:43+05:00`: feat: support custom bounding box color coding
 - `2025-05-09T17:47:38+05:00`: docs: update API documentation and endpoint schemas
+- `2025-05-13T18:22:17+05:00`: refactor: decouple inference engine from websocket service
