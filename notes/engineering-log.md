@@ -477,3 +477,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-13T21:40:41+05:00`: perf: reduce memory footprint during model warmup
 - `2025-05-14T17:31:22+05:00`: refactor: simplify request validation middleware
 - `2025-05-14T17:51:16+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-05-14T18:37:08+05:00`: refactor: decouple inference engine from websocket service
