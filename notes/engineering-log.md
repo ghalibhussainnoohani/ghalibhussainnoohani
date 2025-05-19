@@ -520,3 +520,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-16T10:23:44+05:00`: docs: add setup instructions for local development
 - `2025-05-16T19:40:27+05:00`: perf: optimize database query execution plan
 - `2025-05-16T21:02:05+05:00`: fix: correct timestamp offset in audit logger
+- `2025-05-19T22:48:30+05:00`: perf: optimize database query execution plan
