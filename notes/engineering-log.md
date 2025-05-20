@@ -480,3 +480,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-14T18:37:08+05:00`: refactor: decouple inference engine from websocket service
 - `2025-05-16T10:21:01+05:00`: docs: add setup instructions for local development
 - `2025-05-19T19:18:09+05:00`: perf: reduce memory footprint during model warmup
+- `2025-05-20T20:19:58+05:00`: perf: optimize database query execution plan
