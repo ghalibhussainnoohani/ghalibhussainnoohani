@@ -523,3 +523,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-19T22:48:30+05:00`: perf: optimize database query execution plan
 - `2025-05-20T17:32:09+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-05-20T21:19:31+05:00`: feat: integrate health check ping for active streams
+- `2025-05-21T15:07:22+05:00`: fix: handle edge cases in coordinates normalization
