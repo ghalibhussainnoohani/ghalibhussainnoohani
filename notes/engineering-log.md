@@ -484,3 +484,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-20T22:42:36+05:00`: refactor: clean up utility functions and typing
 - `2025-05-21T21:50:43+05:00`: docs: update API documentation and endpoint schemas
 - `2025-05-21T17:10:56+05:00`: fix: handle stream reconnection on socket drop
+- `2025-05-22T18:36:55+05:00`: fix: correct timestamp offset in audit logger
