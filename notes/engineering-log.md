@@ -525,3 +525,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-20T21:19:31+05:00`: feat: integrate health check ping for active streams
 - `2025-05-21T15:07:22+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-05-22T16:35:29+05:00`: test: add unit tests for camera service initialization
+- `2025-05-25T11:53:17+05:00`: perf: optimize frame buffer allocation in streaming loop
