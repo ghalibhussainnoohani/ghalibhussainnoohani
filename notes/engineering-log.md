@@ -527,3 +527,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-22T16:35:29+05:00`: test: add unit tests for camera service initialization
 - `2025-05-25T11:53:17+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-05-25T18:16:32+05:00`: feat: integrate health check ping for active streams
+- `2025-05-26T13:16:21+05:00`: feat: implement retry policy for transient network drops
