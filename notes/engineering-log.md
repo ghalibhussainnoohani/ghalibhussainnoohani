@@ -531,3 +531,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-26T11:00:19+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-05-26T16:56:35+05:00`: docs: add setup instructions for local development
 - `2025-05-26T10:48:10+05:00`: fix: correct timestamp offset in audit logger
+- `2025-05-27T16:39:05+05:00`: test: add unit tests for camera service initialization
