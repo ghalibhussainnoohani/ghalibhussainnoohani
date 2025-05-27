@@ -491,3 +491,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-25T18:55:23+05:00`: chore: update dependencies and bump minor versions
 - `2025-05-26T19:03:22+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-05-26T19:21:12+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-05-27T10:34:05+05:00`: refactor: decouple inference engine from websocket service
