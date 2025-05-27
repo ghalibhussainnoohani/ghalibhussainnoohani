@@ -533,3 +533,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-26T10:48:10+05:00`: fix: correct timestamp offset in audit logger
 - `2025-05-27T16:39:05+05:00`: test: add unit tests for camera service initialization
 - `2025-05-27T12:04:45+05:00`: perf: reduce memory footprint during model warmup
+- `2025-05-27T18:30:39+05:00`: fix: resolve race condition in connection manager
