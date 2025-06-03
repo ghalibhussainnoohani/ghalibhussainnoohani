@@ -495,3 +495,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-29T15:01:28+05:00`: chore: update dependencies and bump minor versions
 - `2025-05-29T21:18:59+05:00`: feat: add benchmark script for inference latency
 - `2025-06-02T16:19:25+05:00`: feat: integrate health check ping for active streams
+- `2025-06-03T20:37:21+05:00`: refactor: clean up utility functions and typing
