@@ -538,3 +538,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-05-28T22:02:18+05:00`: chore: update dependencies and bump minor versions
 - `2025-05-29T12:34:30+05:00`: refactor: clean up utility functions and typing
 - `2025-05-29T18:06:11+05:00`: docs: update API documentation and endpoint schemas
+- `2025-06-03T20:51:18+05:00`: docs: document deployment architectures and configs
