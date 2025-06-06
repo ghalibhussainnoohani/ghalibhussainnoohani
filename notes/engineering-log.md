@@ -498,3 +498,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-03T20:37:21+05:00`: refactor: clean up utility functions and typing
 - `2025-06-04T15:46:44+05:00`: feat: support custom bounding box color coding
 - `2025-06-04T15:28:27+05:00`: refactor: simplify request validation middleware
+- `2025-06-06T10:04:07+05:00`: docs: add setup instructions for local development
