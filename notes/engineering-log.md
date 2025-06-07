@@ -542,3 +542,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-04T14:21:00+05:00`: refactor: decouple inference engine from websocket service
 - `2025-06-05T15:18:05+05:00`: refactor: simplify request validation middleware
 - `2025-06-05T18:33:21+05:00`: docs: update API documentation and endpoint schemas
+- `2025-06-07T11:23:13+05:00`: fix: resolve race condition in connection manager
