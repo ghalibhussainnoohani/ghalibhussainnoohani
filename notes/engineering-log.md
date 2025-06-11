@@ -502,3 +502,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-06T17:10:58+05:00`: fix: handle stream reconnection on socket drop
 - `2025-06-08T12:31:28+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-06-09T18:32:55+05:00`: docs: document deployment architectures and configs
+- `2025-06-11T10:42:02+05:00`: docs: add setup instructions for local development
