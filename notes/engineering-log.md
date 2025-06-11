@@ -547,3 +547,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-09T19:54:28+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-06-09T14:29:10+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-06-09T13:34:37+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-06-11T15:18:36+05:00`: perf: optimize frame buffer allocation in streaming loop
