@@ -551,3 +551,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-11T16:32:12+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-06-12T17:44:25+05:00`: feat: introduce async event emitter for telemetry
 - `2025-06-12T18:52:32+05:00`: fix: handle stream reconnection on socket drop
+- `2025-06-13T16:24:16+05:00`: perf: reduce memory footprint during model warmup
