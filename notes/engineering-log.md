@@ -504,3 +504,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-09T18:32:55+05:00`: docs: document deployment architectures and configs
 - `2025-06-11T10:42:02+05:00`: docs: add setup instructions for local development
 - `2025-06-14T14:30:57+05:00`: chore: format codebase and organize imports
+- `2025-06-14T12:42:42+05:00`: fix: handle edge cases in coordinates normalization
