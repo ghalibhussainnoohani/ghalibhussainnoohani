@@ -554,3 +554,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-13T16:24:16+05:00`: perf: reduce memory footprint during model warmup
 - `2025-06-13T15:54:55+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-06-15T22:21:49+05:00`: feat: add benchmark script for inference latency
+- `2025-06-15T22:54:58+05:00`: feat: add support for RTSP stream timeout handling
