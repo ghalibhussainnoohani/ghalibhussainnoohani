@@ -506,3 +506,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-14T14:30:57+05:00`: chore: format codebase and organize imports
 - `2025-06-14T12:42:42+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-06-14T21:18:37+05:00`: refactor: clean up utility functions and typing
+- `2025-06-15T16:44:43+05:00`: feat: implement adaptive frame rate controller
