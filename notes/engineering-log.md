@@ -509,3 +509,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-15T16:44:43+05:00`: feat: implement adaptive frame rate controller
 - `2025-06-15T18:28:40+05:00`: perf: reduce memory footprint during model warmup
 - `2025-06-16T20:53:16+05:00`: refactor: clean up utility functions and typing
+- `2025-06-17T19:34:18+05:00`: docs: add setup instructions for local development
