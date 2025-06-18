@@ -556,3 +556,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-15T22:21:49+05:00`: feat: add benchmark script for inference latency
 - `2025-06-15T22:54:58+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-06-15T18:22:20+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-06-18T19:49:53+05:00`: feat: support custom bounding box color coding
