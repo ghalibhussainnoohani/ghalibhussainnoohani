@@ -511,3 +511,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-16T20:53:16+05:00`: refactor: clean up utility functions and typing
 - `2025-06-17T19:34:18+05:00`: docs: add setup instructions for local development
 - `2025-06-19T15:48:05+05:00`: refactor: simplify request validation middleware
+- `2025-06-19T17:12:36+05:00`: fix: correct timestamp offset in audit logger
