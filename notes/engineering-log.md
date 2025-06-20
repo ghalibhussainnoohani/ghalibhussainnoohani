@@ -560,3 +560,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-18T12:53:53+05:00`: fix: handle stream reconnection on socket drop
 - `2025-06-18T21:21:12+05:00`: docs: update API documentation and endpoint schemas
 - `2025-06-19T15:16:50+05:00`: feat: implement adaptive frame rate controller
+- `2025-06-20T15:23:18+05:00`: refactor: decouple inference engine from websocket service
