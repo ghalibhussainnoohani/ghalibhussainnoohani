@@ -563,3 +563,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-20T15:23:18+05:00`: refactor: decouple inference engine from websocket service
 - `2025-06-20T10:56:34+05:00`: docs: update API documentation and endpoint schemas
 - `2025-06-22T20:03:13+05:00`: test: add unit tests for camera service initialization
+- `2025-06-23T13:31:03+05:00`: feat: support custom bounding box color coding
