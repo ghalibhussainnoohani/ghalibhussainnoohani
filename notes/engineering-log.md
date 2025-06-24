@@ -516,3 +516,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-22T11:27:42+05:00`: refactor: clean up utility functions and typing
 - `2025-06-23T12:51:11+05:00`: chore: update dependencies and bump minor versions
 - `2025-06-23T10:28:11+05:00`: feat: implement retry policy for transient network drops
+- `2025-06-24T18:11:53+05:00`: docs: document deployment architectures and configs
