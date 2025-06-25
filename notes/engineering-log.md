@@ -570,3 +570,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-24T18:57:00+05:00`: chore: update dependencies and bump minor versions
 - `2025-06-24T13:54:48+05:00`: feat: add benchmark script for inference latency
 - `2025-06-24T22:19:09+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-06-25T19:58:42+05:00`: feat: support custom bounding box color coding
