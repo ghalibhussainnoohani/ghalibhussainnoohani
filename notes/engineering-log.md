@@ -519,3 +519,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-24T18:11:53+05:00`: docs: document deployment architectures and configs
 - `2025-06-25T14:11:34+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-06-25T20:15:45+05:00`: refactor: clean up utility functions and typing
+- `2025-06-26T22:00:46+05:00`: feat: implement retry policy for transient network drops
