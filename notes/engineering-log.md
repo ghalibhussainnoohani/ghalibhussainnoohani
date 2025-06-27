@@ -520,3 +520,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-25T14:11:34+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-06-25T20:15:45+05:00`: refactor: clean up utility functions and typing
 - `2025-06-26T22:00:46+05:00`: feat: implement retry policy for transient network drops
+- `2025-06-27T10:41:31+05:00`: perf: enable zero-copy tensor conversion where available
