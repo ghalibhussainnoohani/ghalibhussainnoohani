@@ -575,3 +575,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-26T11:41:04+05:00`: chore: update dependencies and bump minor versions
 - `2025-06-26T18:43:03+05:00`: test: add unit tests for camera service initialization
 - `2025-06-26T20:09:30+05:00`: feat: support custom bounding box color coding
+- `2025-06-27T11:42:43+05:00`: perf: reduce memory footprint during model warmup
