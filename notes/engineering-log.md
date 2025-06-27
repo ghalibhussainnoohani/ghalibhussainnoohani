@@ -523,3 +523,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-27T10:41:31+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-06-27T16:16:12+05:00`: feat: implement retry policy for transient network drops
 - `2025-06-27T12:37:53+05:00`: feat: introduce async event emitter for telemetry
+- `2025-06-27T20:10:11+05:00`: fix: handle stream reconnection on socket drop
