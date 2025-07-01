@@ -578,3 +578,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-06-27T11:42:43+05:00`: perf: reduce memory footprint during model warmup
 - `2025-06-27T13:37:23+05:00`: docs: document deployment architectures and configs
 - `2025-06-30T19:52:02+05:00`: docs: update API documentation and endpoint schemas
+- `2025-07-01T14:10:48+05:00`: fix: handle edge cases in coordinates normalization
