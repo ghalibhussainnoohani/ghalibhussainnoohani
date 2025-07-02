@@ -581,3 +581,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-01T14:10:48+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-07-01T13:30:58+05:00`: refactor: simplify request validation middleware
 - `2025-07-01T20:01:54+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-07-02T11:17:47+05:00`: feat: support custom bounding box color coding
