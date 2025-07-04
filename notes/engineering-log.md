@@ -584,3 +584,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-02T11:17:47+05:00`: feat: support custom bounding box color coding
 - `2025-07-03T22:32:08+05:00`: docs: add setup instructions for local development
 - `2025-07-03T11:43:42+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-07-04T19:05:27+05:00`: feat: support custom bounding box color coding
