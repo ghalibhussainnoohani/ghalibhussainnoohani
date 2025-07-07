@@ -586,3 +586,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-03T11:43:42+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-07-04T19:05:27+05:00`: feat: support custom bounding box color coding
 - `2025-07-04T13:47:18+05:00`: docs: update API documentation and endpoint schemas
+- `2025-07-07T12:50:07+05:00`: feat: add support for RTSP stream timeout handling
