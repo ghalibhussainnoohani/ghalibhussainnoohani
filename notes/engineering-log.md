@@ -529,3 +529,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-01T18:26:14+05:00`: feat: introduce async event emitter for telemetry
 - `2025-07-07T18:08:53+05:00`: refactor: simplify request validation middleware
 - `2025-07-07T21:24:29+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-07-07T16:27:18+05:00`: feat: add support for RTSP stream timeout handling
