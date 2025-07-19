@@ -540,3 +540,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-16T15:57:49+05:00`: chore: format codebase and organize imports
 - `2025-07-18T13:52:08+05:00`: refactor: simplify request validation middleware
 - `2025-07-18T17:31:24+05:00`: docs: add setup instructions for local development
+- `2025-07-19T14:49:13+05:00`: fix: handle edge cases in coordinates normalization
