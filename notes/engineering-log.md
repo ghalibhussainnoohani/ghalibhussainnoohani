@@ -600,3 +600,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-18T13:48:47+05:00`: refactor: clean up utility functions and typing
 - `2025-07-18T12:21:52+05:00`: refactor: simplify request validation middleware
 - `2025-07-20T17:40:50+05:00`: feat: add benchmark script for inference latency
+- `2025-07-21T10:18:27+05:00`: fix: handle edge cases in coordinates normalization
