@@ -547,3 +547,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-22T17:28:23+05:00`: fix: correct timestamp offset in audit logger
 - `2025-07-23T22:45:05+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-07-23T22:55:47+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-07-23T11:21:31+05:00`: fix: handle stream reconnection on socket drop
