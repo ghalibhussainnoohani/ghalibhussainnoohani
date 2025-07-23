@@ -545,3 +545,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-21T19:43:46+05:00`: feat: add benchmark script for inference latency
 - `2025-07-22T20:57:36+05:00`: fix: handle stream reconnection on socket drop
 - `2025-07-22T17:28:23+05:00`: fix: correct timestamp offset in audit logger
+- `2025-07-23T22:45:05+05:00`: perf: enable zero-copy tensor conversion where available
