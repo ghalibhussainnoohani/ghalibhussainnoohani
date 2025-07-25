@@ -605,3 +605,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-22T11:22:19+05:00`: test: add unit tests for camera service initialization
 - `2025-07-22T17:07:11+05:00`: perf: reduce memory footprint during model warmup
 - `2025-07-24T15:59:19+05:00`: fix: handle stream reconnection on socket drop
+- `2025-07-25T17:18:37+05:00`: feat: introduce async event emitter for telemetry
