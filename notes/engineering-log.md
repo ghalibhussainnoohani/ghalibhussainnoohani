@@ -557,3 +557,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-29T10:27:26+05:00`: feat: implement adaptive frame rate controller
 - `2025-07-30T19:42:31+05:00`: docs: update API documentation and endpoint schemas
 - `2025-07-30T11:24:09+05:00`: chore: format codebase and organize imports
+- `2025-07-30T10:14:03+05:00`: docs: document deployment architectures and configs
