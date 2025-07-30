@@ -558,3 +558,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-30T19:42:31+05:00`: docs: update API documentation and endpoint schemas
 - `2025-07-30T11:24:09+05:00`: chore: format codebase and organize imports
 - `2025-07-30T10:14:03+05:00`: docs: document deployment architectures and configs
+- `2025-07-30T13:24:20+05:00`: perf: optimize frame buffer allocation in streaming loop
