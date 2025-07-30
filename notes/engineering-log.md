@@ -555,3 +555,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-07-28T22:44:50+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-07-28T20:14:57+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-07-29T10:27:26+05:00`: feat: implement adaptive frame rate controller
+- `2025-07-30T19:42:31+05:00`: docs: update API documentation and endpoint schemas
