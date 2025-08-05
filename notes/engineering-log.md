@@ -611,3 +611,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-04T16:41:38+05:00`: test: add unit tests for camera service initialization
 - `2025-08-04T20:20:42+05:00`: refactor: clean up utility functions and typing
 - `2025-08-04T11:19:23+05:00`: docs: document deployment architectures and configs
+- `2025-08-05T20:11:53+05:00`: perf: reduce memory footprint during model warmup
