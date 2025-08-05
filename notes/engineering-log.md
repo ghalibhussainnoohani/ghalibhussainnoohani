@@ -614,3 +614,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-05T20:11:53+05:00`: perf: reduce memory footprint during model warmup
 - `2025-08-05T19:16:36+05:00`: feat: introduce async event emitter for telemetry
 - `2025-08-05T19:08:16+05:00`: docs: document deployment architectures and configs
+- `2025-08-05T19:19:05+05:00`: fix: handle stream reconnection on socket drop
