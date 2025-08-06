@@ -565,3 +565,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-01T18:06:42+05:00`: refactor: decouple inference engine from websocket service
 - `2025-08-01T18:07:07+05:00`: feat: integrate health check ping for active streams
 - `2025-08-05T17:47:15+05:00`: feat: support custom bounding box color coding
+- `2025-08-06T12:37:49+05:00`: chore: format codebase and organize imports
