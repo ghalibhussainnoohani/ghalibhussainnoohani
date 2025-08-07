@@ -617,3 +617,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-05T19:19:05+05:00`: fix: handle stream reconnection on socket drop
 - `2025-08-07T22:21:14+05:00`: fix: correct timestamp offset in audit logger
 - `2025-08-07T10:18:53+05:00`: refactor: clean up utility functions and typing
+- `2025-08-07T14:20:26+05:00`: perf: reduce memory footprint during model warmup
