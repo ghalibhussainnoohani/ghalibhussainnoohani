@@ -567,3 +567,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-05T17:47:15+05:00`: feat: support custom bounding box color coding
 - `2025-08-06T12:37:49+05:00`: chore: format codebase and organize imports
 - `2025-08-07T17:47:22+05:00`: docs: update API documentation and endpoint schemas
+- `2025-08-08T10:36:17+05:00`: fix: correct timestamp offset in audit logger
