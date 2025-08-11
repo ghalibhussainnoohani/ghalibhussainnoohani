@@ -621,3 +621,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-11T11:46:34+05:00`: test: add unit tests for camera service initialization
 - `2025-08-11T12:59:13+05:00`: feat: add benchmark script for inference latency
 - `2025-08-11T20:51:13+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-08-11T16:46:14+05:00`: docs: document deployment architectures and configs
