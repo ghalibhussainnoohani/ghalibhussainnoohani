@@ -619,3 +619,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-07T10:18:53+05:00`: refactor: clean up utility functions and typing
 - `2025-08-07T14:20:26+05:00`: perf: reduce memory footprint during model warmup
 - `2025-08-11T11:46:34+05:00`: test: add unit tests for camera service initialization
+- `2025-08-11T12:59:13+05:00`: feat: add benchmark script for inference latency
