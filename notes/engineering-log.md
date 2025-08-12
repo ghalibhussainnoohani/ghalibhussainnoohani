@@ -570,3 +570,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-08T10:36:17+05:00`: fix: correct timestamp offset in audit logger
 - `2025-08-12T11:25:21+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-08-12T16:57:02+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-08-12T18:59:56+05:00`: docs: update API documentation and endpoint schemas
