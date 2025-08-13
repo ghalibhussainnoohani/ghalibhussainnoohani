@@ -627,3 +627,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-13T11:22:23+05:00`: refactor: decouple inference engine from websocket service
 - `2025-08-13T17:47:16+05:00`: feat: support custom bounding box color coding
 - `2025-08-13T21:31:54+05:00`: test: add unit tests for camera service initialization
+- `2025-08-13T18:24:28+05:00`: perf: optimize frame buffer allocation in streaming loop
