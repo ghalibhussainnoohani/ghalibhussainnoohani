@@ -625,3 +625,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-12T17:11:11+05:00`: chore: format codebase and organize imports
 - `2025-08-12T20:07:06+05:00`: fix: resolve race condition in connection manager
 - `2025-08-13T11:22:23+05:00`: refactor: decouple inference engine from websocket service
+- `2025-08-13T17:47:16+05:00`: feat: support custom bounding box color coding
