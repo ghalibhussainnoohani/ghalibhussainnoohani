@@ -578,3 +578,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-16T16:46:47+05:00`: chore: format codebase and organize imports
 - `2025-08-16T17:12:41+05:00`: perf: reduce memory footprint during model warmup
 - `2025-08-16T12:41:17+05:00`: refactor: decouple inference engine from websocket service
+- `2025-08-17T14:36:03+05:00`: test: add unit tests for camera service initialization
