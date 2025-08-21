@@ -583,3 +583,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-18T11:01:16+05:00`: test: add unit tests for camera service initialization
 - `2025-08-19T16:59:46+05:00`: feat: implement retry policy for transient network drops
 - `2025-08-19T11:25:46+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-08-21T22:20:22+05:00`: fix: correct timestamp offset in audit logger
