@@ -585,3 +585,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-19T11:25:46+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-08-21T22:20:22+05:00`: fix: correct timestamp offset in audit logger
 - `2025-08-21T15:29:53+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-08-22T14:43:59+05:00`: feat: add benchmark script for inference latency
