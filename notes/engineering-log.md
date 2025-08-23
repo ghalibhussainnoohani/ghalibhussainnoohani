@@ -588,3 +588,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-22T14:43:59+05:00`: feat: add benchmark script for inference latency
 - `2025-08-22T12:44:01+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-08-23T13:24:34+05:00`: chore: format codebase and organize imports
+- `2025-08-23T13:23:38+05:00`: feat: add image preprocessing pipeline for vision model
