@@ -596,3 +596,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-26T16:03:45+05:00`: chore: format codebase and organize imports
 - `2025-08-26T20:53:04+05:00`: feat: add benchmark script for inference latency
 - `2025-08-27T16:33:50+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-08-27T11:17:28+05:00`: fix: correct timestamp offset in audit logger
