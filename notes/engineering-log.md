@@ -646,3 +646,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-26T19:23:03+05:00`: test: add unit tests for camera service initialization
 - `2025-08-26T15:36:11+05:00`: fix: correct timestamp offset in audit logger
 - `2025-08-26T19:55:07+05:00`: feat: add benchmark script for inference latency
+- `2025-08-27T15:55:10+05:00`: perf: reduce memory footprint during model warmup
