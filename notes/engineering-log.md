@@ -649,3 +649,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-27T15:55:10+05:00`: perf: reduce memory footprint during model warmup
 - `2025-08-28T15:16:21+05:00`: feat: integrate health check ping for active streams
 - `2025-08-28T17:56:53+05:00`: chore: format codebase and organize imports
+- `2025-08-28T18:37:44+05:00`: docs: update API documentation and endpoint schemas
