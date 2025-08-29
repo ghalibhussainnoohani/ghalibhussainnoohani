@@ -599,3 +599,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-27T11:17:28+05:00`: fix: correct timestamp offset in audit logger
 - `2025-08-28T17:07:50+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-08-28T17:04:20+05:00`: feat: implement retry policy for transient network drops
+- `2025-08-29T18:48:32+05:00`: feat: add support for RTSP stream timeout handling
