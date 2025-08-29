@@ -651,3 +651,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-28T17:56:53+05:00`: chore: format codebase and organize imports
 - `2025-08-28T18:37:44+05:00`: docs: update API documentation and endpoint schemas
 - `2025-08-29T15:13:40+05:00`: feat: add benchmark script for inference latency
+- `2025-08-29T15:47:34+05:00`: fix: correct timestamp offset in audit logger
