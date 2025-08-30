@@ -603,3 +603,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-29T13:12:43+05:00`: docs: document deployment architectures and configs
 - `2025-08-30T21:38:06+05:00`: feat: introduce async event emitter for telemetry
 - `2025-08-30T20:30:15+05:00`: docs: document deployment architectures and configs
+- `2025-08-30T12:33:31+05:00`: perf: enable zero-copy tensor conversion where available
