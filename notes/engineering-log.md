@@ -606,3 +606,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-30T12:33:31+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-08-30T11:55:57+05:00`: feat: implement adaptive frame rate controller
 - `2025-09-01T22:55:20+05:00`: feat: support custom bounding box color coding
+- `2025-09-01T12:03:22+05:00`: feat: integrate health check ping for active streams
