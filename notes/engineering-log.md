@@ -605,3 +605,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-08-30T20:30:15+05:00`: docs: document deployment architectures and configs
 - `2025-08-30T12:33:31+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-08-30T11:55:57+05:00`: feat: implement adaptive frame rate controller
+- `2025-09-01T22:55:20+05:00`: feat: support custom bounding box color coding
