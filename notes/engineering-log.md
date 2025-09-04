@@ -658,3 +658,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-03T14:20:46+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-09-04T12:29:30+05:00`: refactor: clean up utility functions and typing
 - `2025-09-04T13:37:10+05:00`: perf: optimize database query execution plan
+- `2025-09-04T10:33:35+05:00`: perf: enable zero-copy tensor conversion where available
