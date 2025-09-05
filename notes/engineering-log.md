@@ -613,3 +613,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-03T15:31:37+05:00`: refactor: decouple inference engine from websocket service
 - `2025-09-03T19:44:22+05:00`: feat: integrate health check ping for active streams
 - `2025-09-04T17:04:44+05:00`: refactor: clean up utility functions and typing
+- `2025-09-05T18:10:54+05:00`: perf: reduce memory footprint during model warmup
