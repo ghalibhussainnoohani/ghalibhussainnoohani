@@ -614,3 +614,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-03T19:44:22+05:00`: feat: integrate health check ping for active streams
 - `2025-09-04T17:04:44+05:00`: refactor: clean up utility functions and typing
 - `2025-09-05T18:10:54+05:00`: perf: reduce memory footprint during model warmup
+- `2025-09-05T10:14:13+05:00`: feat: add benchmark script for inference latency
