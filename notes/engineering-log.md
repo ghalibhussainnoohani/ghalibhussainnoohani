@@ -615,3 +615,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-04T17:04:44+05:00`: refactor: clean up utility functions and typing
 - `2025-09-05T18:10:54+05:00`: perf: reduce memory footprint during model warmup
 - `2025-09-05T10:14:13+05:00`: feat: add benchmark script for inference latency
+- `2025-09-07T16:25:50+05:00`: feat: support custom bounding box color coding
