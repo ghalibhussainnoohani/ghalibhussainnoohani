@@ -661,3 +661,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-04T10:33:35+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-09-05T12:13:25+05:00`: feat: implement adaptive frame rate controller
 - `2025-09-09T15:47:15+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-09-09T22:57:00+05:00`: docs: add setup instructions for local development
