@@ -617,3 +617,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-05T10:14:13+05:00`: feat: add benchmark script for inference latency
 - `2025-09-07T16:25:50+05:00`: feat: support custom bounding box color coding
 - `2025-09-08T12:35:29+05:00`: refactor: simplify request validation middleware
+- `2025-09-09T13:48:04+05:00`: perf: enable zero-copy tensor conversion where available
