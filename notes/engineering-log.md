@@ -620,3 +620,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-09T13:48:04+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-09-09T20:52:13+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-09-09T13:30:08+05:00`: fix: handle stream reconnection on socket drop
+- `2025-09-10T13:36:54+05:00`: refactor: decouple inference engine from websocket service
