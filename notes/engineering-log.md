@@ -623,3 +623,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-10T13:36:54+05:00`: refactor: decouple inference engine from websocket service
 - `2025-09-11T15:41:39+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-09-11T13:24:42+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-09-15T13:06:21+05:00`: refactor: clean up utility functions and typing
