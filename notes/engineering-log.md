@@ -624,3 +624,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-11T15:41:39+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-09-11T13:24:42+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-09-15T13:06:21+05:00`: refactor: clean up utility functions and typing
+- `2025-09-15T15:51:15+05:00`: fix: resolve race condition in connection manager
