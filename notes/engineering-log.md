@@ -672,3 +672,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-15T12:06:39+05:00`: fix: correct timestamp offset in audit logger
 - `2025-09-15T22:00:10+05:00`: fix: correct timestamp offset in audit logger
 - `2025-09-15T11:25:57+05:00`: chore: update dependencies and bump minor versions
+- `2025-09-16T11:33:11+05:00`: feat: add benchmark script for inference latency
