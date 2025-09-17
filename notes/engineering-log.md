@@ -626,3 +626,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-15T13:06:21+05:00`: refactor: clean up utility functions and typing
 - `2025-09-15T15:51:15+05:00`: fix: resolve race condition in connection manager
 - `2025-09-16T17:11:56+05:00`: fix: handle stream reconnection on socket drop
+- `2025-09-17T11:50:52+05:00`: perf: enable zero-copy tensor conversion where available
