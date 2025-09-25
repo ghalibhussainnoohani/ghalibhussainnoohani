@@ -681,3 +681,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-23T22:09:57+05:00`: feat: integrate health check ping for active streams
 - `2025-09-24T15:30:52+05:00`: chore: format codebase and organize imports
 - `2025-09-24T20:20:28+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-09-25T12:39:24+05:00`: docs: update API documentation and endpoint schemas
