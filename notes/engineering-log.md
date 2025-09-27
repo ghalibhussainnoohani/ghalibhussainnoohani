@@ -631,3 +631,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-19T17:13:20+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-09-23T14:29:46+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-09-26T11:14:38+05:00`: fix: handle stream reconnection on socket drop
+- `2025-09-27T12:54:58+05:00`: fix: resolve race condition in connection manager
