@@ -632,3 +632,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-23T14:29:46+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-09-26T11:14:38+05:00`: fix: handle stream reconnection on socket drop
 - `2025-09-27T12:54:58+05:00`: fix: resolve race condition in connection manager
+- `2025-09-27T15:31:10+05:00`: docs: document deployment architectures and configs
