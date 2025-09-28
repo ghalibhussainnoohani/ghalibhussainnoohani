@@ -635,3 +635,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-27T15:31:10+05:00`: docs: document deployment architectures and configs
 - `2025-09-27T19:10:09+05:00`: fix: handle stream reconnection on socket drop
 - `2025-09-28T20:26:45+05:00`: fix: correct timestamp offset in audit logger
+- `2025-09-28T16:42:54+05:00`: refactor: decouple inference engine from websocket service
