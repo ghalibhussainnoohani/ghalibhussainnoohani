@@ -636,3 +636,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-27T19:10:09+05:00`: fix: handle stream reconnection on socket drop
 - `2025-09-28T20:26:45+05:00`: fix: correct timestamp offset in audit logger
 - `2025-09-28T16:42:54+05:00`: refactor: decouple inference engine from websocket service
+- `2025-09-28T16:14:57+05:00`: perf: optimize database query execution plan
