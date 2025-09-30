@@ -687,3 +687,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-26T21:30:26+05:00`: docs: document deployment architectures and configs
 - `2025-09-29T13:53:34+05:00`: feat: implement adaptive frame rate controller
 - `2025-09-29T20:31:11+05:00`: feat: implement adaptive frame rate controller
+- `2025-09-30T13:29:20+05:00`: refactor: clean up utility functions and typing
