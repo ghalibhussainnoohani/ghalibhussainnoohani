@@ -692,3 +692,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-09-30T20:54:52+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-10-01T18:01:00+05:00`: refactor: simplify request validation middleware
 - `2025-10-02T13:27:12+05:00`: feat: implement retry policy for transient network drops
+- `2025-10-03T20:29:26+05:00`: docs: update API documentation and endpoint schemas
