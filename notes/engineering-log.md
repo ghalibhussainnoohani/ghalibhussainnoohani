@@ -644,3 +644,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-01T16:21:19+05:00`: feat: add benchmark script for inference latency
 - `2025-10-02T15:38:31+05:00`: feat: integrate health check ping for active streams
 - `2025-10-03T16:03:21+05:00`: feat: support custom bounding box color coding
+- `2025-10-03T17:13:53+05:00`: fix: handle stream reconnection on socket drop
