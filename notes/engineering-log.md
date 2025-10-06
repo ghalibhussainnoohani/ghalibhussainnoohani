@@ -651,3 +651,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-04T18:29:49+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-10-06T17:51:40+05:00`: refactor: simplify request validation middleware
 - `2025-10-06T21:12:53+05:00`: docs: add setup instructions for local development
+- `2025-10-06T19:37:10+05:00`: docs: update API documentation and endpoint schemas
