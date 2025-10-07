@@ -653,3 +653,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-06T21:12:53+05:00`: docs: add setup instructions for local development
 - `2025-10-06T19:37:10+05:00`: docs: update API documentation and endpoint schemas
 - `2025-10-06T12:07:31+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-10-07T10:31:50+05:00`: feat: add support for RTSP stream timeout handling
