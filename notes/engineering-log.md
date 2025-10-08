@@ -656,3 +656,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-07T10:31:50+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-10-07T22:02:16+05:00`: refactor: decouple inference engine from websocket service
 - `2025-10-07T10:12:17+05:00`: chore: format codebase and organize imports
+- `2025-10-08T18:51:57+05:00`: feat: implement adaptive frame rate controller
