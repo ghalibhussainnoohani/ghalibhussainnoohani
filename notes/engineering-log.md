@@ -698,3 +698,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-05T17:23:10+05:00`: fix: resolve race condition in connection manager
 - `2025-10-05T18:27:22+05:00`: refactor: decouple inference engine from websocket service
 - `2025-10-07T18:00:08+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-10-08T13:28:22+05:00`: docs: add setup instructions for local development
