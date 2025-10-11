@@ -703,3 +703,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-09T21:32:46+05:00`: feat: implement retry policy for transient network drops
 - `2025-10-10T16:51:57+05:00`: chore: update dependencies and bump minor versions
 - `2025-10-10T15:35:54+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-10-11T21:57:55+05:00`: perf: optimize frame buffer allocation in streaming loop
