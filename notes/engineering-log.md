@@ -658,3 +658,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-07T10:12:17+05:00`: chore: format codebase and organize imports
 - `2025-10-08T18:51:57+05:00`: feat: implement adaptive frame rate controller
 - `2025-10-09T10:42:18+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-10-12T13:46:04+05:00`: docs: document deployment architectures and configs
