@@ -706,3 +706,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-11T21:57:55+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-10-12T14:26:14+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-10-12T14:12:07+05:00`: feat: add benchmark script for inference latency
+- `2025-10-13T13:17:14+05:00`: docs: update API documentation and endpoint schemas
