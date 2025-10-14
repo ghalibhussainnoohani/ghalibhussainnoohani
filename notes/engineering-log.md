@@ -707,3 +707,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-12T14:26:14+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-10-12T14:12:07+05:00`: feat: add benchmark script for inference latency
 - `2025-10-13T13:17:14+05:00`: docs: update API documentation and endpoint schemas
+- `2025-10-14T19:57:42+05:00`: refactor: decouple inference engine from websocket service
