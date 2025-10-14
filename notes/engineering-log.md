@@ -660,3 +660,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-09T10:42:18+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-10-12T13:46:04+05:00`: docs: document deployment architectures and configs
 - `2025-10-13T18:51:08+05:00`: chore: format codebase and organize imports
+- `2025-10-14T16:42:59+05:00`: perf: reduce memory footprint during model warmup
