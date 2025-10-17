@@ -712,3 +712,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-15T10:18:05+05:00`: docs: document deployment architectures and configs
 - `2025-10-15T20:12:49+05:00`: refactor: simplify request validation middleware
 - `2025-10-15T12:55:12+05:00`: chore: update dependencies and bump minor versions
+- `2025-10-17T13:13:04+05:00`: docs: update API documentation and endpoint schemas
