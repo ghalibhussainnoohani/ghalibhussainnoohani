@@ -668,3 +668,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-17T13:20:07+05:00`: chore: format codebase and organize imports
 - `2025-10-18T11:21:24+05:00`: chore: update dependencies and bump minor versions
 - `2025-10-20T10:22:30+05:00`: feat: add benchmark script for inference latency
+- `2025-10-21T14:57:11+05:00`: docs: update API documentation and endpoint schemas
