@@ -716,3 +716,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-20T14:32:00+05:00`: test: add unit tests for camera service initialization
 - `2025-10-20T21:06:37+05:00`: feat: introduce async event emitter for telemetry
 - `2025-10-21T16:05:15+05:00`: fix: resolve race condition in connection manager
+- `2025-10-22T15:57:18+05:00`: docs: update API documentation and endpoint schemas
