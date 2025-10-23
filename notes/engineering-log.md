@@ -671,3 +671,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-21T14:57:11+05:00`: docs: update API documentation and endpoint schemas
 - `2025-10-22T22:31:39+05:00`: feat: add benchmark script for inference latency
 - `2025-10-22T15:29:17+05:00`: docs: update API documentation and endpoint schemas
+- `2025-10-23T15:17:51+05:00`: docs: document deployment architectures and configs
