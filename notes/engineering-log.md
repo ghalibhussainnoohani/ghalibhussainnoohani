@@ -722,3 +722,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-23T17:06:38+05:00`: fix: handle edge cases in coordinates normalization
 - `2025-10-23T13:54:23+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-10-23T16:09:56+05:00`: test: add unit tests for camera service initialization
+- `2025-10-26T12:49:32+05:00`: feat: add support for RTSP stream timeout handling
