@@ -726,3 +726,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-27T19:18:37+05:00`: chore: format codebase and organize imports
 - `2025-10-28T22:40:11+05:00`: feat: support custom bounding box color coding
 - `2025-10-28T14:01:35+05:00`: test: add unit tests for camera service initialization
+- `2025-10-28T20:47:22+05:00`: docs: update API documentation and endpoint schemas
