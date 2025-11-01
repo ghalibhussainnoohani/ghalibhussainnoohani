@@ -734,3 +734,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-31T10:22:15+05:00`: test: add unit tests for camera service initialization
 - `2025-11-01T20:13:17+05:00`: refactor: clean up utility functions and typing
 - `2025-11-01T22:23:45+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-11-01T12:57:32+05:00`: docs: add setup instructions for local development
