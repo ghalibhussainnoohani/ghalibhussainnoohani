@@ -739,3 +739,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-02T22:00:51+05:00`: docs: document deployment architectures and configs
 - `2025-11-03T22:51:28+05:00`: docs: add setup instructions for local development
 - `2025-11-03T14:26:19+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-11-03T12:19:27+05:00`: perf: enable zero-copy tensor conversion where available
