@@ -679,3 +679,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-10-29T10:24:47+05:00`: refactor: decouple inference engine from websocket service
 - `2025-10-31T19:11:31+05:00`: chore: format codebase and organize imports
 - `2025-11-04T12:38:47+05:00`: feat: implement retry policy for transient network drops
+- `2025-11-04T21:58:27+05:00`: refactor: clean up utility functions and typing
