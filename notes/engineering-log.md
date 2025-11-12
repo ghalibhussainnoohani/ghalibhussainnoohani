@@ -681,3 +681,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-04T12:38:47+05:00`: feat: implement retry policy for transient network drops
 - `2025-11-04T21:58:27+05:00`: refactor: clean up utility functions and typing
 - `2025-11-06T17:07:17+05:00`: test: add unit tests for camera service initialization
+- `2025-11-12T15:16:30+05:00`: docs: document deployment architectures and configs
