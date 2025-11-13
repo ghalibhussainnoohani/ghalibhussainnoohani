@@ -683,3 +683,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-06T17:07:17+05:00`: test: add unit tests for camera service initialization
 - `2025-11-12T15:16:30+05:00`: docs: document deployment architectures and configs
 - `2025-11-13T20:13:49+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-11-13T20:55:41+05:00`: feat: introduce async event emitter for telemetry
