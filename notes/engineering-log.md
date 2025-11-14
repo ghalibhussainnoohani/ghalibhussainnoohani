@@ -752,3 +752,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-13T18:03:33+05:00`: chore: update dependencies and bump minor versions
 - `2025-11-13T21:30:27+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-11-13T21:44:38+05:00`: feat: introduce async event emitter for telemetry
+- `2025-11-14T21:56:32+05:00`: perf: enable zero-copy tensor conversion where available
