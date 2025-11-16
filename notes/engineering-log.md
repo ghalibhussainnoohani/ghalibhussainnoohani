@@ -686,3 +686,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-13T20:55:41+05:00`: feat: introduce async event emitter for telemetry
 - `2025-11-14T20:47:04+05:00`: test: add unit tests for camera service initialization
 - `2025-11-14T13:28:51+05:00`: perf: optimize database query execution plan
+- `2025-11-16T10:07:49+05:00`: perf: enable zero-copy tensor conversion where available
