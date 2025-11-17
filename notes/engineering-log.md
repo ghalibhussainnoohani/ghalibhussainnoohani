@@ -689,3 +689,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-16T10:07:49+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-11-16T20:54:17+05:00`: fix: handle stream reconnection on socket drop
 - `2025-11-17T12:16:45+05:00`: refactor: clean up utility functions and typing
+- `2025-11-17T22:14:11+05:00`: docs: update API documentation and endpoint schemas
