@@ -755,3 +755,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-14T21:56:32+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-11-14T17:55:12+05:00`: docs: update API documentation and endpoint schemas
 - `2025-11-19T14:19:07+05:00`: feat: add benchmark script for inference latency
+- `2025-11-19T16:16:44+05:00`: docs: document deployment architectures and configs
