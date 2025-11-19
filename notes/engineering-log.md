@@ -691,3 +691,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-17T12:16:45+05:00`: refactor: clean up utility functions and typing
 - `2025-11-17T22:14:11+05:00`: docs: update API documentation and endpoint schemas
 - `2025-11-19T12:26:10+05:00`: feat: integrate health check ping for active streams
+- `2025-11-19T13:45:31+05:00`: refactor: decouple inference engine from websocket service
