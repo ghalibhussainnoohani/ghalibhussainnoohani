@@ -694,3 +694,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-19T13:45:31+05:00`: refactor: decouple inference engine from websocket service
 - `2025-11-19T18:28:25+05:00`: docs: add setup instructions for local development
 - `2025-11-20T22:02:56+05:00`: fix: correct timestamp offset in audit logger
+- `2025-11-20T18:48:00+05:00`: feat: add benchmark script for inference latency
