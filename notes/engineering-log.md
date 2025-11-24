@@ -696,3 +696,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-20T22:02:56+05:00`: fix: correct timestamp offset in audit logger
 - `2025-11-20T18:48:00+05:00`: feat: add benchmark script for inference latency
 - `2025-11-21T17:24:24+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-11-24T17:22:10+05:00`: chore: update dependencies and bump minor versions
