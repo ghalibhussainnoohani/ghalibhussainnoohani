@@ -698,3 +698,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-21T17:24:24+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-11-24T17:22:10+05:00`: chore: update dependencies and bump minor versions
 - `2025-11-24T12:16:57+05:00`: fix: correct timestamp offset in audit logger
+- `2025-11-25T15:28:33+05:00`: fix: handle edge cases in coordinates normalization
