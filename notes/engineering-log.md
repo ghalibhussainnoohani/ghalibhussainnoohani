@@ -699,3 +699,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-24T17:22:10+05:00`: chore: update dependencies and bump minor versions
 - `2025-11-24T12:16:57+05:00`: fix: correct timestamp offset in audit logger
 - `2025-11-25T15:28:33+05:00`: fix: handle edge cases in coordinates normalization
+- `2025-11-25T21:28:35+05:00`: fix: resolve race condition in connection manager
