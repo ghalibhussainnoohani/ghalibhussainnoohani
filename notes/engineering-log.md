@@ -704,3 +704,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-26T22:25:45+05:00`: fix: handle stream reconnection on socket drop
 - `2025-11-26T13:29:56+05:00`: fix: handle stream reconnection on socket drop
 - `2025-11-27T22:20:27+05:00`: feat: introduce async event emitter for telemetry
+- `2025-11-28T15:06:09+05:00`: perf: optimize frame buffer allocation in streaming loop
