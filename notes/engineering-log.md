@@ -707,3 +707,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-28T15:06:09+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-12-01T18:26:02+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-12-01T10:46:12+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-12-01T12:28:07+05:00`: perf: optimize database query execution plan
