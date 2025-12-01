@@ -767,3 +767,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-25T11:35:23+05:00`: chore: update dependencies and bump minor versions
 - `2025-11-27T21:08:06+05:00`: refactor: clean up utility functions and typing
 - `2025-11-27T21:31:11+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2025-12-01T17:21:15+05:00`: feat: implement adaptive frame rate controller
