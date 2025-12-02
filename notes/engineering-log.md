@@ -769,3 +769,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-11-27T21:31:11+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2025-12-01T17:21:15+05:00`: feat: implement adaptive frame rate controller
 - `2025-12-01T17:33:10+05:00`: feat: implement adaptive frame rate controller
+- `2025-12-02T14:39:10+05:00`: fix: resolve race condition in connection manager
