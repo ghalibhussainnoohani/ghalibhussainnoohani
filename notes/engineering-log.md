@@ -772,3 +772,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-02T14:39:10+05:00`: fix: resolve race condition in connection manager
 - `2025-12-02T10:09:58+05:00`: refactor: clean up utility functions and typing
 - `2025-12-02T17:59:35+05:00`: refactor: simplify request validation middleware
+- `2025-12-02T20:59:52+05:00`: perf: enable zero-copy tensor conversion where available
