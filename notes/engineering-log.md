@@ -778,3 +778,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-05T18:07:53+05:00`: feat: support custom bounding box color coding
 - `2025-12-05T14:47:59+05:00`: feat: implement adaptive frame rate controller
 - `2025-12-05T20:00:35+05:00`: feat: add support for RTSP stream timeout handling
+- `2025-12-06T10:50:47+05:00`: feat: implement adaptive frame rate controller
