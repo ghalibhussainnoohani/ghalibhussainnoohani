@@ -714,3 +714,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-04T15:44:54+05:00`: feat: integrate health check ping for active streams
 - `2025-12-04T22:25:45+05:00`: feat: implement adaptive frame rate controller
 - `2025-12-05T11:42:32+05:00`: feat: add benchmark script for inference latency
+- `2025-12-08T20:20:44+05:00`: fix: handle edge cases in coordinates normalization
