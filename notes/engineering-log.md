@@ -718,3 +718,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-10T22:41:42+05:00`: feat: add benchmark script for inference latency
 - `2025-12-11T12:06:31+05:00`: chore: format codebase and organize imports
 - `2025-12-11T11:38:37+05:00`: feat: implement retry policy for transient network drops
+- `2025-12-11T15:34:18+05:00`: fix: resolve race condition in connection manager
