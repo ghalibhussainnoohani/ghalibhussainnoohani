@@ -722,3 +722,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-11T10:16:11+05:00`: feat: support custom bounding box color coding
 - `2025-12-12T21:40:19+05:00`: feat: integrate health check ping for active streams
 - `2025-12-12T16:38:35+05:00`: perf: optimize database query execution plan
+- `2025-12-13T13:52:27+05:00`: refactor: decouple inference engine from websocket service
