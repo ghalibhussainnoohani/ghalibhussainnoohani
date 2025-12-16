@@ -727,3 +727,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-15T13:59:27+05:00`: test: add unit tests for camera service initialization
 - `2025-12-16T20:27:15+05:00`: feat: support custom bounding box color coding
 - `2025-12-16T19:32:39+05:00`: perf: reduce memory footprint during model warmup
+- `2025-12-16T10:36:38+05:00`: feat: add support for RTSP stream timeout handling
