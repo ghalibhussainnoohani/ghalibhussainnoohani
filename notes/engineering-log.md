@@ -783,3 +783,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-09T17:01:44+05:00`: refactor: simplify request validation middleware
 - `2025-12-12T12:18:39+05:00`: perf: optimize database query execution plan
 - `2025-12-16T11:09:54+05:00`: perf: enable zero-copy tensor conversion where available
+- `2025-12-17T16:33:18+05:00`: docs: add setup instructions for local development
