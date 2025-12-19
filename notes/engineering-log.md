@@ -732,3 +732,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-18T16:06:47+05:00`: chore: update dependencies and bump minor versions
 - `2025-12-19T19:54:51+05:00`: fix: handle stream reconnection on socket drop
 - `2025-12-19T22:33:38+05:00`: docs: update API documentation and endpoint schemas
+- `2025-12-19T14:47:10+05:00`: refactor: simplify request validation middleware
