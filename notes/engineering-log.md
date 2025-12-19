@@ -787,3 +787,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-18T16:19:46+05:00`: docs: document deployment architectures and configs
 - `2025-12-18T19:31:15+05:00`: feat: integrate health check ping for active streams
 - `2025-12-19T22:47:01+05:00`: refactor: clean up utility functions and typing
+- `2025-12-19T18:51:39+05:00`: fix: handle edge cases in coordinates normalization
