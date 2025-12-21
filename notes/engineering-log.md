@@ -735,3 +735,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-19T14:47:10+05:00`: refactor: simplify request validation middleware
 - `2025-12-20T10:44:24+05:00`: docs: add setup instructions for local development
 - `2025-12-20T20:33:58+05:00`: fix: correct timestamp offset in audit logger
+- `2025-12-21T21:27:24+05:00`: fix: handle edge cases in coordinates normalization
