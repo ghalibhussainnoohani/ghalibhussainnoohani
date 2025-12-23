@@ -791,3 +791,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-19T15:32:34+05:00`: feat: implement adaptive frame rate controller
 - `2025-12-22T19:59:55+05:00`: chore: update dependencies and bump minor versions
 - `2025-12-22T21:48:12+05:00`: docs: update API documentation and endpoint schemas
+- `2025-12-23T15:19:51+05:00`: fix: handle edge cases in coordinates normalization
