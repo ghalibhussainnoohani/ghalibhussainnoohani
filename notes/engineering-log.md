@@ -739,3 +739,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-22T10:36:59+05:00`: chore: format codebase and organize imports
 - `2025-12-23T17:49:27+05:00`: feat: integrate health check ping for active streams
 - `2025-12-24T17:51:30+05:00`: feat: integrate health check ping for active streams
+- `2025-12-24T16:57:33+05:00`: perf: enable zero-copy tensor conversion where available
