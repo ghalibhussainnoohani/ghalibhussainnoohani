@@ -741,3 +741,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-24T17:51:30+05:00`: feat: integrate health check ping for active streams
 - `2025-12-24T16:57:33+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-12-24T11:39:41+05:00`: docs: add setup instructions for local development
+- `2025-12-24T11:06:59+05:00`: docs: update API documentation and endpoint schemas
