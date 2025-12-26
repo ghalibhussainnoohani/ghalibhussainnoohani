@@ -796,3 +796,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-24T12:14:47+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-12-26T21:00:19+05:00`: chore: format codebase and organize imports
 - `2025-12-26T12:19:26+05:00`: docs: add setup instructions for local development
+- `2025-12-26T15:26:31+05:00`: fix: handle stream reconnection on socket drop
