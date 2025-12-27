@@ -745,3 +745,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-26T20:34:35+05:00`: perf: optimize database query execution plan
 - `2025-12-26T17:05:05+05:00`: perf: enable zero-copy tensor conversion where available
 - `2025-12-26T10:34:47+05:00`: docs: add setup instructions for local development
+- `2025-12-27T14:47:03+05:00`: perf: reduce memory footprint during model warmup
