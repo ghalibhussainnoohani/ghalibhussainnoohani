@@ -800,3 +800,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-26T15:32:24+05:00`: feat: add image preprocessing pipeline for vision model
 - `2025-12-28T20:22:02+05:00`: feat: add support for RTSP stream timeout handling
 - `2025-12-28T13:37:36+05:00`: feat: add benchmark script for inference latency
+- `2025-12-28T21:45:19+05:00`: feat: support custom bounding box color coding
