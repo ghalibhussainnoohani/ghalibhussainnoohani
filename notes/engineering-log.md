@@ -798,3 +798,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-26T12:19:26+05:00`: docs: add setup instructions for local development
 - `2025-12-26T15:26:31+05:00`: fix: handle stream reconnection on socket drop
 - `2025-12-26T15:32:24+05:00`: feat: add image preprocessing pipeline for vision model
+- `2025-12-28T20:22:02+05:00`: feat: add support for RTSP stream timeout handling
