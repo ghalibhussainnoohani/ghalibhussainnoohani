@@ -802,3 +802,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-28T13:37:36+05:00`: feat: add benchmark script for inference latency
 - `2025-12-28T21:45:19+05:00`: feat: support custom bounding box color coding
 - `2025-12-29T22:21:52+05:00`: refactor: simplify request validation middleware
+- `2025-12-29T22:44:59+05:00`: fix: resolve race condition in connection manager
