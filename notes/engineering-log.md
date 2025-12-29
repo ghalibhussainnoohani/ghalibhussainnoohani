@@ -747,3 +747,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2025-12-26T10:34:47+05:00`: docs: add setup instructions for local development
 - `2025-12-27T14:47:03+05:00`: perf: reduce memory footprint during model warmup
 - `2025-12-27T11:02:34+05:00`: feat: integrate health check ping for active streams
+- `2025-12-29T21:09:39+05:00`: perf: optimize database query execution plan
