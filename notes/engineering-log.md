@@ -811,3 +811,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-05T10:10:00+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-01-05T11:12:12+05:00`: chore: format codebase and organize imports
 - `2026-01-05T18:25:24+05:00`: fix: handle edge cases in coordinates normalization
+- `2026-01-07T13:56:18+05:00`: perf: enable zero-copy tensor conversion where available
