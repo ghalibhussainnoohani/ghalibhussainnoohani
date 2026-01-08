@@ -813,3 +813,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-05T18:25:24+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-01-07T13:56:18+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-01-08T16:49:20+05:00`: perf: reduce memory footprint during model warmup
+- `2026-01-08T16:51:23+05:00`: feat: add support for RTSP stream timeout handling
