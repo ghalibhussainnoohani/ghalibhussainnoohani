@@ -815,3 +815,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-08T16:49:20+05:00`: perf: reduce memory footprint during model warmup
 - `2026-01-08T16:51:23+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-01-08T19:04:21+05:00`: feat: support custom bounding box color coding
+- `2026-01-09T15:09:33+05:00`: perf: enable zero-copy tensor conversion where available
