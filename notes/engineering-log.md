@@ -762,3 +762,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-06T15:18:24+05:00`: feat: implement adaptive frame rate controller
 - `2026-01-07T17:55:52+05:00`: feat: introduce async event emitter for telemetry
 - `2026-01-07T12:43:01+05:00`: fix: handle edge cases in coordinates normalization
+- `2026-01-10T13:58:15+05:00`: test: add unit tests for camera service initialization
