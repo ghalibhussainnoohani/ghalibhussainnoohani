@@ -820,3 +820,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-10T13:01:19+05:00`: refactor: clean up utility functions and typing
 - `2026-01-14T10:21:15+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-01-15T13:58:07+05:00`: feat: introduce async event emitter for telemetry
+- `2026-01-16T19:32:00+05:00`: docs: add setup instructions for local development
