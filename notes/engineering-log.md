@@ -822,3 +822,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-15T13:58:07+05:00`: feat: introduce async event emitter for telemetry
 - `2026-01-16T19:32:00+05:00`: docs: add setup instructions for local development
 - `2026-01-16T15:55:28+05:00`: perf: reduce memory footprint during model warmup
+- `2026-01-16T14:00:30+05:00`: feat: support custom bounding box color coding
