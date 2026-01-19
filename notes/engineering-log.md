@@ -824,3 +824,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-16T15:55:28+05:00`: perf: reduce memory footprint during model warmup
 - `2026-01-16T14:00:30+05:00`: feat: support custom bounding box color coding
 - `2026-01-19T16:11:23+05:00`: feat: add benchmark script for inference latency
+- `2026-01-19T19:25:00+05:00`: feat: support custom bounding box color coding
