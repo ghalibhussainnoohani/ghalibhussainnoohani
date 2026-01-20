@@ -772,3 +772,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-16T16:56:55+05:00`: chore: update dependencies and bump minor versions
 - `2026-01-19T11:09:23+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-01-19T16:13:39+05:00`: feat: implement retry policy for transient network drops
+- `2026-01-20T21:22:57+05:00`: fix: handle stream reconnection on socket drop
