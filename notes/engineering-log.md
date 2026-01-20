@@ -826,3 +826,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-19T16:11:23+05:00`: feat: add benchmark script for inference latency
 - `2026-01-19T19:25:00+05:00`: feat: support custom bounding box color coding
 - `2026-01-20T10:52:12+05:00`: chore: format codebase and organize imports
+- `2026-01-20T22:59:32+05:00`: docs: add setup instructions for local development
