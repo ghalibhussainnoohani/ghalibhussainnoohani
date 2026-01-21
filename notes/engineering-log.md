@@ -774,3 +774,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-19T16:13:39+05:00`: feat: implement retry policy for transient network drops
 - `2026-01-20T21:22:57+05:00`: fix: handle stream reconnection on socket drop
 - `2026-01-20T11:42:34+05:00`: refactor: simplify request validation middleware
+- `2026-01-21T17:49:19+05:00`: perf: reduce memory footprint during model warmup
