@@ -828,3 +828,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-20T10:52:12+05:00`: chore: format codebase and organize imports
 - `2026-01-20T22:59:32+05:00`: docs: add setup instructions for local development
 - `2026-01-20T12:09:55+05:00`: fix: correct timestamp offset in audit logger
+- `2026-01-21T11:35:19+05:00`: refactor: simplify request validation middleware
