@@ -832,3 +832,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-21T12:03:22+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-01-21T21:12:36+05:00`: feat: integrate health check ping for active streams
 - `2026-01-23T14:46:57+05:00`: fix: handle stream reconnection on socket drop
+- `2026-01-26T14:40:59+05:00`: docs: add setup instructions for local development
