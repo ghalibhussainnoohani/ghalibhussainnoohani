@@ -778,3 +778,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-23T12:33:25+05:00`: docs: update API documentation and endpoint schemas
 - `2026-01-23T10:15:28+05:00`: feat: add benchmark script for inference latency
 - `2026-01-23T15:02:31+05:00`: docs: add setup instructions for local development
+- `2026-01-27T20:05:08+05:00`: feat: add support for RTSP stream timeout handling
