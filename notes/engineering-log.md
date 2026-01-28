@@ -781,3 +781,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-01-27T20:05:08+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-01-27T18:14:42+05:00`: fix: correct timestamp offset in audit logger
 - `2026-01-27T18:15:00+05:00`: perf: enable zero-copy tensor conversion where available
+- `2026-01-28T15:06:23+05:00`: feat: integrate health check ping for active streams
