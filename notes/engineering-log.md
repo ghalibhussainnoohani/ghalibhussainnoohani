@@ -787,3 +787,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-04T19:51:20+05:00`: fix: resolve race condition in connection manager
 - `2026-02-04T21:52:53+05:00`: feat: introduce async event emitter for telemetry
 - `2026-02-05T18:36:17+05:00`: chore: update dependencies and bump minor versions
+- `2026-02-05T16:04:30+05:00`: perf: optimize frame buffer allocation in streaming loop
