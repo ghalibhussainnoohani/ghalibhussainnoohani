@@ -790,3 +790,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-05T16:04:30+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-02-05T22:42:08+05:00`: fix: handle stream reconnection on socket drop
 - `2026-02-06T19:26:55+05:00`: perf: optimize database query execution plan
+- `2026-02-10T22:33:09+05:00`: feat: add support for RTSP stream timeout handling
