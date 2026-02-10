@@ -792,3 +792,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-06T19:26:55+05:00`: perf: optimize database query execution plan
 - `2026-02-10T22:33:09+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-02-10T21:53:33+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-02-10T18:26:48+05:00`: feat: support custom bounding box color coding
