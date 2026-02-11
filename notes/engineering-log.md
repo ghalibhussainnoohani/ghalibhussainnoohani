@@ -845,3 +845,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-08T15:17:39+05:00`: perf: optimize database query execution plan
 - `2026-02-08T22:48:59+05:00`: chore: update dependencies and bump minor versions
 - `2026-02-09T12:39:51+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-02-11T13:19:21+05:00`: fix: handle edge cases in coordinates normalization
