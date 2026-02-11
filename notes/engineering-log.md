@@ -793,3 +793,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-10T22:33:09+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-02-10T21:53:33+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-02-10T18:26:48+05:00`: feat: support custom bounding box color coding
+- `2026-02-11T15:22:03+05:00`: feat: integrate health check ping for active streams
