@@ -849,3 +849,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-11T15:50:12+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-02-11T12:10:46+05:00`: feat: introduce async event emitter for telemetry
 - `2026-02-11T22:36:38+05:00`: refactor: decouple inference engine from websocket service
+- `2026-02-12T16:17:04+05:00`: refactor: clean up utility functions and typing
