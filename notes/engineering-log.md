@@ -855,3 +855,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-16T17:03:16+05:00`: feat: support custom bounding box color coding
 - `2026-02-16T13:37:28+05:00`: perf: reduce memory footprint during model warmup
 - `2026-02-16T17:20:47+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-02-17T19:11:07+05:00`: feat: implement retry policy for transient network drops
