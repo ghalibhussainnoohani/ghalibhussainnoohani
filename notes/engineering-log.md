@@ -799,3 +799,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-13T21:59:32+05:00`: feat: implement retry policy for transient network drops
 - `2026-02-13T17:22:58+05:00`: docs: document deployment architectures and configs
 - `2026-02-17T21:54:36+05:00`: refactor: decouple inference engine from websocket service
+- `2026-02-18T15:54:13+05:00`: perf: enable zero-copy tensor conversion where available
