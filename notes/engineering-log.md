@@ -857,3 +857,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-16T17:20:47+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-02-17T19:11:07+05:00`: feat: implement retry policy for transient network drops
 - `2026-02-18T13:14:06+05:00`: feat: add image preprocessing pipeline for vision model
+- `2026-02-19T19:47:56+05:00`: fix: resolve race condition in connection manager
