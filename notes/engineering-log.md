@@ -810,3 +810,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-23T17:24:47+05:00`: docs: document deployment architectures and configs
 - `2026-02-24T11:47:09+05:00`: fix: resolve race condition in connection manager
 - `2026-02-24T22:03:57+05:00`: feat: add image preprocessing pipeline for vision model
+- `2026-02-24T12:16:18+05:00`: docs: update API documentation and endpoint schemas
