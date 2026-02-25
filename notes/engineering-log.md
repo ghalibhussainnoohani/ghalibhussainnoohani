@@ -862,3 +862,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-20T21:11:49+05:00`: refactor: decouple inference engine from websocket service
 - `2026-02-24T17:34:33+05:00`: feat: implement retry policy for transient network drops
 - `2026-02-25T14:18:25+05:00`: fix: handle edge cases in coordinates normalization
+- `2026-02-25T22:34:12+05:00`: perf: enable zero-copy tensor conversion where available
