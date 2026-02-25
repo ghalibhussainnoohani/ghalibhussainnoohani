@@ -861,3 +861,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-20T17:10:58+05:00`: feat: integrate health check ping for active streams
 - `2026-02-20T21:11:49+05:00`: refactor: decouple inference engine from websocket service
 - `2026-02-24T17:34:33+05:00`: feat: implement retry policy for transient network drops
+- `2026-02-25T14:18:25+05:00`: fix: handle edge cases in coordinates normalization
