@@ -864,3 +864,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-25T14:18:25+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-02-25T22:34:12+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-02-25T21:07:50+05:00`: chore: format codebase and organize imports
+- `2026-02-28T19:14:59+05:00`: feat: support custom bounding box color coding
