@@ -813,3 +813,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-24T12:16:18+05:00`: docs: update API documentation and endpoint schemas
 - `2026-02-25T11:15:45+05:00`: test: add unit tests for camera service initialization
 - `2026-02-28T13:20:49+05:00`: feat: introduce async event emitter for telemetry
+- `2026-02-28T12:33:17+05:00`: feat: add support for RTSP stream timeout handling
