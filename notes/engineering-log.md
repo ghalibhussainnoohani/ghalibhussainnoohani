@@ -866,3 +866,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-25T21:07:50+05:00`: chore: format codebase and organize imports
 - `2026-02-28T19:14:59+05:00`: feat: support custom bounding box color coding
 - `2026-02-28T16:53:41+05:00`: feat: add image preprocessing pipeline for vision model
+- `2026-03-01T22:52:31+05:00`: docs: add setup instructions for local development
