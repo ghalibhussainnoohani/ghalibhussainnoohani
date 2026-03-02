@@ -868,3 +868,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-28T16:53:41+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-03-01T22:52:31+05:00`: docs: add setup instructions for local development
 - `2026-03-01T22:39:57+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-03-02T15:49:57+05:00`: feat: add image preprocessing pipeline for vision model
