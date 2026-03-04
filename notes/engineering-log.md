@@ -872,3 +872,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-04T21:51:01+05:00`: feat: introduce async event emitter for telemetry
 - `2026-03-04T15:39:34+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-03-04T21:28:00+05:00`: feat: support custom bounding box color coding
+- `2026-03-04T13:51:08+05:00`: test: add unit tests for camera service initialization
