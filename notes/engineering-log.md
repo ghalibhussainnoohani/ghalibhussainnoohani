@@ -874,3 +874,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-04T21:28:00+05:00`: feat: support custom bounding box color coding
 - `2026-03-04T13:51:08+05:00`: test: add unit tests for camera service initialization
 - `2026-03-06T18:16:25+05:00`: refactor: clean up utility functions and typing
+- `2026-03-06T21:01:43+05:00`: feat: implement retry policy for transient network drops
