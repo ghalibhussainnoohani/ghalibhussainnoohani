@@ -815,3 +815,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-02-28T13:20:49+05:00`: feat: introduce async event emitter for telemetry
 - `2026-02-28T12:33:17+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-02-28T11:01:32+05:00`: chore: format codebase and organize imports
+- `2026-03-06T18:55:27+05:00`: feat: add benchmark script for inference latency
