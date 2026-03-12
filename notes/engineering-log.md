@@ -824,3 +824,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-11T21:22:30+05:00`: docs: update API documentation and endpoint schemas
 - `2026-03-11T11:28:05+05:00`: refactor: clean up utility functions and typing
 - `2026-03-12T15:43:25+05:00`: refactor: clean up utility functions and typing
+- `2026-03-12T22:26:13+05:00`: fix: handle edge cases in coordinates normalization
