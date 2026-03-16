@@ -830,3 +830,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-13T22:57:56+05:00`: perf: reduce memory footprint during model warmup
 - `2026-03-15T18:14:43+05:00`: fix: correct timestamp offset in audit logger
 - `2026-03-16T10:00:44+05:00`: docs: update API documentation and endpoint schemas
+- `2026-03-16T20:58:58+05:00`: feat: add support for RTSP stream timeout handling
