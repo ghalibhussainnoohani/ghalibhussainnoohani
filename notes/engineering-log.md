@@ -885,3 +885,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-12T19:21:16+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-03-17T14:25:03+05:00`: fix: correct timestamp offset in audit logger
 - `2026-03-17T13:26:44+05:00`: docs: add setup instructions for local development
+- `2026-03-17T15:28:40+05:00`: chore: update dependencies and bump minor versions
