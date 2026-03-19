@@ -888,3 +888,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-17T15:28:40+05:00`: chore: update dependencies and bump minor versions
 - `2026-03-18T16:26:26+05:00`: feat: support custom bounding box color coding
 - `2026-03-19T20:10:41+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-03-19T10:31:15+05:00`: refactor: decouple inference engine from websocket service
