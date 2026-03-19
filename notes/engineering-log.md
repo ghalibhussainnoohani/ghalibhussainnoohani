@@ -835,3 +835,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-18T17:34:20+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-03-18T16:50:35+05:00`: feat: add benchmark script for inference latency
 - `2026-03-18T15:32:36+05:00`: docs: document deployment architectures and configs
+- `2026-03-19T17:55:43+05:00`: feat: add image preprocessing pipeline for vision model
