@@ -890,3 +890,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-19T20:10:41+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-03-19T10:31:15+05:00`: refactor: decouple inference engine from websocket service
 - `2026-03-20T15:25:09+05:00`: perf: optimize database query execution plan
+- `2026-03-20T21:50:14+05:00`: perf: optimize database query execution plan
