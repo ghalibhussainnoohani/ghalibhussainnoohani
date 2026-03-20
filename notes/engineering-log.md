@@ -836,3 +836,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-18T16:50:35+05:00`: feat: add benchmark script for inference latency
 - `2026-03-18T15:32:36+05:00`: docs: document deployment architectures and configs
 - `2026-03-19T17:55:43+05:00`: feat: add image preprocessing pipeline for vision model
+- `2026-03-20T21:26:38+05:00`: perf: enable zero-copy tensor conversion where available
