@@ -840,3 +840,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-20T20:04:20+05:00`: chore: update dependencies and bump minor versions
 - `2026-03-20T21:10:15+05:00`: feat: integrate health check ping for active streams
 - `2026-03-20T16:03:24+05:00`: feat: implement adaptive frame rate controller
+- `2026-03-22T11:12:16+05:00`: feat: add support for RTSP stream timeout handling
