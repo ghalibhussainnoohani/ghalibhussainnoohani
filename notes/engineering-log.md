@@ -845,3 +845,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-22T22:23:36+05:00`: chore: update dependencies and bump minor versions
 - `2026-03-22T21:32:39+05:00`: chore: format codebase and organize imports
 - `2026-03-23T13:04:20+05:00`: feat: implement retry policy for transient network drops
+- `2026-03-23T20:04:34+05:00`: docs: document deployment architectures and configs
