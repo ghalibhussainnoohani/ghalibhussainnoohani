@@ -893,3 +893,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-20T21:50:14+05:00`: perf: optimize database query execution plan
 - `2026-03-21T13:35:10+05:00`: test: add unit tests for camera service initialization
 - `2026-03-21T14:48:17+05:00`: fix: correct timestamp offset in audit logger
+- `2026-03-23T10:49:56+05:00`: feat: support custom bounding box color coding
