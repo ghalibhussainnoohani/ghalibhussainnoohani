@@ -899,3 +899,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-24T10:19:44+05:00`: perf: optimize database query execution plan
 - `2026-03-24T17:54:23+05:00`: docs: add setup instructions for local development
 - `2026-03-24T21:11:57+05:00`: refactor: simplify request validation middleware
+- `2026-03-24T15:08:53+05:00`: docs: add setup instructions for local development
