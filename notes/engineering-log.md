@@ -901,3 +901,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-24T21:11:57+05:00`: refactor: simplify request validation middleware
 - `2026-03-24T15:08:53+05:00`: docs: add setup instructions for local development
 - `2026-03-26T22:26:32+05:00`: fix: handle stream reconnection on socket drop
+- `2026-03-26T19:35:20+05:00`: refactor: clean up utility functions and typing
