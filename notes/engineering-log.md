@@ -906,3 +906,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-03-27T13:13:28+05:00`: test: add unit tests for camera service initialization
 - `2026-03-30T14:13:31+05:00`: chore: format codebase and organize imports
 - `2026-03-31T22:31:52+05:00`: feat: support custom bounding box color coding
+- `2026-03-31T12:09:34+05:00`: feat: add support for RTSP stream timeout handling
