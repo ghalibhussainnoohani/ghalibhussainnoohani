@@ -913,3 +913,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-03T10:37:30+05:00`: feat: implement adaptive frame rate controller
 - `2026-04-03T14:46:32+05:00`: perf: optimize database query execution plan
 - `2026-04-03T20:56:24+05:00`: chore: format codebase and organize imports
+- `2026-04-06T20:23:05+05:00`: fix: handle stream reconnection on socket drop
