@@ -859,3 +859,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-04T12:33:10+05:00`: feat: add benchmark script for inference latency
 - `2026-04-04T16:08:57+05:00`: fix: handle stream reconnection on socket drop
 - `2026-04-07T12:56:45+05:00`: docs: document deployment architectures and configs
+- `2026-04-07T14:49:32+05:00`: docs: add setup instructions for local development
