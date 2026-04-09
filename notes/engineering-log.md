@@ -861,3 +861,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-07T12:56:45+05:00`: docs: document deployment architectures and configs
 - `2026-04-07T14:49:32+05:00`: docs: add setup instructions for local development
 - `2026-04-07T10:03:48+05:00`: feat: add benchmark script for inference latency
+- `2026-04-09T12:50:28+05:00`: fix: handle edge cases in coordinates normalization
