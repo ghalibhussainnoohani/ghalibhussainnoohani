@@ -917,3 +917,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-07T13:33:22+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-04-07T21:42:45+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-04-08T13:50:18+05:00`: feat: add image preprocessing pipeline for vision model
+- `2026-04-14T12:16:41+05:00`: docs: update API documentation and endpoint schemas
