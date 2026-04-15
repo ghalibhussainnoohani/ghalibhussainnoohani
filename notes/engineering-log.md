@@ -874,3 +874,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-14T21:34:16+05:00`: chore: format codebase and organize imports
 - `2026-04-14T19:25:58+05:00`: feat: support custom bounding box color coding
 - `2026-04-15T11:36:27+05:00`: feat: introduce async event emitter for telemetry
+- `2026-04-15T12:59:23+05:00`: feat: add benchmark script for inference latency
