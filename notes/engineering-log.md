@@ -925,3 +925,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-16T20:38:50+05:00`: feat: introduce async event emitter for telemetry
 - `2026-04-16T12:42:58+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-04-16T22:14:50+05:00`: chore: format codebase and organize imports
+- `2026-04-17T18:36:16+05:00`: feat: add support for RTSP stream timeout handling
