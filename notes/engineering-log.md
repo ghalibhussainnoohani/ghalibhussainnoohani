@@ -926,3 +926,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-16T12:42:58+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-04-16T22:14:50+05:00`: chore: format codebase and organize imports
 - `2026-04-17T18:36:16+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-04-19T22:34:57+05:00`: docs: document deployment architectures and configs
