@@ -879,3 +879,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-16T12:11:04+05:00`: docs: update API documentation and endpoint schemas
 - `2026-04-20T19:06:18+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-04-20T11:40:30+05:00`: perf: reduce memory footprint during model warmup
+- `2026-04-20T15:07:28+05:00`: feat: add image preprocessing pipeline for vision model
