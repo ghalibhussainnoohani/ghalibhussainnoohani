@@ -929,3 +929,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-19T22:34:57+05:00`: docs: document deployment architectures and configs
 - `2026-04-19T11:01:48+05:00`: chore: update dependencies and bump minor versions
 - `2026-04-20T16:16:21+05:00`: chore: update dependencies and bump minor versions
+- `2026-04-20T11:59:20+05:00`: refactor: simplify request validation middleware
