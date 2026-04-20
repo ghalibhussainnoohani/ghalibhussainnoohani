@@ -877,3 +877,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-15T12:59:23+05:00`: feat: add benchmark script for inference latency
 - `2026-04-15T17:48:08+05:00`: feat: integrate health check ping for active streams
 - `2026-04-16T12:11:04+05:00`: docs: update API documentation and endpoint schemas
+- `2026-04-20T19:06:18+05:00`: perf: enable zero-copy tensor conversion where available
