@@ -883,3 +883,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-21T19:24:48+05:00`: feat: support custom bounding box color coding
 - `2026-04-21T16:37:51+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-04-21T17:46:03+05:00`: refactor: clean up utility functions and typing
+- `2026-04-22T18:13:43+05:00`: refactor: decouple inference engine from websocket service
