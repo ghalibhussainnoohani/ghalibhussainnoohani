@@ -931,3 +931,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-20T16:16:21+05:00`: chore: update dependencies and bump minor versions
 - `2026-04-20T11:59:20+05:00`: refactor: simplify request validation middleware
 - `2026-04-23T19:17:27+05:00`: feat: introduce async event emitter for telemetry
+- `2026-04-23T12:19:24+05:00`: perf: enable zero-copy tensor conversion where available
