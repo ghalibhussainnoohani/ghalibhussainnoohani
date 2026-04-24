@@ -933,3 +933,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-23T19:17:27+05:00`: feat: introduce async event emitter for telemetry
 - `2026-04-23T12:19:24+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-04-24T12:07:17+05:00`: docs: add setup instructions for local development
+- `2026-04-24T19:48:08+05:00`: fix: resolve race condition in connection manager
