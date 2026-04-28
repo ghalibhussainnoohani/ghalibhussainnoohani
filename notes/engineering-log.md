@@ -886,3 +886,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-22T18:13:43+05:00`: refactor: decouple inference engine from websocket service
 - `2026-04-23T19:36:17+05:00`: refactor: clean up utility functions and typing
 - `2026-04-25T11:22:41+05:00`: chore: update dependencies and bump minor versions
+- `2026-04-28T22:51:30+05:00`: feat: introduce async event emitter for telemetry
