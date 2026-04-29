@@ -938,3 +938,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-26T19:39:03+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-04-26T21:24:32+05:00`: fix: handle stream reconnection on socket drop
 - `2026-04-28T19:39:20+05:00`: feat: implement adaptive frame rate controller
+- `2026-04-29T16:22:30+05:00`: perf: optimize frame buffer allocation in streaming loop
