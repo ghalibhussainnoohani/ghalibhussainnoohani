@@ -942,3 +942,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-29T19:14:50+05:00`: feat: integrate health check ping for active streams
 - `2026-04-29T14:03:07+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-04-30T16:06:07+05:00`: test: add unit tests for camera service initialization
+- `2026-04-30T14:34:27+05:00`: refactor: simplify request validation middleware
