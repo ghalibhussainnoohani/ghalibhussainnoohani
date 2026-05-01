@@ -944,3 +944,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-04-30T16:06:07+05:00`: test: add unit tests for camera service initialization
 - `2026-04-30T14:34:27+05:00`: refactor: simplify request validation middleware
 - `2026-05-01T19:57:11+05:00`: fix: correct timestamp offset in audit logger
+- `2026-05-01T21:07:40+05:00`: feat: add support for RTSP stream timeout handling
