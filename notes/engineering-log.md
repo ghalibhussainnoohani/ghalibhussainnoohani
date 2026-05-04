@@ -893,3 +893,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-04T19:19:37+05:00`: refactor: clean up utility functions and typing
 - `2026-05-04T18:36:01+05:00`: perf: reduce memory footprint during model warmup
 - `2026-05-04T21:41:35+05:00`: perf: optimize database query execution plan
+- `2026-05-04T22:41:41+05:00`: docs: update API documentation and endpoint schemas
