@@ -951,3 +951,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-06T16:37:32+05:00`: feat: support custom bounding box color coding
 - `2026-05-08T12:54:07+05:00`: chore: update dependencies and bump minor versions
 - `2026-05-08T11:47:51+05:00`: feat: introduce async event emitter for telemetry
+- `2026-05-08T15:28:32+05:00`: fix: resolve race condition in connection manager
