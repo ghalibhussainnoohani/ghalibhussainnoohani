@@ -902,3 +902,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-06T11:10:17+05:00`: chore: format codebase and organize imports
 - `2026-05-06T21:49:31+05:00`: test: add unit tests for camera service initialization
 - `2026-05-07T20:54:04+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-05-08T22:08:18+05:00`: feat: introduce async event emitter for telemetry
