@@ -908,3 +908,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-12T12:57:18+05:00`: feat: introduce async event emitter for telemetry
 - `2026-05-13T20:26:08+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-05-13T12:07:15+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-05-14T11:33:00+05:00`: refactor: decouple inference engine from websocket service
