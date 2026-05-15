@@ -912,3 +912,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-14T18:19:10+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-05-15T11:01:30+05:00`: refactor: decouple inference engine from websocket service
 - `2026-05-15T22:35:59+05:00`: docs: update API documentation and endpoint schemas
+- `2026-05-15T19:43:46+05:00`: feat: support custom bounding box color coding
