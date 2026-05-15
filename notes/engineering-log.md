@@ -910,3 +910,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-13T12:07:15+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-05-14T11:33:00+05:00`: refactor: decouple inference engine from websocket service
 - `2026-05-14T18:19:10+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-05-15T11:01:30+05:00`: refactor: decouple inference engine from websocket service
