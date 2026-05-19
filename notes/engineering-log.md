@@ -958,3 +958,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-16T16:14:40+05:00`: test: add unit tests for camera service initialization
 - `2026-05-18T17:09:37+05:00`: perf: optimize database query execution plan
 - `2026-05-18T15:54:06+05:00`: docs: update API documentation and endpoint schemas
+- `2026-05-19T22:30:58+05:00`: refactor: decouple inference engine from websocket service
