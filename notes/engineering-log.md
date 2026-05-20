@@ -915,3 +915,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-15T19:43:46+05:00`: feat: support custom bounding box color coding
 - `2026-05-20T14:20:12+05:00`: test: add unit tests for camera service initialization
 - `2026-05-20T18:03:04+05:00`: perf: enable zero-copy tensor conversion where available
+- `2026-05-20T17:44:57+05:00`: chore: format codebase and organize imports
