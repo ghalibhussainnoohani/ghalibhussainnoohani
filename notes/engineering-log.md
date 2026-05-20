@@ -961,3 +961,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-19T22:30:58+05:00`: refactor: decouple inference engine from websocket service
 - `2026-05-20T13:33:34+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-05-20T13:11:00+05:00`: feat: introduce async event emitter for telemetry
+- `2026-05-20T12:49:33+05:00`: perf: optimize frame buffer allocation in streaming loop
