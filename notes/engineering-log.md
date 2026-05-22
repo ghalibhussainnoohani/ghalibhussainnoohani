@@ -918,3 +918,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-20T17:44:57+05:00`: chore: format codebase and organize imports
 - `2026-05-21T20:23:03+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-05-22T20:59:30+05:00`: docs: add setup instructions for local development
+- `2026-05-22T12:18:14+05:00`: fix: resolve race condition in connection manager
