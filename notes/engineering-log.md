@@ -964,3 +964,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-20T12:49:33+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-05-21T16:04:31+05:00`: test: add unit tests for camera service initialization
 - `2026-05-21T21:43:01+05:00`: feat: implement retry policy for transient network drops
+- `2026-05-22T13:25:38+05:00`: feat: implement adaptive frame rate controller
