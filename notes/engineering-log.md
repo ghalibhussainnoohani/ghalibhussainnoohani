@@ -966,3 +966,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-21T21:43:01+05:00`: feat: implement retry policy for transient network drops
 - `2026-05-22T13:25:38+05:00`: feat: implement adaptive frame rate controller
 - `2026-05-23T15:23:17+05:00`: docs: add setup instructions for local development
+- `2026-05-23T15:14:33+05:00`: test: add unit tests for camera service initialization
