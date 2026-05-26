@@ -921,3 +921,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-22T12:18:14+05:00`: fix: resolve race condition in connection manager
 - `2026-05-25T13:20:30+05:00`: feat: support custom bounding box color coding
 - `2026-05-25T11:41:57+05:00`: chore: update dependencies and bump minor versions
+- `2026-05-26T11:13:32+05:00`: docs: add setup instructions for local development
