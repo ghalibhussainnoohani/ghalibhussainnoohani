@@ -924,3 +924,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-26T11:13:32+05:00`: docs: add setup instructions for local development
 - `2026-05-27T18:37:54+05:00`: perf: optimize database query execution plan
 - `2026-05-28T18:53:42+05:00`: docs: document deployment architectures and configs
+- `2026-05-28T19:31:21+05:00`: feat: add benchmark script for inference latency
