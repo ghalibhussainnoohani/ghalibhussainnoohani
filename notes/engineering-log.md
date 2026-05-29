@@ -972,3 +972,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-28T20:42:30+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-05-29T18:23:08+05:00`: chore: update dependencies and bump minor versions
 - `2026-05-29T17:41:13+05:00`: feat: implement adaptive frame rate controller
+- `2026-05-29T19:35:23+05:00`: perf: optimize frame buffer allocation in streaming loop
