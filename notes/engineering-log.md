@@ -928,3 +928,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-05-28T17:01:36+05:00`: refactor: simplify request validation middleware
 - `2026-05-29T19:06:02+05:00`: docs: add setup instructions for local development
 - `2026-06-01T10:05:44+05:00`: refactor: simplify request validation middleware
+- `2026-06-01T14:37:30+05:00`: feat: implement adaptive frame rate controller
