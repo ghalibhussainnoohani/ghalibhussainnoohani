@@ -977,3 +977,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-02T20:37:09+05:00`: docs: add setup instructions for local development
 - `2026-06-03T18:02:29+05:00`: chore: format codebase and organize imports
 - `2026-06-03T20:21:14+05:00`: refactor: clean up utility functions and typing
+- `2026-06-03T12:55:54+05:00`: fix: correct timestamp offset in audit logger
