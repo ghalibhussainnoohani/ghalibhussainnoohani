@@ -980,3 +980,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-03T12:55:54+05:00`: fix: correct timestamp offset in audit logger
 - `2026-06-03T13:42:36+05:00`: feat: add benchmark script for inference latency
 - `2026-06-04T10:03:48+05:00`: fix: handle stream reconnection on socket drop
+- `2026-06-04T12:37:41+05:00`: fix: correct timestamp offset in audit logger
