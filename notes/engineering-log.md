@@ -933,3 +933,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-04T15:10:26+05:00`: fix: handle stream reconnection on socket drop
 - `2026-06-04T17:27:40+05:00`: perf: reduce memory footprint during model warmup
 - `2026-06-05T19:56:23+05:00`: feat: implement adaptive frame rate controller
+- `2026-06-05T19:44:08+05:00`: perf: enable zero-copy tensor conversion where available
