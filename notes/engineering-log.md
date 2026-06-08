@@ -935,3 +935,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-05T19:56:23+05:00`: feat: implement adaptive frame rate controller
 - `2026-06-05T19:44:08+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-06-05T12:41:47+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-06-08T16:39:37+05:00`: feat: add support for RTSP stream timeout handling
