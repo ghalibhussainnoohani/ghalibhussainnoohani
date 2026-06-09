@@ -984,3 +984,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-05T22:48:52+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-06-08T16:58:31+05:00`: chore: update dependencies and bump minor versions
 - `2026-06-09T12:42:56+05:00`: refactor: decouple inference engine from websocket service
+- `2026-06-09T20:25:40+05:00`: fix: handle stream reconnection on socket drop
