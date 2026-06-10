@@ -986,3 +986,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-09T12:42:56+05:00`: refactor: decouple inference engine from websocket service
 - `2026-06-09T20:25:40+05:00`: fix: handle stream reconnection on socket drop
 - `2026-06-10T22:38:02+05:00`: docs: add setup instructions for local development
+- `2026-06-10T19:36:44+05:00`: perf: enable zero-copy tensor conversion where available
