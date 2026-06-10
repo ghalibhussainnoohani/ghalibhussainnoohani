@@ -985,3 +985,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-08T16:58:31+05:00`: chore: update dependencies and bump minor versions
 - `2026-06-09T12:42:56+05:00`: refactor: decouple inference engine from websocket service
 - `2026-06-09T20:25:40+05:00`: fix: handle stream reconnection on socket drop
+- `2026-06-10T22:38:02+05:00`: docs: add setup instructions for local development
