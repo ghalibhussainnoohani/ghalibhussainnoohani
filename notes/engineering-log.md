@@ -993,3 +993,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-11T11:28:59+05:00`: feat: add benchmark script for inference latency
 - `2026-06-12T11:45:33+05:00`: test: add unit tests for camera service initialization
 - `2026-06-12T22:42:36+05:00`: docs: document deployment architectures and configs
+- `2026-06-12T17:17:56+05:00`: feat: implement adaptive frame rate controller
