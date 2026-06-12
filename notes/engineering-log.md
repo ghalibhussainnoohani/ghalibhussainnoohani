@@ -943,3 +943,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-11T18:35:53+05:00`: refactor: simplify request validation middleware
 - `2026-06-11T20:56:16+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-06-12T21:05:04+05:00`: docs: document deployment architectures and configs
+- `2026-06-12T14:34:25+05:00`: perf: reduce memory footprint during model warmup
