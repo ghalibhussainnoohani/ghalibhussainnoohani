@@ -995,3 +995,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-12T22:42:36+05:00`: docs: document deployment architectures and configs
 - `2026-06-12T17:17:56+05:00`: feat: implement adaptive frame rate controller
 - `2026-06-14T17:34:18+05:00`: refactor: decouple inference engine from websocket service
+- `2026-06-14T19:40:40+05:00`: perf: optimize database query execution plan
