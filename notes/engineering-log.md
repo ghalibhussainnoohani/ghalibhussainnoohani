@@ -997,3 +997,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-14T17:34:18+05:00`: refactor: decouple inference engine from websocket service
 - `2026-06-14T19:40:40+05:00`: perf: optimize database query execution plan
 - `2026-06-15T20:48:51+05:00`: fix: correct timestamp offset in audit logger
+- `2026-06-16T14:17:45+05:00`: feat: add support for RTSP stream timeout handling
