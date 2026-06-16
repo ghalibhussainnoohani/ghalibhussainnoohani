@@ -948,3 +948,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-14T21:36:36+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-06-14T16:49:41+05:00`: fix: resolve race condition in connection manager
 - `2026-06-16T21:27:53+05:00`: feat: add benchmark script for inference latency
+- `2026-06-16T18:26:23+05:00`: perf: reduce memory footprint during model warmup
