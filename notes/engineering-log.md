@@ -951,3 +951,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-16T18:26:23+05:00`: perf: reduce memory footprint during model warmup
 - `2026-06-16T19:12:28+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-06-18T22:51:47+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-06-18T15:32:39+05:00`: docs: update API documentation and endpoint schemas
