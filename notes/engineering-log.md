@@ -1000,3 +1000,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-16T14:17:45+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-06-16T11:29:25+05:00`: fix: handle stream reconnection on socket drop
 - `2026-06-16T10:02:31+05:00`: feat: implement adaptive frame rate controller
+- `2026-06-18T16:59:04+05:00`: fix: handle stream reconnection on socket drop
