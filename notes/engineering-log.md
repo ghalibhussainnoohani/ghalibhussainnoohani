@@ -1006,3 +1006,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-19T17:43:49+05:00`: test: add unit tests for camera service initialization
 - `2026-06-22T16:09:58+05:00`: perf: reduce memory footprint during model warmup
 - `2026-06-22T15:10:36+05:00`: test: add unit tests for camera service initialization
+- `2026-06-23T21:00:17+05:00`: docs: document deployment architectures and configs
