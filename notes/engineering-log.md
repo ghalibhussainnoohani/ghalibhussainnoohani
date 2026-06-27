@@ -958,3 +958,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-25T21:47:33+05:00`: docs: add setup instructions for local development
 - `2026-06-26T15:18:42+05:00`: perf: optimize database query execution plan
 - `2026-06-27T14:38:20+05:00`: docs: update API documentation and endpoint schemas
+- `2026-06-27T15:18:55+05:00`: fix: handle stream reconnection on socket drop
