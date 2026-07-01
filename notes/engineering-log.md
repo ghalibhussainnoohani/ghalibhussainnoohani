@@ -1014,3 +1014,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-29T15:02:01+05:00`: fix: resolve race condition in connection manager
 - `2026-06-30T12:06:18+05:00`: docs: add setup instructions for local development
 - `2026-06-30T17:14:37+05:00`: fix: resolve race condition in connection manager
+- `2026-07-01T11:44:34+05:00`: refactor: decouple inference engine from websocket service
