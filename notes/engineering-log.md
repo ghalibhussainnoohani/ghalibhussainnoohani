@@ -1016,3 +1016,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-30T17:14:37+05:00`: fix: resolve race condition in connection manager
 - `2026-07-01T11:44:34+05:00`: refactor: decouple inference engine from websocket service
 - `2026-07-01T20:01:12+05:00`: feat: integrate health check ping for active streams
+- `2026-07-02T17:48:48+05:00`: perf: enable zero-copy tensor conversion where available
