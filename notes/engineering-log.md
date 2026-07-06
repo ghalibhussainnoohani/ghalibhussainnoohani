@@ -967,3 +967,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-03T14:57:06+05:00`: feat: implement adaptive frame rate controller
 - `2026-07-06T20:35:55+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-07-06T14:50:11+05:00`: perf: enable zero-copy tensor conversion where available
+- `2026-07-06T13:52:02+05:00`: docs: add setup instructions for local development
