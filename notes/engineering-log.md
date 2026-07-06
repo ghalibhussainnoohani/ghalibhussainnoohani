@@ -965,3 +965,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-06-30T21:15:57+05:00`: docs: update API documentation and endpoint schemas
 - `2026-07-01T13:35:30+05:00`: refactor: simplify request validation middleware
 - `2026-07-03T14:57:06+05:00`: feat: implement adaptive frame rate controller
+- `2026-07-06T20:35:55+05:00`: fix: handle edge cases in coordinates normalization
