@@ -970,3 +970,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-06T13:52:02+05:00`: docs: add setup instructions for local development
 - `2026-07-07T15:06:51+05:00`: fix: resolve race condition in connection manager
 - `2026-07-07T17:26:51+05:00`: feat: support custom bounding box color coding
+- `2026-07-08T16:49:51+05:00`: fix: correct timestamp offset in audit logger
