@@ -972,3 +972,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-07T17:26:51+05:00`: feat: support custom bounding box color coding
 - `2026-07-08T16:49:51+05:00`: fix: correct timestamp offset in audit logger
 - `2026-07-08T12:16:15+05:00`: refactor: clean up utility functions and typing
+- `2026-07-10T12:28:40+05:00`: refactor: decouple inference engine from websocket service
