@@ -977,3 +977,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-13T20:28:41+05:00`: feat: implement retry policy for transient network drops
 - `2026-07-13T20:02:16+05:00`: fix: handle stream reconnection on socket drop
 - `2026-07-13T20:17:14+05:00`: feat: introduce async event emitter for telemetry
+- `2026-07-14T16:57:18+05:00`: feat: add image preprocessing pipeline for vision model
