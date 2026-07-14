@@ -1035,3 +1035,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-13T22:25:37+05:00`: fix: correct timestamp offset in audit logger
 - `2026-07-13T16:55:34+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-07-14T12:05:09+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-07-14T11:01:48+05:00`: perf: reduce memory footprint during model warmup
