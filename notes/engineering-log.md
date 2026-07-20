@@ -986,3 +986,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-16T12:39:46+05:00`: refactor: clean up utility functions and typing
 - `2026-07-19T18:04:29+05:00`: chore: update dependencies and bump minor versions
 - `2026-07-19T13:38:23+05:00`: refactor: simplify request validation middleware
+- `2026-07-20T18:24:34+05:00`: feat: support custom bounding box color coding
