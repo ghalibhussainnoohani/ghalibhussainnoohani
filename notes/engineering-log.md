@@ -1046,3 +1046,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-20T20:34:36+05:00`: refactor: decouple inference engine from websocket service
 - `2026-07-20T14:43:07+05:00`: refactor: clean up utility functions and typing
 - `2026-07-21T21:12:37+05:00`: feat: support custom bounding box color coding
+- `2026-07-21T16:35:19+05:00`: perf: optimize frame buffer allocation in streaming loop
