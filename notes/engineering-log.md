@@ -1048,3 +1048,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-21T21:12:37+05:00`: feat: support custom bounding box color coding
 - `2026-07-21T16:35:19+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-07-21T17:33:01+05:00`: feat: implement adaptive frame rate controller
+- `2026-07-22T13:44:02+05:00`: refactor: clean up utility functions and typing
