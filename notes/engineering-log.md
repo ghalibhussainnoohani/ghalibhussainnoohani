@@ -990,3 +990,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-21T20:12:56+05:00`: docs: update API documentation and endpoint schemas
 - `2026-07-23T18:18:04+05:00`: perf: reduce memory footprint during model warmup
 - `2026-07-24T19:33:16+05:00`: feat: support custom bounding box color coding
+- `2026-07-30T21:41:18+05:00`: feat: support custom bounding box color coding
