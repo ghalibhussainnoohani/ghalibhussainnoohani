@@ -992,3 +992,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-24T19:33:16+05:00`: feat: support custom bounding box color coding
 - `2026-07-30T21:41:18+05:00`: feat: support custom bounding box color coding
 - `2026-07-30T18:36:52+05:00`: fix: resolve race condition in connection manager
+- `2026-07-31T20:02:07+05:00`: test: add unit tests for camera service initialization
