@@ -996,3 +996,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-31T20:48:42+05:00`: chore: update dependencies and bump minor versions
 - `2026-07-31T10:51:51+05:00`: test: add unit tests for camera service initialization
 - `2026-07-31T21:07:35+05:00`: perf: enable zero-copy tensor conversion where available
+- `2026-08-01T17:12:09+05:00`: fix: correct timestamp offset in audit logger
