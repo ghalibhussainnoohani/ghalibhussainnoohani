@@ -1067,3 +1067,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-07-31T22:25:15+05:00`: refactor: decouple inference engine from websocket service
 - `2026-07-31T12:49:29+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-07-31T13:57:36+05:00`: fix: correct timestamp offset in audit logger
+- `2026-08-04T18:12:33+05:00`: fix: handle edge cases in coordinates normalization
