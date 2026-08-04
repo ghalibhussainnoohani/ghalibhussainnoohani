@@ -1070,3 +1070,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-04T18:12:33+05:00`: fix: handle edge cases in coordinates normalization
 - `2026-08-04T19:47:57+05:00`: feat: introduce async event emitter for telemetry
 - `2026-08-04T20:24:27+05:00`: feat: introduce async event emitter for telemetry
+- `2026-08-04T19:04:58+05:00`: fix: resolve race condition in connection manager
