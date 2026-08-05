@@ -1000,3 +1000,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-01T10:59:42+05:00`: chore: format codebase and organize imports
 - `2026-08-01T10:01:22+05:00`: fix: handle stream reconnection on socket drop
 - `2026-08-01T19:43:04+05:00`: fix: correct timestamp offset in audit logger
+- `2026-08-05T21:49:06+05:00`: fix: resolve race condition in connection manager
