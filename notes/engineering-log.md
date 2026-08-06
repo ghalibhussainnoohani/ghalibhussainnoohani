@@ -1074,3 +1074,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-05T14:02:55+05:00`: refactor: decouple inference engine from websocket service
 - `2026-08-05T11:48:12+05:00`: refactor: decouple inference engine from websocket service
 - `2026-08-06T14:28:21+05:00`: refactor: decouple inference engine from websocket service
+- `2026-08-06T13:37:57+05:00`: perf: enable zero-copy tensor conversion where available
