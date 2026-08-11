@@ -1002,3 +1002,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-01T19:43:04+05:00`: fix: correct timestamp offset in audit logger
 - `2026-08-05T21:49:06+05:00`: fix: resolve race condition in connection manager
 - `2026-08-10T22:52:13+05:00`: feat: implement adaptive frame rate controller
+- `2026-08-11T13:15:24+05:00`: feat: add support for RTSP stream timeout handling
