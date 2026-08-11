@@ -1079,3 +1079,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-07T15:39:15+05:00`: docs: add setup instructions for local development
 - `2026-08-10T17:58:33+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-08-10T17:02:03+05:00`: feat: add benchmark script for inference latency
+- `2026-08-11T10:50:04+05:00`: feat: add image preprocessing pipeline for vision model
