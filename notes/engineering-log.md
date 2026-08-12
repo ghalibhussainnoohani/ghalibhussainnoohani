@@ -1004,3 +1004,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-10T22:52:13+05:00`: feat: implement adaptive frame rate controller
 - `2026-08-11T13:15:24+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-08-12T17:24:54+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-08-12T12:04:28+05:00`: feat: support custom bounding box color coding
