@@ -1006,3 +1006,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-12T17:24:54+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-08-12T12:04:28+05:00`: feat: support custom bounding box color coding
 - `2026-08-12T22:15:32+05:00`: perf: reduce memory footprint during model warmup
+- `2026-08-13T10:59:10+05:00`: test: add unit tests for camera service initialization
