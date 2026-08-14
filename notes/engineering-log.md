@@ -1081,3 +1081,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-10T17:02:03+05:00`: feat: add benchmark script for inference latency
 - `2026-08-11T10:50:04+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-08-12T11:27:19+05:00`: refactor: clean up utility functions and typing
+- `2026-08-14T20:13:25+05:00`: feat: support custom bounding box color coding
