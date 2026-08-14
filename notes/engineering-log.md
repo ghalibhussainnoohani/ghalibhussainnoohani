@@ -1083,3 +1083,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-12T11:27:19+05:00`: refactor: clean up utility functions and typing
 - `2026-08-14T20:13:25+05:00`: feat: support custom bounding box color coding
 - `2026-08-14T20:50:46+05:00`: fix: handle edge cases in coordinates normalization
+- `2026-08-14T22:55:19+05:00`: feat: add benchmark script for inference latency
