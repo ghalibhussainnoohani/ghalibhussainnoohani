@@ -1096,3 +1096,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-22T21:39:08+05:00`: chore: update dependencies and bump minor versions
 - `2026-08-23T11:30:45+05:00`: feat: introduce async event emitter for telemetry
 - `2026-08-23T21:46:41+05:00`: feat: support custom bounding box color coding
+- `2026-08-23T10:28:25+05:00`: perf: optimize frame buffer allocation in streaming loop
