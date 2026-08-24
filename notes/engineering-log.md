@@ -1020,3 +1020,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-22T18:14:38+05:00`: test: add unit tests for camera service initialization
 - `2026-08-23T21:29:19+05:00`: refactor: simplify request validation middleware
 - `2026-08-24T22:16:15+05:00`: refactor: simplify request validation middleware
+- `2026-08-24T18:25:21+05:00`: feat: support custom bounding box color coding
