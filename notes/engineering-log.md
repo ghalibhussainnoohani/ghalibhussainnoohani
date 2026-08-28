@@ -1099,3 +1099,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-23T10:28:25+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-08-26T10:54:26+05:00`: fix: handle stream reconnection on socket drop
 - `2026-08-26T20:42:13+05:00`: feat: implement adaptive frame rate controller
+- `2026-08-28T16:24:31+05:00`: feat: add benchmark script for inference latency
