@@ -1028,3 +1028,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-28T19:18:17+05:00`: perf: reduce memory footprint during model warmup
 - `2026-08-28T17:35:32+05:00`: fix: correct timestamp offset in audit logger
 - `2026-08-29T15:14:24+05:00`: refactor: simplify request validation middleware
+- `2026-08-29T22:46:26+05:00`: perf: optimize database query execution plan
