@@ -1105,3 +1105,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-08-29T18:35:41+05:00`: refactor: decouple inference engine from websocket service
 - `2026-08-29T18:54:06+05:00`: refactor: decouple inference engine from websocket service
 - `2026-08-31T19:02:32+05:00`: chore: update dependencies and bump minor versions
+- `2026-09-01T21:46:30+05:00`: feat: add support for RTSP stream timeout handling
