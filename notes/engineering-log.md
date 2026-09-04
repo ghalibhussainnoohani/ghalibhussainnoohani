@@ -1038,3 +1038,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-03T15:53:36+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-09-03T20:41:03+05:00`: refactor: clean up utility functions and typing
 - `2026-09-03T16:52:51+05:00`: docs: add setup instructions for local development
+- `2026-09-04T15:01:58+05:00`: feat: introduce async event emitter for telemetry
