@@ -1114,3 +1114,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-03T20:27:43+05:00`: feat: introduce async event emitter for telemetry
 - `2026-09-03T16:14:43+05:00`: feat: implement retry policy for transient network drops
 - `2026-09-03T11:58:35+05:00`: chore: update dependencies and bump minor versions
+- `2026-09-04T12:45:57+05:00`: refactor: decouple inference engine from websocket service
