@@ -1041,3 +1041,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-04T15:01:58+05:00`: feat: introduce async event emitter for telemetry
 - `2026-09-04T22:55:19+05:00`: docs: document deployment architectures and configs
 - `2026-09-06T15:13:59+05:00`: docs: add setup instructions for local development
+- `2026-09-07T20:32:34+05:00`: docs: add setup instructions for local development
