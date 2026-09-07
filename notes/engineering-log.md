@@ -1120,3 +1120,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-04T18:14:32+05:00`: test: add unit tests for camera service initialization
 - `2026-09-07T13:20:06+05:00`: feat: implement adaptive frame rate controller
 - `2026-09-07T22:58:53+05:00`: fix: resolve race condition in connection manager
+- `2026-09-07T12:00:22+05:00`: feat: add support for RTSP stream timeout handling
