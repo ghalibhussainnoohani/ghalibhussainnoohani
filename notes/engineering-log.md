@@ -1121,3 +1121,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-07T13:20:06+05:00`: feat: implement adaptive frame rate controller
 - `2026-09-07T22:58:53+05:00`: fix: resolve race condition in connection manager
 - `2026-09-07T12:00:22+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-09-08T19:06:24+05:00`: feat: support custom bounding box color coding
