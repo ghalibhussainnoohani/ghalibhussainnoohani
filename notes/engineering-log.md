@@ -1126,3 +1126,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-09T22:06:00+05:00`: docs: add setup instructions for local development
 - `2026-09-09T12:11:49+05:00`: perf: optimize database query execution plan
 - `2026-09-09T21:22:45+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-09-09T16:02:30+05:00`: perf: optimize frame buffer allocation in streaming loop
