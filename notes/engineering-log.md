@@ -1044,3 +1044,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-07T20:32:34+05:00`: docs: add setup instructions for local development
 - `2026-09-08T19:08:22+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-09-09T12:27:37+05:00`: docs: document deployment architectures and configs
+- `2026-09-09T18:15:11+05:00`: refactor: clean up utility functions and typing
