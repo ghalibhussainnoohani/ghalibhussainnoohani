@@ -1045,3 +1045,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-08T19:08:22+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-09-09T12:27:37+05:00`: docs: document deployment architectures and configs
 - `2026-09-09T18:15:11+05:00`: refactor: clean up utility functions and typing
+- `2026-09-10T21:25:54+05:00`: fix: resolve race condition in connection manager
