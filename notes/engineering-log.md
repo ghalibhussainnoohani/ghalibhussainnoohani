@@ -1134,3 +1134,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-16T13:16:21+05:00`: feat: implement retry policy for transient network drops
 - `2026-09-17T11:44:26+05:00`: refactor: clean up utility functions and typing
 - `2026-09-17T17:31:48+05:00`: perf: reduce memory footprint during model warmup
+- `2026-09-18T19:08:39+05:00`: docs: add setup instructions for local development
