@@ -1137,3 +1137,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-18T19:08:39+05:00`: docs: add setup instructions for local development
 - `2026-09-18T17:58:29+05:00`: docs: add setup instructions for local development
 - `2026-09-20T15:56:55+05:00`: perf: optimize database query execution plan
+- `2026-09-21T15:49:54+05:00`: fix: correct timestamp offset in audit logger
