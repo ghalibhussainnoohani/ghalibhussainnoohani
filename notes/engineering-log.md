@@ -1059,3 +1059,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-18T10:32:41+05:00`: docs: update API documentation and endpoint schemas
 - `2026-09-25T14:55:43+05:00`: test: add unit tests for camera service initialization
 - `2026-09-25T16:20:13+05:00`: feat: support custom bounding box color coding
+- `2026-09-27T20:20:31+05:00`: fix: handle stream reconnection on socket drop
