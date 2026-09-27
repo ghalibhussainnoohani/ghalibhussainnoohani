@@ -1148,3 +1148,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-25T22:33:43+05:00`: docs: document deployment architectures and configs
 - `2026-09-25T12:24:51+05:00`: test: add unit tests for camera service initialization
 - `2026-09-27T11:49:45+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-09-27T18:07:59+05:00`: feat: implement adaptive frame rate controller
