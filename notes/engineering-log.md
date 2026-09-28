@@ -1060,3 +1060,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-25T14:55:43+05:00`: test: add unit tests for camera service initialization
 - `2026-09-25T16:20:13+05:00`: feat: support custom bounding box color coding
 - `2026-09-27T20:20:31+05:00`: fix: handle stream reconnection on socket drop
+- `2026-09-28T17:46:21+05:00`: feat: implement retry policy for transient network drops
