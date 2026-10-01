@@ -1063,3 +1063,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-28T17:46:21+05:00`: feat: implement retry policy for transient network drops
 - `2026-09-28T14:49:56+05:00`: refactor: simplify request validation middleware
 - `2026-09-28T10:37:19+05:00`: feat: support custom bounding box color coding
+- `2026-10-01T18:19:26+05:00`: docs: document deployment architectures and configs
