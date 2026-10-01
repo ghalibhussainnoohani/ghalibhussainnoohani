@@ -1064,3 +1064,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-28T14:49:56+05:00`: refactor: simplify request validation middleware
 - `2026-09-28T10:37:19+05:00`: feat: support custom bounding box color coding
 - `2026-10-01T18:19:26+05:00`: docs: document deployment architectures and configs
+- `2026-10-01T10:03:23+05:00`: docs: update API documentation and endpoint schemas
