@@ -1066,3 +1066,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-01T18:19:26+05:00`: docs: document deployment architectures and configs
 - `2026-10-01T10:03:23+05:00`: docs: update API documentation and endpoint schemas
 - `2026-10-01T13:06:41+05:00`: chore: format codebase and organize imports
+- `2026-10-02T22:15:18+05:00`: refactor: decouple inference engine from websocket service
