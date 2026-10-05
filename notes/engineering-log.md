@@ -1157,3 +1157,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-09-30T16:04:28+05:00`: docs: add setup instructions for local development
 - `2026-10-01T15:17:02+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-10-01T17:37:20+05:00`: perf: enable zero-copy tensor conversion where available
+- `2026-10-05T17:11:08+05:00`: perf: reduce memory footprint during model warmup
