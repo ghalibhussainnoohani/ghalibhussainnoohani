@@ -1069,3 +1069,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-02T22:15:18+05:00`: refactor: decouple inference engine from websocket service
 - `2026-10-05T22:33:53+05:00`: feat: implement adaptive frame rate controller
 - `2026-10-05T22:28:13+05:00`: test: add unit tests for camera service initialization
+- `2026-10-05T15:58:24+05:00`: perf: optimize frame buffer allocation in streaming loop
