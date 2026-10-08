@@ -1162,3 +1162,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-06T22:59:19+05:00`: fix: correct timestamp offset in audit logger
 - `2026-10-06T14:12:05+05:00`: perf: reduce memory footprint during model warmup
 - `2026-10-07T15:59:19+05:00`: chore: format codebase and organize imports
+- `2026-10-08T16:13:22+05:00`: perf: enable zero-copy tensor conversion where available
