@@ -1080,3 +1080,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-12T20:48:18+05:00`: perf: reduce memory footprint during model warmup
 - `2026-10-12T18:55:40+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-10-13T10:30:48+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-10-13T14:54:23+05:00`: refactor: decouple inference engine from websocket service
