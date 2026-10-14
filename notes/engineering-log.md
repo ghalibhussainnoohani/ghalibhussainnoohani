@@ -1081,3 +1081,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-12T18:55:40+05:00`: feat: add image preprocessing pipeline for vision model
 - `2026-10-13T10:30:48+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-10-13T14:54:23+05:00`: refactor: decouple inference engine from websocket service
+- `2026-10-14T15:37:11+05:00`: docs: document deployment architectures and configs
