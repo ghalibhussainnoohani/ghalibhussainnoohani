@@ -1091,3 +1091,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-21T19:59:53+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-10-22T15:01:30+05:00`: chore: format codebase and organize imports
 - `2026-10-23T16:23:04+05:00`: fix: correct timestamp offset in audit logger
+- `2026-10-23T11:15:08+05:00`: fix: handle stream reconnection on socket drop
