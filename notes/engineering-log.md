@@ -1177,3 +1177,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-22T18:38:30+05:00`: refactor: clean up utility functions and typing
 - `2026-10-23T17:10:05+05:00`: chore: update dependencies and bump minor versions
 - `2026-10-23T13:46:21+05:00`: feat: implement adaptive frame rate controller
+- `2026-10-26T18:48:02+05:00`: perf: reduce memory footprint during model warmup
