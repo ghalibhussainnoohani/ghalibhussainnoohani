@@ -1103,3 +1103,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-28T16:29:39+05:00`: test: add unit tests for camera service initialization
 - `2026-10-30T16:31:16+05:00`: feat: implement adaptive frame rate controller
 - `2026-10-30T22:10:13+05:00`: docs: add setup instructions for local development
+- `2026-10-30T14:30:13+05:00`: perf: optimize frame buffer allocation in streaming loop
