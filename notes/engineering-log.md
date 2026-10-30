@@ -1181,3 +1181,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-29T15:49:18+05:00`: feat: implement retry policy for transient network drops
 - `2026-10-29T11:40:05+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-10-30T13:16:04+05:00`: feat: integrate health check ping for active streams
+- `2026-10-30T15:04:32+05:00`: fix: handle stream reconnection on socket drop
