@@ -1184,3 +1184,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-30T15:04:32+05:00`: fix: handle stream reconnection on socket drop
 - `2026-10-31T14:10:59+05:00`: docs: update API documentation and endpoint schemas
 - `2026-10-31T18:11:06+05:00`: perf: optimize frame buffer allocation in streaming loop
+- `2026-10-31T22:26:33+05:00`: feat: add image preprocessing pipeline for vision model
