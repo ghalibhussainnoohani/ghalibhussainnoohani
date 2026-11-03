@@ -1106,3 +1106,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-10-30T14:30:13+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-11-02T16:39:56+05:00`: feat: add support for RTSP stream timeout handling
 - `2026-11-02T14:16:07+05:00`: docs: add setup instructions for local development
+- `2026-11-03T16:58:17+05:00`: feat: introduce async event emitter for telemetry
