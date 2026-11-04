@@ -1108,3 +1108,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-11-02T14:16:07+05:00`: docs: add setup instructions for local development
 - `2026-11-03T16:58:17+05:00`: feat: introduce async event emitter for telemetry
 - `2026-11-04T15:49:53+05:00`: feat: add support for RTSP stream timeout handling
+- `2026-11-04T22:03:21+05:00`: fix: handle edge cases in coordinates normalization
