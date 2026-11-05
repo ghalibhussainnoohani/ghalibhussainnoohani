@@ -1191,3 +1191,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-11-03T18:26:54+05:00`: perf: optimize frame buffer allocation in streaming loop
 - `2026-11-04T16:53:11+05:00`: chore: update dependencies and bump minor versions
 - `2026-11-04T21:12:49+05:00`: perf: optimize database query execution plan
+- `2026-11-05T20:26:22+05:00`: docs: update API documentation and endpoint schemas
