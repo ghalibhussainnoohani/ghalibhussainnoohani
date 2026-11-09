@@ -1198,3 +1198,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-11-07T22:20:16+05:00`: feat: implement adaptive frame rate controller
 - `2026-11-07T13:03:25+05:00`: perf: enable zero-copy tensor conversion where available
 - `2026-11-09T15:20:21+05:00`: perf: reduce memory footprint during model warmup
+- `2026-11-09T11:13:03+05:00`: docs: document deployment architectures and configs
