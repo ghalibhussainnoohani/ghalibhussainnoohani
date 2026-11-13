@@ -1202,3 +1202,4 @@ Daily technical notes, architecture decisions, and development milestones.
 - `2026-11-09T12:57:14+05:00`: test: add unit tests for camera service initialization
 - `2026-11-12T22:55:09+05:00`: chore: update dependencies and bump minor versions
 - `2026-11-12T12:41:09+05:00`: docs: add setup instructions for local development
+- `2026-11-13T22:52:57+05:00`: refactor: simplify request validation middleware
