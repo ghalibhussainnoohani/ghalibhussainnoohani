@@ -106,16 +106,16 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0&cache_seconds=120&bust=2" height="185" alt="Ghalib's Lifetime Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0&cache_seconds=60&v=3.5" height="185" alt="Ghalib's Lifetime Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&bust=2" height="185" alt="Ghalib's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&v=3.5" height="185" alt="Ghalib's Streak Stats" />
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&bust=2" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&v=3.5" height="150" alt="Top Languages" />
   </p>
 </div>
 
