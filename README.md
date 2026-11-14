@@ -24,13 +24,13 @@
 Developer: Ghalib Hussain
 Username: @ghalibhussainnoohani
 Focus: AI & Computer Vision | Full-Stack Web | Cross-Platform Mobile | Game Dev
-Current_Project: Real-time YOLOv8 Surveillance & Security Intelligence Platform
+Current_Project: 3D WebGL Racing Engine & Real-time YOLOv8 Surveillance Platform
 Core_Philosophy: "Build fast, scalable, and intelligent software that solves real-world challenges."
 ```
 
 - 🤖 **Artificial Intelligence & Vision:** Specialized in real-time object tracking, YOLO models, computer vision pipelines, and LLM integrations.
 - 🌐 **Web & Full-Stack:** Crafting reactive, high-speed applications with FastAPI, React, Node.js, and modern cloud databases.
-- 🎮 **Game & Mobile Apps:** Building cross-platform apps and interactive game mechanics (Unity, C#, Flutter).
+- 🎮 **Game & Mobile Apps:** Building cross-platform apps and interactive game mechanics (WebGL, Three.js, Unity, Flutter).
 - ⚡ **Performance & Architecture:** Deep focus on async architecture, low-latency video streaming (MJPEG/WebSockets), and scalable API design.
 
 ---
@@ -69,6 +69,8 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
 
 #### 🎮 Games & Mobile Apps
 <p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -109,7 +111,10 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
 
 ---
 
-### 🔥 Featured Projects & Contributions
+### 🔥 Featured Projects & Live Demos
+
+- 🏎️ **[3D Anti-Gravity Racing Game](https://github.com/ghalibhussainnoohani/3d-racing-game)** • **[🎮 Play Live Demo](https://ghalibhussainnoohani.github.io/3d-racing-game/)**  
+  Full-spectrum 3D anti-gravity racing game built with WebGL & Three.js featuring real-time vehicle physics, dynamic telemetry HUD, algorithmic procedural techno synthesizer, and custom circuit tracks.
 
 - 👁️ **[Technify VisionAI](https://github.com/Sabakhoso/technify-visionai)**  
   Enterprise AI-powered video surveillance and safety monitoring system featuring real-time YOLOv8 object detection, multi-camera live feeds, automated alerts, and WebSocket event telemetry.
