@@ -92,22 +92,22 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
 
 ---
 
-### 📊 Real-Time GitHub Statistics (Lifetime & All Commits)
+### 📊 Real-Time GitHub Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's Lifetime Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&count_private=true" height="175" alt="Ghalib's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="175" alt="Ghalib's Streak Stats" />
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&count_private=true" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="150" alt="Top Languages" />
   </p>
 </div>
 
