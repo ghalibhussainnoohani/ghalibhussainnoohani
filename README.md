@@ -10,6 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/ghalibhussainnoohani?tab=followers"><img src="https://img.shields.io/github/followers/ghalibhussainnoohani?label=Followers&logo=github&style=for-the-badge&color=2563EB" alt="Followers"/></a>
+    <img src="https://komarev.com/ghpvc/?username=ghalibhussainnoohani&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/ghalibhussainnoohani"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/></a>
     <a href="mailto:noohanighalib@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
@@ -85,16 +86,16 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="175" alt="Ghalib's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="175" alt="Ghalib's Streak Stats" />
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="150" alt="Top Languages" />
   </p>
 </div>
 
