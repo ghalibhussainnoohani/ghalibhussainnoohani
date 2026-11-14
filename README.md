@@ -153,7 +153,7 @@ I am a Software Engineer and Creative Technologist focused on building resilient
         <img src="https://github-readme-stats-fast.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&include_all_commits=true&count_private=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3&border_color=451126" height="185" alt="Ghalib's Lifetime Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&background=10070C&border=451126&stroke=701A3D&ring=C77B9B&fire=E5B5C7&currStreakNum=F8F0F3&currStreakLabel=C77B9B&sideNums=F8F0F3&sideLabels=A39099&dates=701A3D" height="185" alt="Ghalib's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&timezone=Asia%2FKarachi&background=10070C&border=451126&stroke=701A3D&ring=C77B9B&fire=E5B5C7&currStreakNum=F8F0F3&currStreakLabel=C77B9B&sideNums=F8F0F3&sideLabels=A39099&dates=701A3D" height="185" alt="Ghalib's Streak Stats" />
       </td>
     </tr>
   </table>
