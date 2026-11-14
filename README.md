@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 01. Animated Hero Banner -->
-  <img src="assets/hero.svg" alt="Ghalib Hussain - AI/ML Engineer & Full-Stack Architect" width="100%" />
+  <img src="https://raw.githubusercontent.com/ghalibhussainnoohani/ghalibhussainnoohani/main/assets/hero.svg" alt="Ghalib Hussain - AI/ML Engineer & Full-Stack Architect" width="100%" />
 
   <br />
 
@@ -24,12 +24,16 @@
 
 ---
 
-### 🏛️ Executive Summary
+### 💻 `ghalib@workspace:~$ cat about.json`
 
-```ansi
-[1;35m[IDENTITY][0m Ghalib Hussain | AI/ML Engineer & Creative Technologist
-[1;35m[SPECIALIZATION][0m Real-Time Computer Vision • High-Throughput Web Systems • 3D WebGL Graphics
-[1;35m[PHILOSOPHY][0m Developing performant, scalable software at the intersection of mathematical rigor and cinematic experience.
+```json
+{
+  "engineer": "Ghalib Hussain",
+  "role": "AI/ML Engineer & Creative Technologist",
+  "specialization": "Real-Time Computer Vision • High-Throughput Systems • 3D WebGL",
+  "focus": "Low-latency streaming architectures & autonomous vision pipelines",
+  "philosophy": "Developing scalable software at the intersection of mathematical rigor and cinematic experience."
+}
 ```
 
 I am a Software Engineer and Creative Technologist focused on building resilient systems that solve complex computational problems. My work spans deep learning inference pipelines (YOLOv8, PyTorch), reactive full-stack web platforms (FastAPI, React), and interactive 3D simulations (WebGL, Three.js).
@@ -89,17 +93,31 @@ I am a Software Engineer and Creative Technologist focused on building resilient
 
 ### 🧰 Technical Arsenal
 
+<div align="center">
+  <p><strong>AI, Vision & Core Engineering</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,postgres,sqlite,docker,git,linux&perline=9&theme=dark" alt="AI & Systems Arsenal" />
+  </a>
+  <br /><br />
+  <p><strong>Interactive 3D, Frontend & Mobile Systems</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,unity,cs,flutter,tailwind,vscode&perline=9&theme=dark" alt="Frontend & Graphics Arsenal" />
+  </a>
+</div>
+
+<br />
+
 <table>
   <thead>
     <tr>
       <th align="left">Domain</th>
-      <th align="left">Verified Technologies</th>
+      <th align="left">Verified Stack &amp; Libraries</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>Artificial Intelligence &amp; Vision</b></td>
-      <td><code>Python</code> <code>PyTorch</code> <code>YOLOv8</code> <code>OpenCV</code> <code>NumPy</code> <code>Deep Learning Inference</code></td>
+      <td><code>Python</code> <code>PyTorch</code> <code>YOLOv8</code> <code>OpenCV</code> <code>NumPy</code> <code>Edge AI Inference</code></td>
     </tr>
     <tr>
       <td><b>Graphics &amp; Frontend</b></td>
@@ -167,6 +185,6 @@ I am a Software Engineer and Creative Technologist focused on building resilient
   <br />
 
   <!-- 09. Minimal Animated SVG Footer -->
-  <img src="assets/footer.svg" alt="Ghalib Hussain Footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/ghalibhussainnoohani/ghalibhussainnoohani/main/assets/footer.svg" alt="Ghalib Hussain Footer" width="100%" />
 
 </div>
