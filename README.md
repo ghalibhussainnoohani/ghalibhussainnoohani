@@ -92,13 +92,13 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
 
 ---
 
-### 📊 Real-Time GitHub Statistics
+### 📊 Real-Time GitHub Statistics (Lifetime & All Commits)
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's Lifetime Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="175" alt="Ghalib's Streak Stats" />
