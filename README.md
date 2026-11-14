@@ -167,6 +167,46 @@ I am a Software Engineer and Creative Technologist focused on building resilient
 
 ---
 
+### 🏆 GitHub Achievements & Honors
+
+<div align="center">
+  <p>Official verified achievements, milestones &amp; open-source contributions</p>
+  <p align="center">
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" title="Quickdraw: Closed an issue or PR within 5 minutes" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO" title="YOLO: Merged PR without code review" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="90" alt="Galaxy Brain" title="Galaxy Brain: Accepted answers in discussions" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="90" alt="Pull Shark" title="Pull Shark: Merged pull requests" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits in merged PRs" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png" width="90" alt="Starstruck" title="Starstruck: Repository stars milestone" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="90" alt="GitHub Sponsor" title="GitHub Sponsor: Sponsoring open-source contributors" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" width="90" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" width="90" alt="Mars 2020 Contributor" title="Mars 2020 Contributor" />
+    </a>
+    <a href="https://github.com/ghalibhussainnoohani?tab=achievements">
+      <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="90" alt="Open Sourcerer" title="Open Sourcerer: Open Source Contributor" />
+    </a>
+  </p>
+</div>
+
+---
+
 ### 🌐 Connect & Collaborate
 
 <div align="center">
