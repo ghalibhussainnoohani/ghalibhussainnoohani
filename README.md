@@ -30,8 +30,20 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
 
 - 🤖 **Artificial Intelligence & Vision:** Specialized in real-time object tracking, YOLO models, computer vision pipelines, and LLM integrations.
 - 🌐 **Web & Full-Stack:** Crafting reactive, high-speed applications with FastAPI, React, Node.js, and modern cloud databases.
-- 📱 **Mobile & Game Apps:** Building responsive cross-platform apps and interactive game mechanics.
+- 🎮 **Game & Mobile Apps:** Building cross-platform apps and interactive game mechanics (Unity, C#, Flutter).
 - ⚡ **Performance & Architecture:** Deep focus on async architecture, low-latency video streaming (MJPEG/WebSockets), and scalable API design.
+
+---
+
+### 🐍 Contribution Graph Eating Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghalibhussainnoohani/ghalibhussainnoohani/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghalibhussainnoohani/ghalibhussainnoohani/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ghalibhussainnoohani/ghalibhussainnoohani/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
@@ -80,22 +92,22 @@ Core_Philosophy: "Build fast, scalable, and intelligent software that solves rea
 
 ---
 
-### 📊 Real-Time GitHub Statistics
+### 📊 Real-Time GitHub Statistics (Lifetime & All Commits)
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghalibhussainnoohani&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=E2E8F0" height="175" alt="Ghalib's Lifetime Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="175" alt="Ghalib's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=ghalibhussainnoohani&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&count_private=true" height="175" alt="Ghalib's Streak Stats" />
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghalibhussainnoohani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&count_private=true" height="150" alt="Top Languages" />
   </p>
 </div>
 
